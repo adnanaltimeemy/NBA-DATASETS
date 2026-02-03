@@ -1,0 +1,2001 @@
+sale_id,team,category,channel,units_sold,unit_price,sale_date,total_revenue
+1,Bucks,Jerseys,Retail Partner,3,29,2022-11-24,87
+2,Knicks,Jerseys,Retail Partner,3,171,2023-06-10,513
+3,Knicks,T-Shirts,Retail Partner,3,144,2022-03-06,432
+4,Nuggets,Hats,Arena Store,1,109,2023-01-03,109
+5,Nets,Hats,Arena Store,1,123,2022-10-14,123
+6,Bulls,Footwear,Online,1,105,2022-10-02,105
+7,Bulls,Hoodies,Online,2,73,2022-02-16,146
+8,Bulls,Hats,Arena Store,2,114,2022-07-17,228
+9,Suns,Jerseys,Arena Store,1,145,2022-05-28,145
+10,Suns,Hoodies,Arena Store,3,113,2023-01-30,339
+11,Suns,Jerseys,Retail Partner,2,153,2022-08-06,306
+12,Warriors,Hats,Online,4,133,2023-06-05,532
+13,Heat,Collectibles,Retail Partner,2,47,2023-08-22,94
+14,Suns,Collectibles,Retail Partner,2,176,2023-07-14,352
+15,Heat,Hats,Retail Partner,1,156,2022-07-09,156
+16,Bucks,Collectibles,Online,1,158,2022-10-23,158
+17,Nuggets,Jerseys,Arena Store,1,25,2022-12-02,25
+18,Suns,Hoodies,Arena Store,3,173,2022-07-09,519
+19,Clippers,Footwear,Online,1,154,2023-03-18,154
+20,Lakers,Hoodies,Arena Store,4,106,2022-10-17,424
+21,Knicks,Footwear,Retail Partner,1,130,2022-10-19,130
+22,Spurs,Hats,Retail Partner,3,95,2022-06-13,285
+23,Suns,Jerseys,Retail Partner,4,66,2023-03-24,264
+24,Clippers,Collectibles,Arena Store,3,56,2022-08-23,168
+25,Nuggets,Jerseys,Retail Partner,4,96,2023-02-22,384
+26,Celtics,T-Shirts,Online,2,127,2023-09-14,254
+27,Nets,Collectibles,Retail Partner,3,155,2023-12-02,465
+28,Nets,Footwear,Online,3,26,2022-10-21,78
+29,Warriors,Footwear,Arena Store,1,160,2023-02-25,160
+30,Nuggets,T-Shirts,Arena Store,4,150,2024-06-19,600
+31,Mavericks,Hats,Arena Store,3,168,2022-01-31,504
+32,Celtics,Footwear,Retail Partner,4,35,2022-06-04,140
+33,Heat,T-Shirts,Arena Store,1,123,2023-10-01,123
+34,Clippers,T-Shirts,Online,1,88,2022-02-04,88
+35,Nuggets,Jerseys,Retail Partner,4,95,2022-06-21,380
+36,Warriors,Hats,Online,3,144,2022-12-01,432
+37,Warriors,Hoodies,Arena Store,1,135,2023-08-30,135
+38,Knicks,Collectibles,Arena Store,2,97,2023-10-13,194
+39,Knicks,Collectibles,Arena Store,4,25,2023-04-08,100
+40,Bulls,Footwear,Arena Store,2,109,2024-03-14,218
+41,Lakers,Footwear,Arena Store,4,109,2022-10-02,436
+42,Lakers,Footwear,Retail Partner,1,111,2022-10-17,111
+43,Warriors,Hats,Arena Store,2,162,2024-05-14,324
+44,Bulls,Hoodies,Retail Partner,4,76,2023-07-09,304
+45,Bulls,Hoodies,Retail Partner,1,140,2023-03-24,140
+46,Knicks,Footwear,Arena Store,1,65,2024-04-10,65
+47,Mavericks,Hats,Online,4,151,2023-07-12,604
+48,Mavericks,Collectibles,Retail Partner,1,147,2022-07-28,147
+49,Clippers,Jerseys,Retail Partner,2,172,2022-12-13,344
+50,Nets,Jerseys,Retail Partner,2,161,2022-04-25,322
+51,Suns,Hoodies,Retail Partner,4,123,2023-09-24,492
+52,Nuggets,Hats,Online,1,170,2022-01-23,170
+53,Celtics,Hats,Online,3,53,2023-03-14,159
+54,Bulls,Collectibles,Retail Partner,3,77,2022-09-16,231
+55,76ers,Collectibles,Arena Store,1,118,2022-09-03,118
+56,Nets,Hats,Retail Partner,3,106,2023-07-06,318
+57,76ers,Footwear,Online,3,106,2023-08-29,318
+58,Celtics,Jerseys,Retail Partner,1,71,2023-12-25,71
+59,Bucks,Footwear,Retail Partner,1,135,2024-01-29,135
+60,Nets,Hoodies,Arena Store,2,96,2022-09-30,192
+61,Heat,Jerseys,Retail Partner,3,147,2022-08-29,441
+62,Celtics,Jerseys,Arena Store,4,118,2022-11-15,472
+63,Heat,Collectibles,Online,4,117,2023-02-17,468
+64,Bulls,T-Shirts,Online,4,102,2022-04-09,408
+65,Knicks,Footwear,Arena Store,4,87,2022-02-20,348
+66,Suns,Jerseys,Arena Store,4,136,2022-02-01,544
+67,Bucks,Footwear,Retail Partner,3,132,2022-03-18,396
+68,Celtics,Hats,Online,3,35,2022-12-08,105
+69,Mavericks,Collectibles,Retail Partner,3,115,2024-06-06,345
+70,Clippers,Collectibles,Arena Store,3,80,2022-10-31,240
+71,Celtics,T-Shirts,Arena Store,1,167,2024-01-18,167
+72,Mavericks,Hoodies,Retail Partner,3,155,2023-01-29,465
+73,Spurs,Footwear,Arena Store,4,176,2022-04-13,704
+74,Lakers,Hoodies,Online,2,169,2023-10-06,338
+75,Spurs,Collectibles,Online,1,84,2022-04-28,84
+76,Suns,Hoodies,Online,2,176,2023-01-14,352
+77,76ers,Hats,Online,1,126,2023-06-15,126
+78,Celtics,Jerseys,Online,2,54,2023-03-18,108
+79,Nuggets,Hoodies,Arena Store,4,157,2023-06-14,628
+80,Celtics,Footwear,Arena Store,2,103,2022-05-07,206
+81,Bulls,Footwear,Arena Store,4,120,2023-12-21,480
+82,Nuggets,Hats,Arena Store,2,150,2023-01-08,300
+83,Bulls,T-Shirts,Online,4,175,2022-03-06,700
+84,Celtics,T-Shirts,Retail Partner,2,152,2023-05-20,304
+85,Spurs,Collectibles,Arena Store,2,146,2023-10-16,292
+86,Nuggets,Footwear,Online,2,136,2023-01-28,272
+87,Raptors,Hats,Arena Store,2,96,2023-11-24,192
+88,Nuggets,Footwear,Online,1,89,2024-04-02,89
+89,Spurs,Hats,Online,2,56,2024-01-19,112
+90,Bulls,Hats,Arena Store,2,173,2022-02-03,346
+91,Nuggets,Footwear,Retail Partner,4,161,2023-01-08,644
+92,Knicks,Jerseys,Arena Store,4,109,2023-12-10,436
+93,Spurs,Collectibles,Arena Store,3,135,2022-07-25,405
+94,Lakers,Footwear,Online,2,138,2023-12-03,276
+95,Heat,Hoodies,Retail Partner,3,138,2023-01-23,414
+96,Heat,Hoodies,Online,3,31,2022-07-20,93
+97,Mavericks,Footwear,Retail Partner,4,29,2022-08-22,116
+98,Nets,Collectibles,Arena Store,1,142,2022-05-17,142
+99,76ers,Footwear,Retail Partner,3,49,2024-01-12,147
+100,Heat,Jerseys,Arena Store,4,26,2023-12-06,104
+101,Celtics,Hoodies,Retail Partner,3,137,2023-04-28,411
+102,Suns,Collectibles,Online,2,26,2024-01-07,52
+103,Nuggets,Footwear,Retail Partner,2,49,2022-05-21,98
+104,Mavericks,Jerseys,Online,4,120,2023-12-29,480
+105,76ers,T-Shirts,Retail Partner,3,35,2024-01-12,105
+106,Clippers,Hats,Retail Partner,4,150,2022-04-23,600
+107,Nuggets,Hoodies,Retail Partner,2,85,2023-08-23,170
+108,Mavericks,Footwear,Retail Partner,3,37,2022-04-17,111
+109,Lakers,Collectibles,Online,3,98,2022-11-27,294
+110,Celtics,Hats,Online,3,106,2022-08-21,318
+111,Clippers,Hoodies,Retail Partner,3,109,2024-06-18,327
+112,Warriors,Footwear,Online,2,159,2024-06-06,318
+113,Celtics,T-Shirts,Retail Partner,4,77,2022-10-19,308
+114,Bucks,Collectibles,Online,1,97,2023-07-05,97
+115,Heat,T-Shirts,Arena Store,1,93,2024-05-13,93
+116,Lakers,Hoodies,Online,1,90,2022-11-27,90
+117,Warriors,Jerseys,Arena Store,3,112,2023-12-01,336
+118,Bulls,Hats,Retail Partner,3,73,2023-02-11,219
+119,Nuggets,Footwear,Arena Store,3,95,2022-09-28,285
+120,Lakers,T-Shirts,Arena Store,3,30,2022-02-28,90
+121,Knicks,Jerseys,Retail Partner,3,94,2024-02-11,282
+122,Suns,Hats,Online,4,91,2022-07-27,364
+123,Nuggets,Footwear,Arena Store,2,50,2023-08-26,100
+124,Raptors,Jerseys,Arena Store,1,33,2022-11-18,33
+125,Lakers,Footwear,Arena Store,1,67,2022-11-23,67
+126,76ers,T-Shirts,Arena Store,1,160,2024-02-19,160
+127,Warriors,T-Shirts,Online,3,124,2022-09-13,372
+128,Bulls,Hoodies,Arena Store,3,176,2023-07-29,528
+129,Warriors,Hats,Online,1,165,2022-09-03,165
+130,Warriors,Hats,Online,4,35,2023-07-27,140
+131,Raptors,T-Shirts,Retail Partner,2,166,2022-03-11,332
+132,76ers,Hoodies,Retail Partner,1,130,2024-03-22,130
+133,Lakers,T-Shirts,Arena Store,1,105,2024-01-12,105
+134,Bucks,Jerseys,Online,2,49,2024-06-05,98
+135,Suns,Hoodies,Online,3,85,2024-02-17,255
+136,Heat,Footwear,Retail Partner,3,31,2023-08-17,93
+137,Clippers,Jerseys,Retail Partner,2,109,2024-06-14,218
+138,Nets,Jerseys,Retail Partner,1,93,2022-11-02,93
+139,Spurs,Collectibles,Retail Partner,2,61,2022-08-18,122
+140,Nuggets,Jerseys,Online,2,179,2022-12-11,358
+141,Warriors,Jerseys,Retail Partner,1,46,2022-03-02,46
+142,Warriors,Collectibles,Online,4,126,2023-12-27,504
+143,76ers,Collectibles,Retail Partner,3,64,2022-07-04,192
+144,Nets,Footwear,Arena Store,2,59,2024-01-20,118
+145,Warriors,Jerseys,Arena Store,2,134,2023-03-04,268
+146,Celtics,Collectibles,Arena Store,3,32,2022-06-03,96
+147,Bulls,Hats,Retail Partner,3,147,2023-01-29,441
+148,Celtics,Hats,Arena Store,2,103,2024-06-13,206
+149,Raptors,Hoodies,Online,2,51,2024-01-12,102
+150,76ers,Footwear,Retail Partner,4,82,2022-06-14,328
+151,Lakers,Hats,Retail Partner,1,77,2023-12-10,77
+152,Clippers,Collectibles,Online,4,42,2023-12-21,168
+153,Nuggets,Collectibles,Retail Partner,3,82,2023-07-30,246
+154,Raptors,Hoodies,Retail Partner,4,95,2023-11-23,380
+155,Mavericks,Footwear,Arena Store,4,106,2024-04-14,424
+156,Nets,Hoodies,Arena Store,4,145,2023-07-05,580
+157,Raptors,Jerseys,Arena Store,2,176,2023-12-10,352
+158,Heat,T-Shirts,Retail Partner,1,179,2024-03-22,179
+159,Warriors,Hoodies,Arena Store,3,33,2022-06-10,99
+160,Bucks,Collectibles,Retail Partner,2,124,2022-11-17,248
+161,Nuggets,Hats,Online,3,111,2024-02-17,333
+162,Heat,Jerseys,Online,4,104,2024-02-29,416
+163,Nets,Jerseys,Retail Partner,4,117,2023-04-11,468
+164,Celtics,Collectibles,Retail Partner,4,35,2022-04-27,140
+165,Mavericks,T-Shirts,Online,2,68,2023-11-03,136
+166,Heat,Jerseys,Retail Partner,3,118,2022-11-12,354
+167,Bulls,T-Shirts,Retail Partner,2,40,2023-03-10,80
+168,Knicks,Hats,Arena Store,3,54,2022-01-23,162
+169,Suns,T-Shirts,Retail Partner,3,128,2022-11-07,384
+170,Nets,Collectibles,Online,4,114,2023-01-01,456
+171,Nuggets,Hoodies,Arena Store,2,86,2023-01-01,172
+172,Raptors,Hoodies,Arena Store,4,90,2023-01-27,360
+173,Clippers,Footwear,Online,1,34,2023-04-14,34
+174,Bucks,Collectibles,Retail Partner,2,66,2023-10-13,132
+175,Bucks,Hats,Retail Partner,1,48,2022-08-31,48
+176,Heat,Hats,Online,4,150,2022-09-27,600
+177,Spurs,Collectibles,Online,1,156,2023-02-22,156
+178,Lakers,Hoodies,Retail Partner,3,54,2023-08-24,162
+179,Nets,Jerseys,Online,1,158,2022-08-31,158
+180,Nets,Hats,Online,4,177,2023-01-17,708
+181,Warriors,Collectibles,Arena Store,1,131,2023-11-04,131
+182,Spurs,Footwear,Arena Store,3,50,2022-09-15,150
+183,Nuggets,Hats,Retail Partner,1,34,2022-03-15,34
+184,Suns,Hoodies,Online,1,89,2024-01-30,89
+185,Heat,Collectibles,Online,1,108,2024-06-09,108
+186,Raptors,Jerseys,Retail Partner,1,159,2022-11-13,159
+187,Spurs,Footwear,Online,1,109,2023-10-01,109
+188,Spurs,T-Shirts,Online,1,145,2024-01-14,145
+189,Raptors,Jerseys,Arena Store,2,48,2022-02-08,96
+190,Heat,Footwear,Retail Partner,4,129,2023-12-12,516
+191,Lakers,Hats,Arena Store,4,147,2023-05-21,588
+192,Warriors,Footwear,Retail Partner,3,134,2023-04-06,402
+193,Mavericks,Collectibles,Online,1,178,2022-04-07,178
+194,Mavericks,Hats,Arena Store,3,171,2022-12-05,513
+195,Mavericks,Hats,Retail Partner,4,28,2024-02-20,112
+196,Warriors,T-Shirts,Online,3,146,2023-05-29,438
+197,Nets,Footwear,Online,4,171,2023-11-27,684
+198,Lakers,T-Shirts,Arena Store,3,78,2024-04-07,234
+199,76ers,Jerseys,Arena Store,4,65,2022-11-30,260
+200,Clippers,Jerseys,Retail Partner,2,56,2023-06-19,112
+201,Celtics,Collectibles,Online,1,104,2023-02-13,104
+202,Warriors,Hats,Online,2,88,2023-04-12,176
+203,Nets,Hats,Arena Store,2,81,2022-04-18,162
+204,Bucks,Hats,Arena Store,3,83,2023-08-07,249
+205,Spurs,Footwear,Online,2,97,2022-01-23,194
+206,Suns,Footwear,Arena Store,2,133,2022-12-20,266
+207,Suns,Jerseys,Arena Store,2,132,2022-08-15,264
+208,Celtics,T-Shirts,Retail Partner,4,149,2023-01-05,596
+209,Bucks,Hoodies,Online,4,112,2024-02-26,448
+210,Heat,Hoodies,Arena Store,3,102,2022-07-09,306
+211,Suns,Hoodies,Arena Store,2,96,2024-06-08,192
+212,Bulls,Hoodies,Online,2,163,2023-08-20,326
+213,Mavericks,Jerseys,Arena Store,4,178,2022-12-28,712
+214,Nets,Jerseys,Arena Store,4,134,2024-03-31,536
+215,Heat,T-Shirts,Retail Partner,3,42,2023-04-27,126
+216,Bulls,Hats,Retail Partner,4,106,2024-01-06,424
+217,Bucks,Hoodies,Retail Partner,4,123,2024-06-16,492
+218,Celtics,Hats,Retail Partner,1,101,2024-04-21,101
+219,Mavericks,T-Shirts,Online,2,36,2023-06-13,72
+220,Raptors,Hats,Online,3,166,2024-03-31,498
+221,Bucks,T-Shirts,Retail Partner,3,62,2024-03-06,186
+222,Bulls,Footwear,Retail Partner,2,42,2024-01-24,84
+223,Clippers,Hoodies,Arena Store,4,34,2022-06-28,136
+224,Bulls,Footwear,Retail Partner,1,30,2023-11-08,30
+225,Clippers,Jerseys,Retail Partner,2,66,2023-04-24,132
+226,Celtics,Collectibles,Retail Partner,4,37,2022-10-09,148
+227,Nets,Hoodies,Online,2,95,2023-08-11,190
+228,Lakers,Footwear,Retail Partner,2,109,2023-09-13,218
+229,Suns,Jerseys,Retail Partner,3,86,2023-04-25,258
+230,Celtics,Hoodies,Online,1,146,2024-02-19,146
+231,Suns,Hats,Arena Store,1,28,2022-08-14,28
+232,Heat,Hats,Online,2,30,2022-03-06,60
+233,Raptors,T-Shirts,Arena Store,3,140,2023-05-28,420
+234,Mavericks,Footwear,Online,3,39,2023-08-03,117
+235,Clippers,Jerseys,Arena Store,3,36,2022-01-14,108
+236,Lakers,Hoodies,Online,1,116,2023-09-01,116
+237,Bulls,Jerseys,Retail Partner,1,68,2022-12-11,68
+238,Mavericks,Hats,Arena Store,3,152,2024-05-03,456
+239,Raptors,Jerseys,Retail Partner,1,172,2024-05-08,172
+240,Lakers,Jerseys,Retail Partner,1,154,2022-06-01,154
+241,76ers,Hats,Arena Store,2,54,2024-06-14,108
+242,Knicks,Hats,Online,4,148,2022-11-02,592
+243,Celtics,T-Shirts,Arena Store,2,26,2022-11-12,52
+244,Bulls,Jerseys,Arena Store,4,98,2023-03-27,392
+245,Nets,Hoodies,Arena Store,2,82,2022-05-24,164
+246,Mavericks,Hats,Arena Store,4,50,2022-08-23,200
+247,Bucks,Collectibles,Arena Store,4,38,2024-04-14,152
+248,Clippers,T-Shirts,Arena Store,2,108,2022-06-16,216
+249,Warriors,T-Shirts,Online,2,39,2024-02-17,78
+250,76ers,Hoodies,Retail Partner,3,26,2022-11-04,78
+251,Celtics,Hoodies,Online,2,104,2023-02-15,208
+252,Raptors,Collectibles,Arena Store,1,85,2023-03-29,85
+253,Nets,Footwear,Arena Store,3,65,2023-11-11,195
+254,Mavericks,Hats,Arena Store,1,157,2022-01-18,157
+255,Spurs,Hoodies,Arena Store,1,57,2023-11-26,57
+256,Bulls,Hoodies,Retail Partner,1,113,2022-05-26,113
+257,Lakers,Hats,Online,4,42,2022-10-31,168
+258,Lakers,Hats,Retail Partner,4,53,2023-01-24,212
+259,Suns,Footwear,Online,3,79,2024-01-04,237
+260,Spurs,Collectibles,Online,3,162,2022-10-03,486
+261,76ers,Hats,Arena Store,1,114,2022-08-27,114
+262,Celtics,Hoodies,Arena Store,3,142,2024-06-08,426
+263,Nuggets,Jerseys,Online,1,85,2022-12-30,85
+264,Heat,Hats,Retail Partner,4,59,2022-07-21,236
+265,Celtics,Collectibles,Arena Store,4,154,2024-05-01,616
+266,Clippers,Jerseys,Online,2,46,2022-09-21,92
+267,Mavericks,Jerseys,Online,3,140,2022-05-04,420
+268,Spurs,Jerseys,Arena Store,2,158,2023-05-07,316
+269,Warriors,Hats,Retail Partner,1,151,2022-01-07,151
+270,Nets,T-Shirts,Retail Partner,1,44,2022-03-07,44
+271,Warriors,Collectibles,Retail Partner,4,119,2022-12-08,476
+272,Celtics,Footwear,Online,3,95,2022-03-24,285
+273,Nets,Hats,Online,1,142,2022-01-31,142
+274,Mavericks,T-Shirts,Retail Partner,2,90,2023-08-29,180
+275,Clippers,Hats,Retail Partner,2,106,2023-05-10,212
+276,76ers,Hoodies,Arena Store,2,109,2023-12-15,218
+277,Spurs,T-Shirts,Retail Partner,1,50,2022-11-21,50
+278,76ers,Hoodies,Arena Store,3,30,2022-10-19,90
+279,Celtics,Jerseys,Online,2,98,2022-08-04,196
+280,Clippers,T-Shirts,Online,4,45,2023-03-30,180
+281,Suns,Footwear,Online,1,58,2024-04-23,58
+282,Lakers,Hats,Online,3,35,2023-08-02,105
+283,Nets,Collectibles,Online,3,114,2023-03-22,342
+284,Celtics,Jerseys,Retail Partner,2,164,2024-03-29,328
+285,Heat,Jerseys,Online,2,162,2023-09-05,324
+286,Raptors,Footwear,Online,3,80,2022-09-20,240
+287,Spurs,Collectibles,Arena Store,1,34,2023-03-09,34
+288,Clippers,Footwear,Online,2,52,2023-11-15,104
+289,Heat,Hats,Arena Store,3,39,2022-06-10,117
+290,76ers,Footwear,Retail Partner,3,151,2023-08-28,453
+291,Mavericks,T-Shirts,Online,1,25,2023-02-08,25
+292,Lakers,Collectibles,Online,2,42,2022-05-22,84
+293,Nets,Hoodies,Arena Store,4,78,2023-09-06,312
+294,Bulls,Footwear,Online,1,114,2023-11-23,114
+295,Lakers,Footwear,Online,2,30,2022-05-12,60
+296,Mavericks,Collectibles,Retail Partner,2,60,2022-08-28,120
+297,76ers,Hats,Arena Store,1,161,2023-12-04,161
+298,Bucks,Hats,Retail Partner,3,168,2023-07-06,504
+299,Raptors,Footwear,Online,2,144,2023-06-12,288
+300,Nets,Hoodies,Arena Store,2,109,2023-11-30,218
+301,Mavericks,Jerseys,Online,3,54,2024-03-01,162
+302,Warriors,T-Shirts,Online,3,130,2023-07-25,390
+303,Bucks,Footwear,Arena Store,1,150,2023-04-14,150
+304,Bucks,Collectibles,Arena Store,4,113,2023-01-26,452
+305,Bulls,Footwear,Retail Partner,4,116,2023-06-18,464
+306,76ers,Footwear,Retail Partner,1,139,2022-02-19,139
+307,Nuggets,Hoodies,Online,2,56,2023-12-21,112
+308,Nuggets,Hats,Arena Store,4,71,2022-05-18,284
+309,Lakers,Collectibles,Retail Partner,4,65,2022-04-20,260
+310,Knicks,Hats,Arena Store,4,70,2022-04-16,280
+311,Mavericks,Collectibles,Arena Store,1,48,2022-10-12,48
+312,Clippers,T-Shirts,Arena Store,2,122,2023-03-28,244
+313,Nets,Collectibles,Arena Store,2,139,2022-05-26,278
+314,Knicks,Hats,Retail Partner,1,151,2022-10-07,151
+315,Spurs,Hats,Retail Partner,4,142,2023-04-23,568
+316,Knicks,Hoodies,Retail Partner,1,46,2023-12-06,46
+317,Suns,Hoodies,Retail Partner,3,125,2023-02-03,375
+318,Bulls,T-Shirts,Arena Store,2,84,2023-04-28,168
+319,Clippers,T-Shirts,Arena Store,2,133,2023-08-26,266
+320,Heat,Jerseys,Online,1,138,2023-09-06,138
+321,Bucks,Footwear,Retail Partner,2,155,2023-08-04,310
+322,Mavericks,Hats,Arena Store,3,83,2022-05-13,249
+323,Lakers,Hats,Arena Store,4,62,2023-05-04,248
+324,76ers,Collectibles,Online,4,56,2022-01-30,224
+325,Knicks,Hats,Arena Store,1,110,2022-11-09,110
+326,Nets,T-Shirts,Retail Partner,2,147,2024-03-27,294
+327,Clippers,Hats,Online,4,163,2022-07-30,652
+328,Suns,Hoodies,Retail Partner,4,104,2023-03-13,416
+329,Knicks,Hoodies,Retail Partner,4,84,2022-11-23,336
+330,Nuggets,T-Shirts,Arena Store,4,28,2023-12-06,112
+331,Heat,Footwear,Online,3,151,2023-09-17,453
+332,Knicks,Footwear,Arena Store,4,93,2022-06-23,372
+333,Heat,Collectibles,Arena Store,3,173,2023-03-10,519
+334,Warriors,Hoodies,Arena Store,3,113,2024-05-10,339
+335,Clippers,Jerseys,Arena Store,1,97,2024-03-07,97
+336,Bulls,Jerseys,Arena Store,1,158,2024-01-26,158
+337,Nets,Hoodies,Arena Store,3,141,2023-07-01,423
+338,Knicks,T-Shirts,Arena Store,3,164,2022-05-16,492
+339,Spurs,Footwear,Arena Store,4,130,2022-06-29,520
+340,Heat,Jerseys,Arena Store,4,66,2022-11-03,264
+341,Bulls,Jerseys,Arena Store,2,94,2024-04-13,188
+342,Bulls,T-Shirts,Online,3,118,2023-05-17,354
+343,Bucks,T-Shirts,Retail Partner,1,153,2023-08-16,153
+344,76ers,Hats,Arena Store,4,127,2022-06-11,508
+345,Heat,Jerseys,Online,3,109,2023-06-02,327
+346,76ers,Collectibles,Retail Partner,2,111,2023-05-15,222
+347,Lakers,Hats,Retail Partner,1,136,2024-02-22,136
+348,Raptors,T-Shirts,Retail Partner,1,156,2023-05-12,156
+349,Bulls,Hoodies,Retail Partner,2,114,2022-08-29,228
+350,Mavericks,Jerseys,Online,1,93,2023-10-06,93
+351,Suns,T-Shirts,Online,2,111,2022-12-16,222
+352,Mavericks,Collectibles,Retail Partner,3,124,2023-10-31,372
+353,Spurs,Footwear,Online,3,72,2023-05-06,216
+354,Bucks,Footwear,Online,3,133,2023-05-07,399
+355,Nuggets,Jerseys,Online,2,153,2023-08-29,306
+356,Bucks,Footwear,Online,1,103,2023-07-14,103
+357,Nets,Jerseys,Online,4,72,2022-06-09,288
+358,Warriors,Jerseys,Arena Store,4,158,2023-10-13,632
+359,Warriors,Footwear,Arena Store,2,173,2022-07-24,346
+360,Heat,T-Shirts,Online,2,42,2022-05-11,84
+361,76ers,Hoodies,Retail Partner,1,176,2023-07-15,176
+362,Heat,T-Shirts,Online,2,31,2024-05-21,62
+363,Suns,Footwear,Online,1,131,2022-11-20,131
+364,Lakers,Jerseys,Retail Partner,3,68,2022-10-17,204
+365,Mavericks,T-Shirts,Online,1,100,2023-11-12,100
+366,Spurs,Hoodies,Online,2,128,2022-04-21,256
+367,76ers,Hoodies,Retail Partner,3,137,2022-12-16,411
+368,Bucks,T-Shirts,Arena Store,2,136,2022-05-16,272
+369,Heat,Hoodies,Arena Store,4,117,2022-02-07,468
+370,Knicks,Hoodies,Retail Partner,2,178,2023-06-28,356
+371,Nets,Hoodies,Arena Store,2,49,2022-08-26,98
+372,Bucks,T-Shirts,Arena Store,4,27,2023-07-10,108
+373,Bulls,Footwear,Retail Partner,4,125,2023-11-01,500
+374,Heat,Hoodies,Online,3,102,2022-01-21,306
+375,Raptors,T-Shirts,Retail Partner,4,78,2024-05-11,312
+376,Spurs,Footwear,Retail Partner,1,110,2023-08-13,110
+377,Spurs,Collectibles,Arena Store,3,120,2024-03-07,360
+378,Bucks,Collectibles,Online,2,127,2023-09-06,254
+379,Raptors,Footwear,Retail Partner,2,151,2022-03-25,302
+380,Bucks,Hats,Arena Store,2,127,2022-07-01,254
+381,Lakers,Hats,Online,3,131,2024-02-10,393
+382,Lakers,T-Shirts,Retail Partner,3,64,2023-02-17,192
+383,76ers,Jerseys,Arena Store,3,33,2023-01-09,99
+384,Heat,Hoodies,Retail Partner,4,162,2022-10-23,648
+385,Spurs,T-Shirts,Arena Store,4,151,2022-01-18,604
+386,Spurs,Footwear,Arena Store,1,138,2023-10-05,138
+387,Bucks,Jerseys,Retail Partner,3,64,2023-11-28,192
+388,Knicks,Hats,Online,2,92,2023-04-06,184
+389,Spurs,Footwear,Online,1,179,2023-07-24,179
+390,Clippers,T-Shirts,Online,4,42,2022-11-08,168
+391,Heat,Hoodies,Arena Store,3,80,2023-01-20,240
+392,Spurs,T-Shirts,Retail Partner,4,125,2023-01-09,500
+393,Warriors,Jerseys,Arena Store,1,172,2022-06-24,172
+394,Nets,Jerseys,Arena Store,4,142,2023-08-12,568
+395,Suns,Collectibles,Retail Partner,3,150,2022-09-30,450
+396,Celtics,Collectibles,Retail Partner,4,48,2022-05-20,192
+397,Heat,Footwear,Online,2,166,2022-05-15,332
+398,Clippers,T-Shirts,Arena Store,3,136,2022-03-30,408
+399,Heat,Hats,Retail Partner,2,114,2024-05-08,228
+400,76ers,Hats,Arena Store,3,64,2023-09-20,192
+401,Celtics,Hoodies,Retail Partner,3,30,2022-12-02,90
+402,Spurs,Hats,Arena Store,1,65,2022-11-22,65
+403,Heat,Hats,Retail Partner,3,109,2023-11-05,327
+404,Bulls,Footwear,Arena Store,3,166,2024-06-05,498
+405,Raptors,Hoodies,Online,1,55,2022-11-09,55
+406,Knicks,Jerseys,Arena Store,2,42,2024-05-16,84
+407,Mavericks,Hoodies,Retail Partner,4,71,2023-01-21,284
+408,76ers,Jerseys,Online,1,34,2023-10-06,34
+409,Bulls,Jerseys,Arena Store,2,140,2023-09-10,280
+410,Clippers,Jerseys,Retail Partner,1,161,2023-03-15,161
+411,Raptors,Collectibles,Online,2,153,2022-05-16,306
+412,Spurs,Jerseys,Arena Store,1,64,2022-03-16,64
+413,Clippers,Hats,Retail Partner,2,50,2024-06-07,100
+414,Celtics,T-Shirts,Arena Store,1,96,2022-01-16,96
+415,Mavericks,Footwear,Online,3,140,2023-03-07,420
+416,Suns,Jerseys,Arena Store,3,165,2022-09-15,495
+417,Raptors,Collectibles,Arena Store,1,74,2022-03-04,74
+418,Clippers,Hats,Online,2,132,2022-07-21,264
+419,Clippers,Collectibles,Retail Partner,2,46,2024-01-07,92
+420,Mavericks,Hoodies,Online,1,33,2024-04-27,33
+421,Mavericks,Hoodies,Retail Partner,4,63,2023-09-07,252
+422,Suns,Jerseys,Retail Partner,2,63,2022-04-27,126
+423,76ers,Hoodies,Online,1,95,2022-03-16,95
+424,Bulls,Hoodies,Online,2,136,2022-11-06,272
+425,Clippers,Footwear,Online,1,92,2022-03-04,92
+426,Suns,Hats,Retail Partner,2,78,2024-06-12,156
+427,Knicks,Hats,Arena Store,3,156,2022-06-19,468
+428,Warriors,Hats,Arena Store,1,63,2024-05-09,63
+429,Raptors,Collectibles,Online,1,159,2023-10-14,159
+430,Suns,Hats,Arena Store,3,162,2024-03-05,486
+431,Knicks,Jerseys,Arena Store,2,46,2024-01-09,92
+432,Celtics,Footwear,Online,4,43,2022-01-13,172
+433,Clippers,Collectibles,Retail Partner,3,127,2022-05-08,381
+434,Suns,Collectibles,Retail Partner,4,43,2023-11-04,172
+435,76ers,Jerseys,Online,4,171,2022-06-30,684
+436,Mavericks,Hats,Arena Store,2,40,2022-10-01,80
+437,Heat,T-Shirts,Arena Store,1,87,2022-05-19,87
+438,Heat,T-Shirts,Retail Partner,4,91,2023-10-31,364
+439,Mavericks,Hoodies,Arena Store,1,72,2022-01-24,72
+440,Spurs,Jerseys,Retail Partner,3,77,2022-07-15,231
+441,Knicks,Hoodies,Retail Partner,3,37,2023-01-29,111
+442,Spurs,Footwear,Online,4,82,2023-10-12,328
+443,Mavericks,T-Shirts,Online,1,106,2022-08-09,106
+444,Warriors,T-Shirts,Online,1,83,2022-06-01,83
+445,Lakers,Jerseys,Retail Partner,1,147,2024-01-20,147
+446,Bulls,Hoodies,Online,2,46,2022-06-30,92
+447,Bucks,Jerseys,Retail Partner,2,137,2023-10-23,274
+448,Celtics,Collectibles,Online,4,79,2024-02-08,316
+449,Knicks,Jerseys,Arena Store,2,57,2022-08-18,114
+450,Lakers,Footwear,Arena Store,3,129,2022-06-10,387
+451,Raptors,T-Shirts,Online,2,61,2022-09-17,122
+452,Bulls,T-Shirts,Retail Partner,4,162,2023-08-05,648
+453,Warriors,T-Shirts,Arena Store,2,110,2024-06-07,220
+454,Spurs,T-Shirts,Retail Partner,1,179,2022-07-02,179
+455,Knicks,Collectibles,Retail Partner,1,110,2023-03-03,110
+456,Warriors,Footwear,Retail Partner,2,57,2022-03-26,114
+457,Bucks,Collectibles,Online,2,111,2024-04-02,222
+458,Spurs,Collectibles,Arena Store,3,141,2023-07-19,423
+459,Bucks,Footwear,Arena Store,1,36,2024-05-20,36
+460,Spurs,Jerseys,Arena Store,4,70,2022-01-21,280
+461,Clippers,Collectibles,Online,1,51,2023-04-04,51
+462,Warriors,T-Shirts,Online,2,121,2023-09-12,242
+463,Nuggets,Jerseys,Arena Store,2,55,2023-06-16,110
+464,Nets,Footwear,Retail Partner,4,50,2024-05-01,200
+465,Lakers,Footwear,Online,4,144,2024-01-06,576
+466,Lakers,Footwear,Retail Partner,4,105,2022-05-11,420
+467,Warriors,T-Shirts,Retail Partner,2,53,2022-11-19,106
+468,Clippers,Footwear,Retail Partner,2,95,2023-12-31,190
+469,Mavericks,Footwear,Retail Partner,2,92,2023-03-05,184
+470,Clippers,T-Shirts,Arena Store,4,40,2024-03-15,160
+471,Lakers,Collectibles,Online,2,44,2022-01-24,88
+472,Knicks,Hoodies,Retail Partner,4,142,2022-01-06,568
+473,Warriors,T-Shirts,Retail Partner,3,68,2023-07-11,204
+474,Mavericks,Hats,Retail Partner,2,175,2024-03-12,350
+475,Warriors,Footwear,Arena Store,1,28,2024-01-04,28
+476,Bulls,Collectibles,Arena Store,2,137,2024-04-23,274
+477,Bucks,Hoodies,Online,4,127,2023-04-11,508
+478,Raptors,Hats,Online,4,155,2022-05-16,620
+479,Celtics,Collectibles,Online,3,113,2024-02-27,339
+480,Celtics,Jerseys,Arena Store,2,59,2024-04-21,118
+481,Lakers,T-Shirts,Arena Store,1,127,2023-09-23,127
+482,76ers,Footwear,Online,4,68,2022-12-29,272
+483,Suns,Collectibles,Arena Store,1,94,2022-01-05,94
+484,Mavericks,Footwear,Online,2,176,2023-11-26,352
+485,Knicks,Hats,Arena Store,4,91,2023-05-08,364
+486,76ers,T-Shirts,Retail Partner,3,108,2023-09-29,324
+487,Nuggets,Hoodies,Arena Store,1,81,2022-12-14,81
+488,Spurs,Hoodies,Retail Partner,3,75,2022-04-06,225
+489,Raptors,Jerseys,Retail Partner,3,87,2023-10-13,261
+490,76ers,Jerseys,Retail Partner,4,163,2023-12-22,652
+491,Lakers,Hats,Arena Store,2,44,2024-04-02,88
+492,Lakers,T-Shirts,Online,1,87,2024-04-18,87
+493,Clippers,T-Shirts,Arena Store,2,37,2022-12-07,74
+494,Raptors,Footwear,Arena Store,3,151,2022-04-20,453
+495,76ers,Hats,Arena Store,1,84,2022-04-07,84
+496,Suns,Hats,Online,3,159,2022-03-31,477
+497,Bucks,Collectibles,Arena Store,1,154,2023-02-08,154
+498,Bucks,Hats,Arena Store,2,179,2023-09-17,358
+499,Nuggets,T-Shirts,Retail Partner,1,111,2023-01-19,111
+500,Spurs,Hats,Retail Partner,1,102,2023-09-14,102
+501,Knicks,Footwear,Retail Partner,4,155,2023-04-18,620
+502,Warriors,Jerseys,Arena Store,4,109,2023-12-10,436
+503,76ers,Collectibles,Online,1,45,2024-01-29,45
+504,Mavericks,Collectibles,Retail Partner,3,139,2023-09-14,417
+505,Lakers,Hats,Retail Partner,1,166,2022-05-30,166
+506,Heat,Hats,Retail Partner,3,112,2023-01-31,336
+507,Heat,Hoodies,Online,3,63,2022-09-15,189
+508,Celtics,T-Shirts,Retail Partner,2,166,2022-05-21,332
+509,Clippers,Jerseys,Retail Partner,1,153,2024-05-31,153
+510,Lakers,Hoodies,Online,2,112,2022-08-27,224
+511,Lakers,T-Shirts,Retail Partner,4,143,2022-04-28,572
+512,Suns,Collectibles,Arena Store,3,76,2022-08-20,228
+513,Heat,Collectibles,Retail Partner,2,77,2023-11-11,154
+514,Suns,Jerseys,Arena Store,2,171,2022-12-11,342
+515,Raptors,T-Shirts,Online,1,155,2023-07-29,155
+516,Knicks,Hats,Retail Partner,3,80,2022-12-02,240
+517,Lakers,Hats,Online,1,37,2022-05-01,37
+518,Lakers,Collectibles,Arena Store,2,81,2023-01-21,162
+519,Warriors,Jerseys,Online,4,117,2023-04-08,468
+520,Lakers,Footwear,Arena Store,1,172,2023-01-15,172
+521,Nets,T-Shirts,Arena Store,4,104,2023-11-21,416
+522,76ers,Jerseys,Retail Partner,1,128,2022-01-03,128
+523,Bulls,Collectibles,Arena Store,2,172,2022-02-01,344
+524,Mavericks,Footwear,Arena Store,2,57,2022-10-24,114
+525,Raptors,Jerseys,Online,4,165,2023-10-31,660
+526,Knicks,Footwear,Online,3,62,2022-07-06,186
+527,Nets,Collectibles,Arena Store,3,111,2022-06-17,333
+528,Knicks,T-Shirts,Online,1,70,2024-01-23,70
+529,Nets,Hats,Online,1,76,2023-03-04,76
+530,Clippers,T-Shirts,Arena Store,1,76,2022-01-24,76
+531,Clippers,Hats,Arena Store,1,70,2022-04-18,70
+532,Bulls,T-Shirts,Online,4,134,2023-10-14,536
+533,Raptors,Jerseys,Online,2,160,2024-03-21,320
+534,Clippers,Collectibles,Online,1,152,2022-06-02,152
+535,Bulls,T-Shirts,Arena Store,3,155,2023-08-30,465
+536,Clippers,Collectibles,Retail Partner,1,49,2022-08-08,49
+537,Heat,Collectibles,Arena Store,3,168,2023-11-01,504
+538,Suns,Footwear,Retail Partner,1,107,2024-04-04,107
+539,Celtics,Footwear,Retail Partner,2,110,2022-06-22,220
+540,Bucks,Hoodies,Retail Partner,3,108,2022-10-14,324
+541,Suns,Hats,Arena Store,1,172,2024-01-29,172
+542,Suns,Hoodies,Online,2,120,2024-03-28,240
+543,76ers,Hats,Retail Partner,4,116,2023-09-27,464
+544,Raptors,Collectibles,Arena Store,1,99,2022-03-04,99
+545,Spurs,Jerseys,Arena Store,3,103,2024-03-02,309
+546,Suns,T-Shirts,Retail Partner,1,65,2023-11-07,65
+547,Nets,Collectibles,Online,4,86,2023-05-13,344
+548,Clippers,Collectibles,Retail Partner,4,108,2023-10-24,432
+549,Bulls,T-Shirts,Arena Store,2,174,2022-01-24,348
+550,Nuggets,T-Shirts,Arena Store,2,159,2023-12-21,318
+551,Nuggets,Jerseys,Online,1,48,2023-01-26,48
+552,Lakers,Footwear,Arena Store,1,118,2022-11-05,118
+553,Celtics,Hats,Arena Store,4,47,2022-10-08,188
+554,76ers,Hoodies,Arena Store,1,68,2022-01-15,68
+555,Nuggets,Jerseys,Online,3,81,2023-06-28,243
+556,Clippers,Collectibles,Retail Partner,1,32,2023-06-04,32
+557,Bucks,Jerseys,Online,1,41,2023-05-05,41
+558,Nuggets,T-Shirts,Retail Partner,1,50,2022-05-24,50
+559,Suns,Hoodies,Online,3,54,2023-10-02,162
+560,Bucks,Jerseys,Retail Partner,3,140,2023-01-01,420
+561,Nets,Hats,Online,1,131,2024-05-01,131
+562,Nuggets,Hoodies,Arena Store,3,139,2023-04-12,417
+563,Nets,Jerseys,Retail Partner,2,124,2022-03-21,248
+564,Suns,Jerseys,Retail Partner,1,71,2024-06-14,71
+565,Bulls,Hats,Arena Store,2,103,2022-08-03,206
+566,Mavericks,Jerseys,Retail Partner,4,128,2023-08-26,512
+567,Lakers,Hats,Online,2,142,2022-04-14,284
+568,Celtics,Collectibles,Retail Partner,4,165,2023-10-03,660
+569,Nets,Hoodies,Arena Store,1,87,2022-02-10,87
+570,Celtics,T-Shirts,Online,4,134,2023-04-24,536
+571,Knicks,Footwear,Retail Partner,1,116,2024-01-16,116
+572,Raptors,Collectibles,Retail Partner,1,91,2024-05-25,91
+573,Raptors,Hats,Arena Store,3,134,2023-01-06,402
+574,Celtics,Footwear,Online,2,102,2023-12-07,204
+575,Mavericks,Collectibles,Online,1,84,2024-01-27,84
+576,Warriors,T-Shirts,Arena Store,2,68,2022-04-26,136
+577,Nets,Hoodies,Online,2,140,2024-03-27,280
+578,Heat,Hoodies,Arena Store,3,116,2023-01-08,348
+579,Celtics,T-Shirts,Arena Store,1,169,2023-10-15,169
+580,Bulls,Hats,Retail Partner,2,140,2023-01-22,280
+581,Suns,Footwear,Online,2,55,2022-04-21,110
+582,Nuggets,Collectibles,Arena Store,3,94,2023-10-17,282
+583,Lakers,Collectibles,Retail Partner,1,77,2023-12-12,77
+584,Lakers,Hats,Retail Partner,3,74,2023-11-16,222
+585,Clippers,T-Shirts,Arena Store,2,138,2024-02-18,276
+586,Heat,Hoodies,Online,4,130,2024-06-18,520
+587,76ers,Footwear,Online,1,67,2022-02-18,67
+588,Knicks,Hoodies,Online,1,127,2023-04-19,127
+589,Lakers,T-Shirts,Arena Store,2,162,2022-02-27,324
+590,Lakers,T-Shirts,Retail Partner,3,58,2023-05-02,174
+591,Nets,Collectibles,Retail Partner,3,175,2023-09-10,525
+592,Bucks,Collectibles,Retail Partner,3,108,2023-04-16,324
+593,76ers,Hoodies,Arena Store,2,34,2022-04-15,68
+594,Heat,Footwear,Retail Partner,3,76,2023-12-19,228
+595,Heat,Hats,Online,3,126,2022-05-18,378
+596,Lakers,T-Shirts,Arena Store,3,167,2022-04-10,501
+597,Nets,Hats,Arena Store,2,99,2023-06-21,198
+598,Mavericks,Footwear,Online,2,105,2023-11-20,210
+599,Bulls,Collectibles,Arena Store,1,92,2024-04-10,92
+600,Bucks,T-Shirts,Retail Partner,2,35,2022-07-12,70
+601,Warriors,Hoodies,Arena Store,3,55,2024-04-20,165
+602,76ers,T-Shirts,Retail Partner,4,42,2022-07-25,168
+603,Heat,Footwear,Arena Store,2,37,2023-02-18,74
+604,Bulls,Jerseys,Retail Partner,2,122,2022-02-22,244
+605,Spurs,Collectibles,Retail Partner,4,78,2023-03-11,312
+606,76ers,Hoodies,Retail Partner,1,142,2022-06-25,142
+607,Mavericks,T-Shirts,Arena Store,1,143,2024-05-13,143
+608,Spurs,Hoodies,Online,3,149,2022-04-23,447
+609,Warriors,Footwear,Online,1,48,2022-08-12,48
+610,Suns,Jerseys,Online,4,51,2022-03-09,204
+611,Bulls,Footwear,Retail Partner,4,135,2022-01-13,540
+612,Mavericks,Hats,Online,1,56,2024-02-06,56
+613,Warriors,Hoodies,Arena Store,3,94,2023-07-23,282
+614,76ers,Jerseys,Online,2,56,2024-05-01,112
+615,Nuggets,Jerseys,Arena Store,3,154,2022-05-24,462
+616,Celtics,Hoodies,Arena Store,3,133,2022-02-03,399
+617,Spurs,T-Shirts,Online,2,114,2022-09-16,228
+618,Heat,Footwear,Online,3,131,2022-10-22,393
+619,76ers,Footwear,Online,4,70,2023-10-28,280
+620,Celtics,Jerseys,Arena Store,2,91,2024-03-17,182
+621,Spurs,Footwear,Arena Store,1,162,2023-12-17,162
+622,Bulls,Hats,Arena Store,3,119,2022-09-19,357
+623,Nuggets,Hats,Retail Partner,3,171,2023-10-14,513
+624,76ers,Collectibles,Arena Store,1,137,2023-07-22,137
+625,Heat,T-Shirts,Arena Store,1,177,2022-02-25,177
+626,Lakers,Collectibles,Arena Store,2,49,2024-03-07,98
+627,Bucks,Collectibles,Online,4,72,2022-04-24,288
+628,Clippers,Hoodies,Arena Store,3,174,2022-10-13,522
+629,Warriors,Hoodies,Arena Store,4,100,2023-03-14,400
+630,Bulls,Jerseys,Arena Store,1,100,2022-06-03,100
+631,Bulls,Jerseys,Arena Store,1,167,2024-04-20,167
+632,Bulls,T-Shirts,Arena Store,4,53,2022-01-19,212
+633,Bucks,Jerseys,Arena Store,2,154,2024-03-21,308
+634,Suns,Hoodies,Arena Store,2,132,2024-02-12,264
+635,Nuggets,Footwear,Online,3,142,2023-04-01,426
+636,76ers,Footwear,Retail Partner,2,153,2022-01-18,306
+637,Warriors,Hoodies,Online,2,38,2023-06-08,76
+638,Clippers,Hats,Arena Store,4,89,2023-06-18,356
+639,Heat,Hoodies,Arena Store,2,123,2024-01-18,246
+640,Bulls,Collectibles,Online,1,166,2023-06-11,166
+641,Celtics,Collectibles,Online,1,131,2023-11-19,131
+642,Knicks,Hats,Arena Store,3,154,2023-06-15,462
+643,Nuggets,Hats,Retail Partner,1,53,2022-01-28,53
+644,Clippers,Jerseys,Online,4,167,2023-01-07,668
+645,76ers,Collectibles,Online,1,100,2022-01-03,100
+646,Bucks,T-Shirts,Retail Partner,1,125,2023-06-24,125
+647,Nuggets,T-Shirts,Arena Store,1,87,2023-09-06,87
+648,Clippers,Footwear,Retail Partner,4,123,2023-11-17,492
+649,Warriors,Footwear,Retail Partner,2,94,2023-04-11,188
+650,Suns,Jerseys,Online,1,85,2023-02-20,85
+651,Bulls,Hats,Retail Partner,2,50,2023-03-01,100
+652,Bulls,Collectibles,Arena Store,4,56,2023-09-30,224
+653,Clippers,T-Shirts,Retail Partner,1,99,2023-07-20,99
+654,Celtics,Hoodies,Arena Store,2,54,2023-12-28,108
+655,Nets,T-Shirts,Retail Partner,1,164,2022-09-07,164
+656,Lakers,Collectibles,Arena Store,4,30,2023-06-17,120
+657,Suns,Hoodies,Retail Partner,3,72,2023-05-31,216
+658,Bucks,Hats,Online,1,121,2023-08-29,121
+659,Warriors,Hats,Arena Store,2,30,2022-08-18,60
+660,Celtics,Jerseys,Retail Partner,4,128,2023-04-06,512
+661,Bucks,T-Shirts,Arena Store,3,118,2023-02-16,354
+662,Heat,Footwear,Retail Partner,1,50,2023-07-26,50
+663,Spurs,Jerseys,Online,3,102,2022-03-22,306
+664,Nuggets,Hoodies,Arena Store,1,29,2024-01-27,29
+665,Nuggets,Hats,Online,2,109,2023-06-13,218
+666,Mavericks,T-Shirts,Arena Store,1,32,2022-05-03,32
+667,Clippers,T-Shirts,Retail Partner,3,31,2022-05-29,93
+668,Spurs,Hats,Online,1,45,2023-10-16,45
+669,Mavericks,Footwear,Arena Store,3,84,2022-01-28,252
+670,Suns,Footwear,Arena Store,2,40,2023-08-29,80
+671,Celtics,Hoodies,Retail Partner,1,110,2023-11-25,110
+672,Lakers,T-Shirts,Online,3,42,2023-07-29,126
+673,Bulls,Footwear,Retail Partner,2,81,2024-03-08,162
+674,Bucks,Jerseys,Online,1,152,2023-09-22,152
+675,Celtics,T-Shirts,Retail Partner,2,164,2022-01-18,328
+676,76ers,Jerseys,Retail Partner,1,128,2022-04-06,128
+677,Nets,Collectibles,Retail Partner,4,93,2023-06-28,372
+678,Clippers,Jerseys,Retail Partner,3,114,2023-01-28,342
+679,Bucks,Collectibles,Arena Store,2,125,2022-07-21,250
+680,Clippers,T-Shirts,Online,1,65,2023-08-10,65
+681,Celtics,Hats,Retail Partner,2,77,2023-03-04,154
+682,Nets,Hoodies,Online,1,124,2022-05-14,124
+683,Knicks,T-Shirts,Online,4,28,2022-12-27,112
+684,Lakers,Footwear,Arena Store,3,63,2022-07-14,189
+685,Lakers,Footwear,Arena Store,2,150,2022-11-14,300
+686,76ers,Collectibles,Retail Partner,1,120,2023-10-24,120
+687,Nuggets,T-Shirts,Arena Store,2,110,2024-01-16,220
+688,Warriors,Hats,Arena Store,2,126,2023-01-30,252
+689,Suns,Footwear,Online,4,167,2023-07-13,668
+690,Nuggets,Hoodies,Online,4,46,2023-08-14,184
+691,Nuggets,Hats,Retail Partner,4,60,2023-12-10,240
+692,Mavericks,Jerseys,Arena Store,2,74,2022-03-05,148
+693,Bucks,Hoodies,Arena Store,3,134,2022-06-02,402
+694,Raptors,T-Shirts,Online,1,118,2022-12-08,118
+695,Celtics,Collectibles,Retail Partner,3,157,2024-03-23,471
+696,Clippers,Hats,Online,1,42,2022-05-07,42
+697,Clippers,Hats,Arena Store,4,148,2023-06-04,592
+698,Celtics,Hats,Online,3,97,2024-04-16,291
+699,Raptors,Footwear,Online,1,30,2023-09-19,30
+700,Nuggets,Hats,Retail Partner,3,161,2023-06-16,483
+701,Bulls,Jerseys,Arena Store,3,157,2024-02-03,471
+702,76ers,Jerseys,Retail Partner,4,51,2023-02-01,204
+703,Nets,Footwear,Arena Store,3,75,2023-11-04,225
+704,Suns,Collectibles,Retail Partner,1,90,2023-10-16,90
+705,Heat,Hoodies,Online,2,115,2022-03-06,230
+706,Mavericks,Hats,Arena Store,1,109,2022-03-02,109
+707,76ers,Collectibles,Retail Partner,3,71,2023-09-13,213
+708,Suns,Hats,Arena Store,4,68,2022-12-21,272
+709,Nuggets,T-Shirts,Online,1,92,2023-07-20,92
+710,Clippers,Jerseys,Online,1,150,2022-01-23,150
+711,Bucks,Hoodies,Arena Store,3,62,2022-05-07,186
+712,Mavericks,Jerseys,Arena Store,2,113,2023-11-20,226
+713,Bulls,Footwear,Arena Store,3,114,2023-03-15,342
+714,Lakers,Hats,Online,4,43,2024-01-22,172
+715,76ers,Footwear,Arena Store,4,67,2023-07-23,268
+716,Spurs,Hats,Online,1,129,2023-07-18,129
+717,Suns,Hats,Retail Partner,1,53,2022-03-11,53
+718,Warriors,Collectibles,Online,4,149,2024-06-02,596
+719,Mavericks,Collectibles,Online,4,26,2023-11-18,104
+720,Bulls,Hats,Retail Partner,4,162,2022-10-28,648
+721,Raptors,T-Shirts,Arena Store,3,57,2023-03-20,171
+722,76ers,Footwear,Arena Store,3,39,2024-04-07,117
+723,Nuggets,Hats,Online,2,82,2022-11-04,164
+724,Nets,Footwear,Retail Partner,1,176,2023-01-06,176
+725,Spurs,T-Shirts,Arena Store,2,94,2023-07-17,188
+726,Lakers,Hats,Online,2,155,2023-12-08,310
+727,76ers,Jerseys,Arena Store,4,80,2023-04-14,320
+728,Knicks,Footwear,Arena Store,1,124,2022-12-04,124
+729,Bucks,Jerseys,Arena Store,3,87,2022-12-18,261
+730,Nets,Hoodies,Arena Store,2,26,2023-04-06,52
+731,Knicks,Hoodies,Arena Store,2,51,2022-11-20,102
+732,Nuggets,Footwear,Retail Partner,2,62,2024-04-19,124
+733,Warriors,Hats,Arena Store,1,50,2022-02-17,50
+734,Mavericks,Footwear,Retail Partner,4,56,2024-06-17,224
+735,Clippers,Collectibles,Retail Partner,3,73,2022-03-06,219
+736,Clippers,Jerseys,Online,2,91,2023-05-04,182
+737,Suns,Hats,Online,1,69,2023-05-26,69
+738,Mavericks,Jerseys,Arena Store,4,113,2024-01-30,452
+739,Nuggets,T-Shirts,Arena Store,4,84,2024-05-18,336
+740,Bucks,Hoodies,Online,1,111,2022-01-15,111
+741,Suns,Collectibles,Arena Store,2,85,2022-03-25,170
+742,Raptors,T-Shirts,Arena Store,1,51,2023-02-23,51
+743,76ers,Hoodies,Retail Partner,2,169,2023-08-27,338
+744,Bucks,Hats,Arena Store,1,146,2022-10-10,146
+745,Celtics,Jerseys,Online,4,172,2022-07-22,688
+746,Mavericks,Hats,Arena Store,1,113,2022-11-13,113
+747,Knicks,Footwear,Arena Store,4,100,2024-04-06,400
+748,Raptors,Hoodies,Arena Store,4,113,2024-03-29,452
+749,Spurs,T-Shirts,Online,2,58,2024-04-10,116
+750,Suns,T-Shirts,Retail Partner,1,108,2023-11-13,108
+751,Nuggets,Hats,Arena Store,2,76,2022-08-06,152
+752,Nets,Footwear,Online,4,117,2022-10-19,468
+753,Knicks,Hats,Arena Store,2,138,2022-02-26,276
+754,Nets,Jerseys,Retail Partner,2,106,2022-11-06,212
+755,Raptors,T-Shirts,Retail Partner,4,105,2022-11-18,420
+756,Spurs,Jerseys,Arena Store,3,85,2022-08-03,255
+757,Warriors,Hoodies,Arena Store,1,167,2022-10-21,167
+758,Raptors,Footwear,Online,3,36,2023-03-02,108
+759,Nuggets,T-Shirts,Arena Store,3,113,2023-08-22,339
+760,Spurs,Hats,Arena Store,2,93,2023-07-03,186
+761,Raptors,Hats,Arena Store,1,48,2023-09-24,48
+762,Nuggets,Hats,Arena Store,3,57,2024-02-25,171
+763,Clippers,T-Shirts,Retail Partner,3,57,2022-07-26,171
+764,Spurs,Hats,Online,4,59,2023-01-06,236
+765,76ers,Jerseys,Arena Store,3,174,2023-11-04,522
+766,76ers,Hats,Arena Store,4,64,2024-06-05,256
+767,Suns,Hats,Online,4,136,2024-01-28,544
+768,Bucks,Footwear,Retail Partner,3,170,2022-01-01,510
+769,Knicks,Jerseys,Arena Store,2,92,2023-03-10,184
+770,Lakers,Jerseys,Arena Store,1,179,2023-09-02,179
+771,Lakers,Hoodies,Online,2,169,2023-03-04,338
+772,Suns,Collectibles,Online,2,130,2022-09-08,260
+773,Nets,Jerseys,Retail Partner,4,107,2024-06-16,428
+774,Clippers,Footwear,Online,2,137,2022-02-21,274
+775,Celtics,Collectibles,Online,1,53,2023-02-26,53
+776,Nuggets,Jerseys,Arena Store,2,90,2023-11-30,180
+777,Mavericks,Footwear,Online,1,30,2024-06-09,30
+778,Knicks,Footwear,Online,2,155,2023-10-23,310
+779,Mavericks,Jerseys,Retail Partner,4,72,2023-04-24,288
+780,Knicks,Hoodies,Online,4,108,2023-07-10,432
+781,Mavericks,Collectibles,Online,4,97,2022-05-19,388
+782,Bulls,Jerseys,Retail Partner,4,148,2023-05-24,592
+783,Warriors,Collectibles,Arena Store,4,117,2024-05-12,468
+784,Bulls,Jerseys,Arena Store,3,59,2023-06-24,177
+785,Warriors,Collectibles,Online,4,119,2022-06-11,476
+786,Mavericks,Collectibles,Online,4,34,2023-03-25,136
+787,Lakers,Footwear,Retail Partner,4,80,2022-07-17,320
+788,Raptors,T-Shirts,Online,3,77,2024-05-24,231
+789,Heat,Hats,Retail Partner,4,92,2023-10-11,368
+790,Celtics,Collectibles,Arena Store,1,156,2023-08-25,156
+791,Nuggets,Collectibles,Arena Store,3,78,2022-10-13,234
+792,Lakers,Collectibles,Arena Store,3,175,2023-03-19,525
+793,Lakers,Hats,Arena Store,1,137,2024-03-13,137
+794,Warriors,Hoodies,Online,2,110,2024-01-18,220
+795,Raptors,Collectibles,Arena Store,3,127,2023-04-24,381
+796,Lakers,Hats,Arena Store,1,69,2023-10-09,69
+797,Suns,Collectibles,Arena Store,1,80,2023-10-18,80
+798,Lakers,Hats,Arena Store,4,37,2022-09-01,148
+799,Warriors,Hoodies,Online,2,175,2023-11-02,350
+800,Bulls,Collectibles,Online,3,176,2022-03-27,528
+801,Nuggets,Hats,Retail Partner,1,73,2022-07-20,73
+802,Lakers,T-Shirts,Online,1,66,2023-08-29,66
+803,Raptors,Jerseys,Arena Store,1,137,2022-11-30,137
+804,Suns,Collectibles,Retail Partner,1,129,2024-06-10,129
+805,Mavericks,Hoodies,Online,2,57,2022-03-07,114
+806,Bucks,Jerseys,Retail Partner,3,86,2024-04-09,258
+807,Lakers,Hoodies,Arena Store,3,110,2022-07-14,330
+808,Celtics,Jerseys,Online,2,35,2024-01-13,70
+809,Heat,T-Shirts,Arena Store,2,141,2023-06-29,282
+810,Nets,T-Shirts,Retail Partner,2,76,2023-01-02,152
+811,Warriors,Footwear,Retail Partner,4,58,2024-01-20,232
+812,Clippers,Collectibles,Online,4,97,2023-04-08,388
+813,Mavericks,Collectibles,Arena Store,1,177,2022-01-06,177
+814,Heat,Hoodies,Retail Partner,1,29,2022-11-11,29
+815,Knicks,Collectibles,Arena Store,3,71,2023-04-16,213
+816,Heat,Jerseys,Arena Store,2,49,2023-10-26,98
+817,Lakers,T-Shirts,Online,3,129,2024-04-23,387
+818,Suns,Footwear,Online,2,70,2022-10-02,140
+819,Spurs,Hats,Retail Partner,1,149,2022-02-23,149
+820,Heat,Footwear,Retail Partner,3,177,2024-01-26,531
+821,Nets,Hats,Online,1,78,2023-12-11,78
+822,Warriors,Hoodies,Retail Partner,1,142,2023-05-26,142
+823,Celtics,Footwear,Retail Partner,3,63,2022-09-26,189
+824,Clippers,Hoodies,Online,1,42,2023-09-13,42
+825,Nuggets,Hoodies,Online,2,128,2023-01-01,256
+826,Raptors,Jerseys,Arena Store,4,28,2023-08-27,112
+827,Warriors,T-Shirts,Retail Partner,4,136,2023-05-27,544
+828,Celtics,T-Shirts,Online,2,47,2023-08-04,94
+829,Suns,Hats,Arena Store,1,163,2024-02-16,163
+830,Heat,Hats,Online,3,43,2024-05-25,129
+831,Spurs,T-Shirts,Online,3,144,2022-01-26,432
+832,Bulls,Footwear,Arena Store,2,179,2022-08-23,358
+833,Lakers,Hats,Online,2,57,2022-01-10,114
+834,Lakers,Jerseys,Online,1,137,2022-12-26,137
+835,Bucks,Jerseys,Online,4,106,2023-11-12,424
+836,Heat,T-Shirts,Online,1,25,2023-11-03,25
+837,Heat,Footwear,Arena Store,2,62,2022-09-27,124
+838,Heat,T-Shirts,Retail Partner,1,122,2022-09-01,122
+839,Warriors,Footwear,Online,3,54,2022-09-19,162
+840,Warriors,Hoodies,Arena Store,4,164,2024-01-18,656
+841,Raptors,Hats,Retail Partner,1,53,2023-09-12,53
+842,76ers,T-Shirts,Retail Partner,4,142,2023-11-09,568
+843,Raptors,Hats,Online,3,54,2024-06-05,162
+844,Mavericks,T-Shirts,Arena Store,3,49,2024-04-24,147
+845,Clippers,Collectibles,Online,3,89,2022-09-18,267
+846,Warriors,T-Shirts,Online,1,61,2022-06-13,61
+847,Bulls,Jerseys,Arena Store,1,139,2023-03-17,139
+848,Bucks,Hats,Arena Store,1,90,2022-11-11,90
+849,Clippers,Collectibles,Online,1,110,2023-03-03,110
+850,Suns,Hoodies,Arena Store,3,89,2022-11-02,267
+851,Raptors,Collectibles,Retail Partner,2,171,2022-08-07,342
+852,Lakers,Hats,Retail Partner,2,132,2024-05-21,264
+853,Heat,Footwear,Arena Store,2,113,2024-04-12,226
+854,Knicks,Hats,Online,2,179,2022-10-12,358
+855,Mavericks,Collectibles,Arena Store,2,99,2022-08-11,198
+856,Warriors,T-Shirts,Arena Store,3,177,2022-06-04,531
+857,Clippers,Jerseys,Arena Store,1,57,2022-10-07,57
+858,Warriors,Footwear,Online,1,32,2022-06-30,32
+859,Warriors,Footwear,Online,3,83,2024-04-25,249
+860,Nets,Footwear,Online,4,64,2023-03-04,256
+861,Raptors,Collectibles,Retail Partner,1,97,2022-07-02,97
+862,76ers,Hats,Arena Store,2,60,2022-08-16,120
+863,Nuggets,Collectibles,Arena Store,1,33,2022-03-14,33
+864,Clippers,T-Shirts,Online,2,178,2024-05-10,356
+865,Knicks,Hoodies,Retail Partner,4,60,2022-03-01,240
+866,Suns,Footwear,Online,1,128,2023-03-16,128
+867,Heat,Collectibles,Arena Store,2,26,2023-12-03,52
+868,Spurs,Collectibles,Arena Store,3,87,2022-10-26,261
+869,Warriors,Collectibles,Online,2,129,2022-03-31,258
+870,Mavericks,Collectibles,Online,3,164,2023-02-01,492
+871,Raptors,Collectibles,Retail Partner,4,122,2023-02-02,488
+872,Heat,Hats,Retail Partner,1,104,2023-04-08,104
+873,Nets,Hoodies,Retail Partner,1,76,2022-10-14,76
+874,Heat,Hats,Online,1,108,2024-05-22,108
+875,Nets,T-Shirts,Arena Store,4,103,2024-02-28,412
+876,Mavericks,Collectibles,Arena Store,2,172,2023-05-28,344
+877,Mavericks,Jerseys,Arena Store,3,33,2022-04-26,99
+878,Mavericks,Hoodies,Online,3,88,2023-01-07,264
+879,Clippers,T-Shirts,Arena Store,3,100,2022-10-29,300
+880,Nets,Hats,Online,2,177,2023-05-30,354
+881,Spurs,Hoodies,Arena Store,4,144,2022-11-17,576
+882,Raptors,Collectibles,Retail Partner,2,64,2022-11-09,128
+883,Bucks,Hoodies,Arena Store,1,55,2022-07-17,55
+884,Lakers,Footwear,Arena Store,4,148,2024-03-11,592
+885,Bulls,Jerseys,Online,4,95,2024-01-02,380
+886,Warriors,T-Shirts,Online,4,76,2024-02-22,304
+887,Nets,Hoodies,Online,1,89,2023-05-29,89
+888,Suns,Hats,Retail Partner,2,72,2022-02-14,144
+889,Bulls,T-Shirts,Arena Store,4,94,2023-03-30,376
+890,Lakers,Collectibles,Arena Store,2,160,2024-05-26,320
+891,Bulls,Hoodies,Arena Store,4,101,2022-05-14,404
+892,Lakers,Hoodies,Arena Store,1,45,2022-08-27,45
+893,Mavericks,Jerseys,Online,1,126,2022-01-25,126
+894,Clippers,Collectibles,Online,3,126,2023-05-04,378
+895,Nuggets,Jerseys,Online,1,162,2022-10-26,162
+896,76ers,Hoodies,Arena Store,2,126,2023-04-18,252
+897,76ers,Hats,Arena Store,1,40,2024-04-04,40
+898,Nets,T-Shirts,Arena Store,1,136,2022-11-01,136
+899,Spurs,Jerseys,Online,1,93,2024-03-05,93
+900,Celtics,Hoodies,Retail Partner,2,148,2024-03-14,296
+901,Heat,T-Shirts,Online,2,166,2024-02-06,332
+902,Suns,T-Shirts,Retail Partner,1,82,2023-07-03,82
+903,Knicks,Hoodies,Online,3,124,2022-09-24,372
+904,Bucks,Jerseys,Retail Partner,1,84,2023-03-17,84
+905,Spurs,Footwear,Arena Store,2,149,2023-02-20,298
+906,Bulls,Jerseys,Arena Store,1,33,2024-06-03,33
+907,Raptors,Footwear,Retail Partner,4,176,2023-01-15,704
+908,Spurs,Footwear,Retail Partner,2,81,2022-05-29,162
+909,Heat,Collectibles,Arena Store,4,25,2022-05-15,100
+910,Bucks,Collectibles,Arena Store,1,163,2022-07-18,163
+911,Suns,Hoodies,Arena Store,2,144,2024-05-20,288
+912,Knicks,Jerseys,Retail Partner,2,94,2022-03-13,188
+913,Nuggets,Footwear,Arena Store,3,106,2023-04-16,318
+914,Bulls,Hoodies,Arena Store,1,137,2023-05-25,137
+915,Nets,Hoodies,Online,4,175,2023-08-06,700
+916,Bulls,Hats,Online,4,64,2022-04-17,256
+917,Knicks,Hoodies,Online,4,103,2023-01-07,412
+918,Bucks,Hats,Retail Partner,1,85,2022-11-17,85
+919,Mavericks,Hoodies,Arena Store,1,119,2024-02-10,119
+920,Nuggets,Hoodies,Online,1,116,2023-08-02,116
+921,Bucks,Hats,Online,2,62,2023-01-18,124
+922,Bucks,T-Shirts,Online,2,132,2023-01-22,264
+923,Nuggets,Collectibles,Retail Partner,2,156,2022-04-08,312
+924,Mavericks,Jerseys,Online,2,28,2022-09-29,56
+925,Mavericks,Footwear,Online,3,60,2024-05-02,180
+926,Spurs,Hats,Arena Store,1,105,2023-08-29,105
+927,Spurs,Footwear,Retail Partner,1,122,2023-06-12,122
+928,Bulls,Collectibles,Online,2,53,2023-07-23,106
+929,Mavericks,Hoodies,Arena Store,4,43,2023-03-14,172
+930,Mavericks,Footwear,Retail Partner,4,30,2023-02-25,120
+931,Spurs,T-Shirts,Arena Store,2,162,2022-11-20,324
+932,Spurs,Hats,Online,2,86,2022-04-06,172
+933,76ers,Jerseys,Online,1,51,2024-05-03,51
+934,Bulls,Hats,Online,1,41,2024-02-12,41
+935,Nets,Hats,Retail Partner,3,123,2023-10-20,369
+936,Mavericks,Jerseys,Online,1,155,2022-02-09,155
+937,Bulls,Collectibles,Online,4,140,2023-03-11,560
+938,Lakers,Footwear,Retail Partner,3,152,2022-12-24,456
+939,Knicks,Hats,Retail Partner,4,159,2022-04-16,636
+940,Spurs,T-Shirts,Online,2,132,2022-06-17,264
+941,Bucks,Hats,Retail Partner,2,155,2024-04-05,310
+942,76ers,Jerseys,Online,4,137,2022-11-09,548
+943,Warriors,Jerseys,Online,4,53,2022-12-21,212
+944,Raptors,Jerseys,Arena Store,4,113,2022-06-11,452
+945,Knicks,Hoodies,Retail Partner,3,79,2023-12-21,237
+946,Raptors,Jerseys,Retail Partner,3,59,2022-11-29,177
+947,Heat,T-Shirts,Online,1,152,2023-02-17,152
+948,Nuggets,T-Shirts,Retail Partner,2,100,2024-02-28,200
+949,Nets,T-Shirts,Online,3,28,2022-12-10,84
+950,Lakers,Hoodies,Online,3,119,2022-03-29,357
+951,Clippers,Collectibles,Arena Store,4,105,2023-05-10,420
+952,Raptors,Collectibles,Retail Partner,1,94,2022-06-23,94
+953,Spurs,Collectibles,Arena Store,4,25,2023-10-11,100
+954,Lakers,Hoodies,Arena Store,1,38,2023-07-04,38
+955,Celtics,Collectibles,Retail Partner,4,159,2022-01-08,636
+956,76ers,Hats,Retail Partner,3,150,2024-04-16,450
+957,Spurs,Jerseys,Retail Partner,3,120,2024-05-22,360
+958,Nuggets,Hoodies,Arena Store,4,71,2023-03-22,284
+959,Lakers,Hats,Retail Partner,4,77,2022-06-24,308
+960,Knicks,T-Shirts,Retail Partner,3,86,2024-04-30,258
+961,Raptors,Hoodies,Arena Store,2,27,2022-06-16,54
+962,Bulls,Hats,Online,1,163,2022-07-12,163
+963,Celtics,Hoodies,Online,2,81,2022-09-05,162
+964,Nuggets,Footwear,Online,2,76,2022-01-02,152
+965,Suns,Jerseys,Online,1,128,2023-05-27,128
+966,Nuggets,Hats,Online,3,88,2023-01-27,264
+967,Lakers,Hoodies,Arena Store,2,71,2022-05-30,142
+968,Mavericks,Hats,Online,4,159,2023-04-05,636
+969,Celtics,Hoodies,Arena Store,1,70,2022-12-03,70
+970,Suns,Hats,Arena Store,2,158,2023-06-10,316
+971,Lakers,Collectibles,Online,2,115,2023-02-02,230
+972,Warriors,Collectibles,Retail Partner,1,64,2022-08-23,64
+973,Bulls,T-Shirts,Online,2,79,2022-11-12,158
+974,Heat,Hats,Arena Store,4,95,2023-12-04,380
+975,Raptors,Hoodies,Online,1,112,2022-12-14,112
+976,Spurs,Hats,Arena Store,3,143,2022-08-20,429
+977,76ers,Collectibles,Online,2,33,2023-01-13,66
+978,Bulls,Jerseys,Retail Partner,1,122,2023-11-18,122
+979,Spurs,Hoodies,Arena Store,1,45,2024-05-24,45
+980,Suns,T-Shirts,Arena Store,1,159,2022-02-16,159
+981,Warriors,Hats,Online,4,29,2024-05-06,116
+982,Warriors,Jerseys,Online,1,113,2023-08-16,113
+983,Warriors,Footwear,Retail Partner,1,36,2022-07-20,36
+984,Suns,Hoodies,Retail Partner,2,126,2023-04-12,252
+985,Bulls,T-Shirts,Retail Partner,2,83,2023-09-18,166
+986,Bucks,Hoodies,Arena Store,4,103,2022-11-22,412
+987,Heat,Hats,Arena Store,4,38,2022-12-17,152
+988,Nets,Collectibles,Arena Store,1,119,2023-05-19,119
+989,Clippers,T-Shirts,Arena Store,1,64,2023-10-17,64
+990,Mavericks,T-Shirts,Retail Partner,4,25,2023-01-22,100
+991,Suns,T-Shirts,Retail Partner,4,82,2022-04-25,328
+992,Suns,Footwear,Online,2,159,2024-05-28,318
+993,Mavericks,Jerseys,Retail Partner,1,55,2022-11-20,55
+994,Celtics,Collectibles,Online,2,65,2024-01-09,130
+995,76ers,Hoodies,Arena Store,3,25,2023-01-04,75
+996,Spurs,Footwear,Online,3,66,2023-03-16,198
+997,Lakers,Jerseys,Arena Store,1,66,2022-01-01,66
+998,Bucks,Footwear,Online,1,82,2023-06-19,82
+999,Lakers,Footwear,Retail Partner,4,55,2022-01-09,220
+1000,Mavericks,Collectibles,Online,4,69,2022-05-13,276
+1001,Celtics,Jerseys,Arena Store,3,130,2023-11-17,390
+1002,Nuggets,T-Shirts,Online,1,151,2022-09-16,151
+1003,Nets,Jerseys,Online,1,129,2022-11-19,129
+1004,Lakers,Hoodies,Arena Store,2,48,2022-07-26,96
+1005,Lakers,Hats,Arena Store,4,28,2022-08-20,112
+1006,Celtics,Jerseys,Arena Store,2,164,2024-02-18,328
+1007,76ers,Footwear,Arena Store,1,41,2023-08-16,41
+1008,Nuggets,T-Shirts,Retail Partner,1,98,2022-12-14,98
+1009,Raptors,Collectibles,Online,1,73,2023-06-01,73
+1010,Clippers,Jerseys,Retail Partner,2,86,2022-06-10,172
+1011,Raptors,Jerseys,Online,3,169,2022-04-22,507
+1012,Celtics,Footwear,Online,4,90,2022-03-17,360
+1013,Lakers,Jerseys,Arena Store,4,88,2022-09-03,352
+1014,Nets,Jerseys,Retail Partner,2,106,2023-04-27,212
+1015,Warriors,Jerseys,Arena Store,3,141,2023-05-22,423
+1016,Clippers,Jerseys,Online,3,92,2023-04-21,276
+1017,Suns,Collectibles,Arena Store,3,111,2023-06-17,333
+1018,Heat,Hats,Arena Store,2,90,2023-07-21,180
+1019,Warriors,Footwear,Arena Store,2,85,2024-01-11,170
+1020,Nuggets,T-Shirts,Arena Store,2,152,2023-03-25,304
+1021,Mavericks,Hoodies,Arena Store,1,74,2023-07-30,74
+1022,Spurs,Footwear,Retail Partner,3,45,2023-07-16,135
+1023,Nets,T-Shirts,Arena Store,3,153,2024-04-02,459
+1024,Heat,Hoodies,Retail Partner,2,159,2024-06-04,318
+1025,Mavericks,Footwear,Arena Store,3,86,2023-12-24,258
+1026,Nets,Jerseys,Arena Store,1,134,2023-05-03,134
+1027,Spurs,T-Shirts,Online,2,159,2024-06-05,318
+1028,Spurs,T-Shirts,Retail Partner,4,131,2023-12-09,524
+1029,Knicks,Hats,Retail Partner,3,102,2024-06-12,306
+1030,Nets,Hoodies,Retail Partner,1,62,2022-04-23,62
+1031,Nuggets,Footwear,Online,2,161,2023-09-20,322
+1032,Nuggets,Jerseys,Arena Store,1,43,2023-02-26,43
+1033,Mavericks,Collectibles,Retail Partner,1,121,2022-07-21,121
+1034,Heat,Hoodies,Retail Partner,1,160,2022-08-06,160
+1035,Warriors,Footwear,Retail Partner,1,59,2023-01-12,59
+1036,Bulls,Hoodies,Online,3,124,2023-09-14,372
+1037,Bucks,Collectibles,Retail Partner,1,37,2023-01-20,37
+1038,Bulls,Hats,Arena Store,4,109,2024-01-19,436
+1039,Bucks,T-Shirts,Retail Partner,3,155,2022-06-09,465
+1040,Lakers,Hats,Retail Partner,4,57,2023-12-21,228
+1041,Mavericks,Collectibles,Arena Store,4,112,2023-04-28,448
+1042,Bucks,Hats,Retail Partner,3,175,2022-03-18,525
+1043,Suns,Hoodies,Online,1,171,2024-04-28,171
+1044,Lakers,Collectibles,Online,3,109,2022-08-24,327
+1045,Bulls,Hats,Arena Store,3,68,2024-05-27,204
+1046,Nets,Hats,Online,2,68,2023-04-27,136
+1047,Suns,Hats,Online,1,121,2023-06-02,121
+1048,Knicks,Hats,Retail Partner,3,126,2022-04-19,378
+1049,Nets,Footwear,Retail Partner,4,44,2023-08-29,176
+1050,Celtics,Collectibles,Retail Partner,1,61,2023-08-13,61
+1051,Clippers,Hats,Online,1,26,2022-06-27,26
+1052,Mavericks,Jerseys,Retail Partner,1,48,2022-12-15,48
+1053,Celtics,Footwear,Online,3,44,2024-04-20,132
+1054,Heat,Hats,Online,3,171,2023-11-21,513
+1055,Mavericks,T-Shirts,Online,3,72,2022-06-27,216
+1056,Knicks,Collectibles,Retail Partner,3,171,2024-05-20,513
+1057,Raptors,Hats,Arena Store,3,56,2022-05-19,168
+1058,Celtics,Collectibles,Retail Partner,1,148,2024-04-04,148
+1059,76ers,Collectibles,Retail Partner,2,77,2022-09-19,154
+1060,76ers,Jerseys,Arena Store,3,142,2022-10-13,426
+1061,Heat,Hats,Online,3,30,2022-11-29,90
+1062,Clippers,Hats,Retail Partner,3,142,2022-11-01,426
+1063,Warriors,Footwear,Online,1,126,2024-03-13,126
+1064,Raptors,Jerseys,Retail Partner,2,47,2023-04-04,94
+1065,Celtics,T-Shirts,Retail Partner,3,61,2023-07-10,183
+1066,Warriors,Hats,Retail Partner,3,173,2022-01-30,519
+1067,Raptors,Footwear,Online,4,101,2023-01-04,404
+1068,Warriors,Collectibles,Online,3,158,2024-05-17,474
+1069,Celtics,Hoodies,Retail Partner,3,127,2023-10-01,381
+1070,Nuggets,T-Shirts,Arena Store,4,145,2022-08-01,580
+1071,Knicks,Footwear,Arena Store,1,87,2024-02-26,87
+1072,76ers,T-Shirts,Retail Partner,4,84,2022-07-07,336
+1073,Warriors,Hoodies,Arena Store,2,156,2022-03-25,312
+1074,Nuggets,T-Shirts,Arena Store,1,66,2022-08-30,66
+1075,Bulls,Footwear,Retail Partner,3,136,2024-04-22,408
+1076,Raptors,Hats,Online,3,86,2023-03-07,258
+1077,Knicks,T-Shirts,Online,2,160,2023-10-22,320
+1078,Suns,Collectibles,Online,3,140,2023-07-30,420
+1079,Bulls,Hats,Retail Partner,2,156,2024-02-10,312
+1080,Clippers,Jerseys,Retail Partner,1,59,2023-04-02,59
+1081,Warriors,Collectibles,Retail Partner,1,122,2022-01-12,122
+1082,Nets,Jerseys,Online,3,51,2022-06-20,153
+1083,Nets,Jerseys,Arena Store,3,126,2022-04-20,378
+1084,Heat,T-Shirts,Online,3,152,2022-09-03,456
+1085,Raptors,Hoodies,Retail Partner,1,82,2022-02-14,82
+1086,Suns,Hats,Arena Store,4,84,2023-06-06,336
+1087,Nets,T-Shirts,Arena Store,4,145,2023-11-03,580
+1088,Spurs,Hoodies,Online,1,60,2022-06-05,60
+1089,Clippers,Footwear,Retail Partner,3,86,2022-02-03,258
+1090,Nuggets,T-Shirts,Online,1,154,2024-01-14,154
+1091,Bulls,Footwear,Online,2,78,2022-07-26,156
+1092,Heat,Jerseys,Retail Partner,2,141,2023-06-12,282
+1093,Suns,Collectibles,Online,3,122,2024-05-15,366
+1094,Heat,T-Shirts,Online,3,75,2023-09-29,225
+1095,Clippers,Hats,Retail Partner,2,142,2023-05-11,284
+1096,Heat,T-Shirts,Online,3,133,2022-04-10,399
+1097,Suns,Collectibles,Arena Store,1,93,2023-06-03,93
+1098,Knicks,Footwear,Retail Partner,1,110,2024-02-29,110
+1099,Knicks,Hoodies,Retail Partner,2,165,2023-05-24,330
+1100,Raptors,Hoodies,Online,1,94,2022-10-13,94
+1101,Bucks,Footwear,Online,1,140,2024-05-16,140
+1102,Warriors,Hats,Arena Store,3,68,2023-10-24,204
+1103,Heat,Hoodies,Arena Store,3,61,2023-02-16,183
+1104,Clippers,Hoodies,Retail Partner,4,75,2024-04-08,300
+1105,Lakers,T-Shirts,Arena Store,4,145,2023-09-05,580
+1106,Bucks,T-Shirts,Retail Partner,1,130,2023-07-05,130
+1107,Raptors,Collectibles,Retail Partner,3,70,2023-10-31,210
+1108,Clippers,Jerseys,Arena Store,3,86,2022-08-17,258
+1109,Bucks,Footwear,Online,2,122,2023-05-29,244
+1110,Celtics,Footwear,Arena Store,3,119,2023-09-25,357
+1111,Bulls,T-Shirts,Retail Partner,4,107,2023-06-06,428
+1112,Clippers,Jerseys,Arena Store,2,76,2022-06-03,152
+1113,Mavericks,Collectibles,Arena Store,1,86,2022-01-14,86
+1114,76ers,T-Shirts,Retail Partner,3,122,2022-05-17,366
+1115,Warriors,Hats,Retail Partner,2,153,2022-05-12,306
+1116,Knicks,Hats,Arena Store,3,109,2024-05-15,327
+1117,Suns,Hats,Online,2,87,2023-02-19,174
+1118,Warriors,T-Shirts,Retail Partner,2,60,2022-10-07,120
+1119,Nets,Hats,Retail Partner,2,45,2022-02-19,90
+1120,Suns,Collectibles,Arena Store,3,178,2023-09-11,534
+1121,Nuggets,Footwear,Online,3,104,2024-03-06,312
+1122,Bulls,Jerseys,Retail Partner,3,139,2023-06-30,417
+1123,Suns,Hoodies,Online,2,99,2022-08-09,198
+1124,Raptors,Footwear,Online,4,57,2022-06-13,228
+1125,Spurs,T-Shirts,Online,4,177,2023-11-09,708
+1126,Nets,T-Shirts,Online,4,151,2024-03-27,604
+1127,Bucks,T-Shirts,Retail Partner,4,102,2022-07-02,408
+1128,Clippers,T-Shirts,Retail Partner,2,71,2023-10-24,142
+1129,Spurs,Collectibles,Retail Partner,4,67,2024-03-25,268
+1130,Heat,Jerseys,Retail Partner,4,77,2023-04-26,308
+1131,Nuggets,Jerseys,Arena Store,1,41,2022-01-15,41
+1132,Nets,Hoodies,Retail Partner,2,123,2022-12-19,246
+1133,Warriors,Collectibles,Retail Partner,1,129,2024-02-21,129
+1134,Warriors,Hats,Retail Partner,4,69,2023-01-18,276
+1135,Mavericks,Footwear,Online,4,71,2023-08-08,284
+1136,Nuggets,Jerseys,Online,1,56,2023-03-12,56
+1137,Nuggets,Hats,Arena Store,1,166,2024-05-26,166
+1138,Spurs,T-Shirts,Arena Store,1,45,2023-05-27,45
+1139,Suns,Hoodies,Arena Store,4,109,2023-03-26,436
+1140,Lakers,Hoodies,Arena Store,3,170,2024-04-12,510
+1141,76ers,Hoodies,Arena Store,1,43,2023-01-15,43
+1142,Bulls,Jerseys,Arena Store,2,36,2022-11-26,72
+1143,Nets,T-Shirts,Online,3,60,2022-01-14,180
+1144,Lakers,Hats,Arena Store,1,43,2024-05-28,43
+1145,Mavericks,T-Shirts,Online,3,42,2023-11-07,126
+1146,Suns,T-Shirts,Retail Partner,1,107,2022-03-15,107
+1147,Mavericks,Footwear,Online,1,164,2022-07-19,164
+1148,Raptors,Hoodies,Retail Partner,2,112,2024-05-09,224
+1149,Clippers,T-Shirts,Retail Partner,3,123,2022-09-05,369
+1150,Nuggets,Jerseys,Online,3,100,2022-01-17,300
+1151,Raptors,Footwear,Retail Partner,1,129,2023-08-07,129
+1152,Suns,Jerseys,Arena Store,2,37,2022-04-26,74
+1153,Suns,T-Shirts,Online,1,91,2022-12-31,91
+1154,76ers,T-Shirts,Online,4,42,2024-03-26,168
+1155,76ers,Jerseys,Online,4,125,2022-08-02,500
+1156,Lakers,Collectibles,Arena Store,3,95,2022-07-01,285
+1157,Mavericks,T-Shirts,Arena Store,2,118,2022-02-20,236
+1158,Spurs,T-Shirts,Arena Store,1,66,2023-03-29,66
+1159,Clippers,Collectibles,Retail Partner,4,43,2023-10-16,172
+1160,Raptors,Hoodies,Arena Store,2,161,2023-08-20,322
+1161,Bucks,T-Shirts,Retail Partner,1,130,2023-11-13,130
+1162,Spurs,Hats,Online,4,125,2024-04-24,500
+1163,Mavericks,Collectibles,Online,2,129,2024-04-05,258
+1164,Spurs,Hats,Online,1,140,2023-09-25,140
+1165,76ers,Hats,Online,2,166,2023-04-06,332
+1166,Mavericks,Jerseys,Online,1,134,2023-10-17,134
+1167,Bulls,Jerseys,Arena Store,4,83,2023-12-13,332
+1168,Mavericks,Collectibles,Arena Store,2,164,2023-03-07,328
+1169,Nuggets,Footwear,Retail Partner,3,123,2022-10-19,369
+1170,Nets,Hoodies,Online,3,148,2024-01-14,444
+1171,Bulls,Hats,Arena Store,4,129,2024-03-22,516
+1172,Suns,Collectibles,Arena Store,2,107,2023-06-09,214
+1173,Bucks,Hoodies,Retail Partner,1,73,2022-11-10,73
+1174,Spurs,Hoodies,Retail Partner,4,148,2022-11-24,592
+1175,Bulls,T-Shirts,Arena Store,1,141,2022-10-25,141
+1176,Raptors,Hoodies,Retail Partner,2,38,2022-03-07,76
+1177,Nets,Hoodies,Online,2,42,2022-06-01,84
+1178,Nuggets,T-Shirts,Arena Store,2,167,2023-03-14,334
+1179,Mavericks,Footwear,Arena Store,1,64,2023-02-11,64
+1180,Nuggets,Footwear,Arena Store,1,178,2022-11-04,178
+1181,Raptors,Collectibles,Arena Store,4,49,2022-02-07,196
+1182,Raptors,Jerseys,Arena Store,3,100,2023-02-19,300
+1183,Clippers,Footwear,Retail Partner,2,167,2023-09-27,334
+1184,Spurs,Footwear,Arena Store,3,153,2023-12-15,459
+1185,Mavericks,Footwear,Arena Store,3,47,2023-07-01,141
+1186,Spurs,Footwear,Online,2,35,2023-06-04,70
+1187,Bulls,T-Shirts,Arena Store,2,176,2023-06-05,352
+1188,Raptors,Collectibles,Arena Store,4,37,2023-07-30,148
+1189,Warriors,Collectibles,Online,1,102,2022-04-18,102
+1190,Bulls,T-Shirts,Retail Partner,1,63,2022-02-17,63
+1191,Heat,Hoodies,Retail Partner,2,48,2023-03-12,96
+1192,Mavericks,Jerseys,Retail Partner,3,83,2023-04-29,249
+1193,Nets,T-Shirts,Retail Partner,1,143,2023-04-14,143
+1194,Bucks,T-Shirts,Retail Partner,4,33,2023-10-07,132
+1195,Heat,Footwear,Retail Partner,2,115,2023-05-04,230
+1196,Nets,Hats,Arena Store,4,112,2023-04-05,448
+1197,Knicks,Footwear,Retail Partner,2,146,2023-10-29,292
+1198,Celtics,Jerseys,Online,2,78,2022-03-28,156
+1199,Raptors,Collectibles,Retail Partner,1,103,2023-01-10,103
+1200,Nuggets,T-Shirts,Retail Partner,3,128,2022-03-03,384
+1201,Suns,Footwear,Online,3,63,2022-12-10,189
+1202,76ers,Jerseys,Arena Store,3,145,2022-07-27,435
+1203,Clippers,T-Shirts,Retail Partner,4,112,2023-07-10,448
+1204,Heat,Hoodies,Online,1,78,2023-03-13,78
+1205,Mavericks,Collectibles,Arena Store,2,163,2024-02-10,326
+1206,Lakers,Collectibles,Online,3,73,2022-11-19,219
+1207,Warriors,Collectibles,Arena Store,4,164,2023-10-24,656
+1208,Bucks,Footwear,Arena Store,2,49,2022-09-22,98
+1209,Raptors,Hoodies,Online,1,109,2022-01-27,109
+1210,Spurs,Collectibles,Arena Store,1,135,2024-02-20,135
+1211,Knicks,Footwear,Online,4,143,2022-12-15,572
+1212,Clippers,Footwear,Arena Store,1,171,2023-11-06,171
+1213,Nets,Jerseys,Arena Store,3,43,2023-09-24,129
+1214,Bulls,T-Shirts,Retail Partner,2,122,2023-01-12,244
+1215,Heat,Hoodies,Retail Partner,3,153,2024-05-15,459
+1216,76ers,Jerseys,Retail Partner,1,166,2022-03-24,166
+1217,Nuggets,Hats,Arena Store,1,30,2024-01-28,30
+1218,Suns,Collectibles,Online,1,87,2024-01-03,87
+1219,Raptors,Footwear,Arena Store,3,70,2022-04-01,210
+1220,Celtics,Footwear,Retail Partner,1,80,2023-01-03,80
+1221,Suns,Jerseys,Arena Store,1,64,2022-02-26,64
+1222,Clippers,Collectibles,Online,4,43,2022-09-05,172
+1223,Lakers,T-Shirts,Arena Store,3,114,2022-04-30,342
+1224,Nets,Jerseys,Retail Partner,3,109,2024-06-15,327
+1225,Lakers,T-Shirts,Retail Partner,4,165,2022-02-17,660
+1226,Celtics,T-Shirts,Arena Store,4,61,2023-08-21,244
+1227,Mavericks,Hats,Arena Store,3,81,2022-11-27,243
+1228,Heat,Hoodies,Retail Partner,1,158,2022-12-01,158
+1229,Bucks,Jerseys,Online,4,131,2024-04-23,524
+1230,Clippers,Footwear,Online,2,145,2023-03-12,290
+1231,Nuggets,Footwear,Retail Partner,3,134,2022-02-24,402
+1232,Nets,T-Shirts,Arena Store,4,118,2024-06-16,472
+1233,Spurs,Hoodies,Retail Partner,2,29,2022-08-14,58
+1234,Clippers,Hoodies,Arena Store,2,58,2022-09-24,116
+1235,Spurs,Collectibles,Arena Store,2,37,2024-03-17,74
+1236,Nets,T-Shirts,Retail Partner,3,175,2023-09-26,525
+1237,76ers,Footwear,Arena Store,4,124,2023-10-30,496
+1238,76ers,Collectibles,Arena Store,3,166,2022-07-14,498
+1239,Knicks,Footwear,Arena Store,2,155,2023-12-09,310
+1240,Lakers,Collectibles,Online,1,82,2022-05-06,82
+1241,Celtics,Collectibles,Arena Store,4,47,2023-02-22,188
+1242,76ers,Hats,Online,1,154,2024-04-16,154
+1243,Raptors,T-Shirts,Arena Store,3,128,2023-09-29,384
+1244,Suns,Footwear,Arena Store,3,172,2023-05-13,516
+1245,Clippers,Hoodies,Online,2,154,2022-03-16,308
+1246,Celtics,Collectibles,Arena Store,4,55,2023-12-01,220
+1247,Nets,T-Shirts,Arena Store,2,143,2023-09-02,286
+1248,76ers,Jerseys,Retail Partner,3,89,2023-07-15,267
+1249,Warriors,Hoodies,Retail Partner,4,117,2022-05-17,468
+1250,Bucks,Footwear,Online,3,61,2023-07-28,183
+1251,Clippers,T-Shirts,Arena Store,3,42,2022-06-02,126
+1252,Spurs,Jerseys,Retail Partner,2,148,2022-01-06,296
+1253,Warriors,Collectibles,Arena Store,1,37,2023-01-27,37
+1254,76ers,Footwear,Arena Store,2,164,2022-04-30,328
+1255,Nets,Collectibles,Retail Partner,2,145,2023-06-02,290
+1256,Nuggets,Jerseys,Retail Partner,2,88,2022-02-07,176
+1257,Raptors,Hats,Online,2,47,2022-08-05,94
+1258,Nuggets,Jerseys,Online,2,32,2023-12-03,64
+1259,Clippers,Jerseys,Online,2,54,2023-11-15,108
+1260,Celtics,T-Shirts,Arena Store,4,157,2022-05-26,628
+1261,Lakers,Collectibles,Online,1,179,2023-09-15,179
+1262,Mavericks,T-Shirts,Arena Store,1,139,2022-11-27,139
+1263,Spurs,Hoodies,Arena Store,4,115,2022-01-06,460
+1264,Bucks,Jerseys,Retail Partner,3,63,2023-06-29,189
+1265,Suns,T-Shirts,Arena Store,3,57,2022-06-05,171
+1266,Clippers,Hoodies,Online,3,38,2023-10-19,114
+1267,Spurs,Hats,Retail Partner,2,35,2024-02-06,70
+1268,Suns,T-Shirts,Arena Store,2,160,2023-11-24,320
+1269,Nuggets,Collectibles,Online,3,54,2022-04-15,162
+1270,Nets,Hats,Online,3,39,2023-09-28,117
+1271,Nets,Jerseys,Arena Store,1,79,2022-01-30,79
+1272,Spurs,Footwear,Arena Store,1,111,2023-04-18,111
+1273,Nets,T-Shirts,Online,2,63,2022-01-07,126
+1274,Mavericks,Hats,Online,4,163,2023-10-11,652
+1275,Clippers,Footwear,Arena Store,2,64,2024-06-10,128
+1276,Bucks,Jerseys,Retail Partner,1,172,2022-09-14,172
+1277,76ers,Jerseys,Retail Partner,3,105,2023-10-26,315
+1278,Clippers,Collectibles,Retail Partner,4,60,2022-07-09,240
+1279,Mavericks,Collectibles,Online,1,96,2022-11-19,96
+1280,Nets,Jerseys,Retail Partner,2,74,2023-02-15,148
+1281,Warriors,Hoodies,Online,1,135,2023-12-01,135
+1282,Lakers,Hoodies,Arena Store,4,118,2023-05-16,472
+1283,Knicks,Collectibles,Arena Store,4,179,2022-05-11,716
+1284,Warriors,Hoodies,Online,1,101,2022-12-18,101
+1285,Nets,T-Shirts,Online,3,174,2023-08-11,522
+1286,Spurs,Hats,Online,1,149,2024-03-24,149
+1287,Heat,Jerseys,Retail Partner,3,124,2024-06-11,372
+1288,Nuggets,Footwear,Arena Store,1,71,2022-03-24,71
+1289,Warriors,Hats,Retail Partner,1,55,2023-05-12,55
+1290,Nuggets,Footwear,Online,2,170,2022-04-11,340
+1291,Bucks,Collectibles,Retail Partner,3,41,2023-04-03,123
+1292,Bulls,Collectibles,Retail Partner,4,59,2023-06-20,236
+1293,Clippers,Footwear,Retail Partner,3,168,2024-04-15,504
+1294,Heat,Hats,Retail Partner,4,138,2024-05-22,552
+1295,Bucks,Hats,Online,2,88,2023-05-04,176
+1296,Suns,Hoodies,Retail Partner,2,89,2023-05-11,178
+1297,Lakers,Hats,Online,1,78,2023-01-20,78
+1298,Mavericks,Hats,Online,2,39,2022-01-11,78
+1299,Bulls,T-Shirts,Arena Store,4,139,2023-09-01,556
+1300,Lakers,T-Shirts,Arena Store,4,79,2023-08-15,316
+1301,Bulls,Jerseys,Retail Partner,4,105,2022-07-06,420
+1302,Nuggets,T-Shirts,Arena Store,3,33,2024-04-09,99
+1303,Nets,Footwear,Online,1,59,2022-07-17,59
+1304,76ers,Footwear,Arena Store,1,63,2022-02-27,63
+1305,Celtics,Hoodies,Retail Partner,4,134,2022-04-23,536
+1306,Spurs,Hoodies,Retail Partner,1,145,2022-04-26,145
+1307,Bulls,Footwear,Retail Partner,2,89,2024-06-04,178
+1308,Nets,Footwear,Retail Partner,1,97,2023-06-01,97
+1309,Bulls,Hats,Retail Partner,2,65,2022-05-24,130
+1310,Clippers,Jerseys,Arena Store,4,79,2024-02-29,316
+1311,Nets,Jerseys,Online,3,146,2023-06-16,438
+1312,76ers,Hats,Online,1,72,2022-02-19,72
+1313,Knicks,Hoodies,Retail Partner,2,68,2024-04-18,136
+1314,Knicks,Footwear,Retail Partner,3,47,2022-02-10,141
+1315,Warriors,Jerseys,Online,1,67,2022-09-19,67
+1316,Spurs,Footwear,Online,3,80,2022-09-15,240
+1317,Bulls,Collectibles,Online,3,80,2023-03-23,240
+1318,76ers,T-Shirts,Arena Store,2,122,2023-01-17,244
+1319,76ers,Footwear,Retail Partner,3,91,2024-03-22,273
+1320,Bucks,Collectibles,Retail Partner,3,136,2023-12-07,408
+1321,Bucks,Collectibles,Online,2,51,2023-06-26,102
+1322,Warriors,Collectibles,Retail Partner,1,39,2022-05-02,39
+1323,76ers,Hats,Online,2,113,2022-09-27,226
+1324,Suns,Hoodies,Arena Store,2,152,2023-07-24,304
+1325,Nets,Hats,Online,4,84,2023-04-27,336
+1326,Spurs,Hats,Retail Partner,2,44,2024-04-02,88
+1327,76ers,Hats,Retail Partner,3,58,2022-05-26,174
+1328,Heat,Jerseys,Online,2,164,2023-11-15,328
+1329,Knicks,Jerseys,Online,4,115,2023-07-27,460
+1330,Clippers,Collectibles,Retail Partner,4,143,2023-04-01,572
+1331,Nuggets,Collectibles,Arena Store,3,30,2022-01-23,90
+1332,Raptors,Footwear,Online,2,132,2023-05-23,264
+1333,Celtics,Collectibles,Retail Partner,3,49,2023-05-26,147
+1334,Heat,Jerseys,Arena Store,2,69,2023-12-07,138
+1335,76ers,Hats,Online,3,40,2022-11-10,120
+1336,Suns,Hoodies,Retail Partner,1,40,2023-03-07,40
+1337,Suns,Hats,Retail Partner,4,56,2022-10-24,224
+1338,Nuggets,Footwear,Retail Partner,2,78,2023-07-02,156
+1339,Mavericks,Collectibles,Online,1,38,2023-01-03,38
+1340,Knicks,Hoodies,Online,1,60,2022-10-30,60
+1341,Spurs,T-Shirts,Retail Partner,4,49,2022-09-08,196
+1342,Bucks,Collectibles,Arena Store,3,63,2023-12-21,189
+1343,Warriors,Hats,Arena Store,1,62,2022-09-25,62
+1344,76ers,Hats,Arena Store,4,54,2024-04-19,216
+1345,Raptors,Footwear,Retail Partner,1,101,2023-03-22,101
+1346,Knicks,Hats,Retail Partner,4,118,2023-07-28,472
+1347,Celtics,T-Shirts,Arena Store,4,42,2023-08-24,168
+1348,Warriors,Footwear,Arena Store,3,25,2022-06-06,75
+1349,Bucks,Footwear,Arena Store,3,99,2022-03-08,297
+1350,Bucks,Hats,Arena Store,1,134,2024-02-13,134
+1351,Spurs,Footwear,Retail Partner,3,66,2022-03-27,198
+1352,Warriors,Jerseys,Retail Partner,3,91,2024-05-19,273
+1353,Raptors,T-Shirts,Retail Partner,2,164,2022-10-16,328
+1354,Raptors,Collectibles,Online,3,152,2024-06-01,456
+1355,Warriors,Footwear,Retail Partner,3,152,2022-07-08,456
+1356,Knicks,T-Shirts,Arena Store,4,115,2024-01-07,460
+1357,Raptors,T-Shirts,Arena Store,3,63,2023-04-26,189
+1358,Heat,Collectibles,Arena Store,4,107,2023-11-01,428
+1359,Suns,Footwear,Online,4,126,2022-05-29,504
+1360,Mavericks,T-Shirts,Online,1,124,2023-02-25,124
+1361,Bucks,Collectibles,Arena Store,2,26,2024-02-20,52
+1362,Spurs,Collectibles,Arena Store,1,139,2022-10-22,139
+1363,Nets,T-Shirts,Retail Partner,3,50,2022-09-12,150
+1364,Nuggets,Hats,Retail Partner,4,118,2022-03-15,472
+1365,Heat,Hats,Arena Store,3,107,2022-10-22,321
+1366,Heat,T-Shirts,Retail Partner,4,69,2023-03-03,276
+1367,Lakers,Collectibles,Retail Partner,3,140,2024-05-09,420
+1368,Bulls,Hoodies,Retail Partner,4,102,2024-06-10,408
+1369,Mavericks,T-Shirts,Arena Store,4,167,2023-06-13,668
+1370,76ers,Footwear,Arena Store,4,78,2023-04-07,312
+1371,Bulls,Jerseys,Arena Store,2,46,2023-11-09,92
+1372,Knicks,Footwear,Retail Partner,2,130,2023-04-26,260
+1373,Nets,T-Shirts,Retail Partner,1,105,2023-12-10,105
+1374,Warriors,Footwear,Online,2,46,2024-02-05,92
+1375,Celtics,T-Shirts,Retail Partner,2,61,2024-04-29,122
+1376,Raptors,Collectibles,Arena Store,3,88,2024-04-26,264
+1377,Warriors,Hoodies,Online,3,168,2023-09-19,504
+1378,Celtics,Collectibles,Online,3,149,2023-08-12,447
+1379,Spurs,Footwear,Retail Partner,4,179,2024-06-07,716
+1380,Lakers,T-Shirts,Retail Partner,1,146,2022-03-09,146
+1381,Heat,Jerseys,Retail Partner,3,66,2024-01-13,198
+1382,Celtics,Collectibles,Arena Store,4,164,2022-04-21,656
+1383,Bucks,Hoodies,Arena Store,3,78,2022-08-02,234
+1384,Spurs,Hoodies,Arena Store,1,111,2022-06-26,111
+1385,76ers,Hats,Online,2,87,2023-03-28,174
+1386,Nets,Hats,Arena Store,2,131,2023-05-05,262
+1387,Heat,Hats,Retail Partner,2,108,2022-03-19,216
+1388,Lakers,Footwear,Retail Partner,2,146,2023-04-22,292
+1389,Knicks,Hats,Arena Store,2,127,2023-04-04,254
+1390,Knicks,Hats,Retail Partner,3,153,2022-01-18,459
+1391,Knicks,Hats,Online,1,42,2023-12-05,42
+1392,Raptors,Hoodies,Online,3,115,2023-02-08,345
+1393,Raptors,T-Shirts,Online,2,44,2022-09-18,88
+1394,Knicks,Hats,Online,4,108,2024-06-03,432
+1395,Bulls,Jerseys,Arena Store,4,73,2022-02-24,292
+1396,Clippers,Hats,Arena Store,4,34,2023-10-25,136
+1397,Heat,T-Shirts,Online,2,161,2023-07-14,322
+1398,Lakers,Jerseys,Retail Partner,3,151,2022-08-29,453
+1399,Celtics,T-Shirts,Online,4,82,2022-02-07,328
+1400,Clippers,Footwear,Arena Store,3,154,2022-11-15,462
+1401,Lakers,Footwear,Retail Partner,3,93,2022-10-27,279
+1402,Suns,Hats,Retail Partner,2,51,2023-04-21,102
+1403,Raptors,Footwear,Arena Store,4,64,2023-03-29,256
+1404,Bucks,Hoodies,Retail Partner,2,36,2024-04-24,72
+1405,Bucks,T-Shirts,Online,2,54,2023-01-19,108
+1406,Heat,Footwear,Arena Store,2,46,2023-05-05,92
+1407,Clippers,Jerseys,Arena Store,1,153,2023-11-09,153
+1408,Bucks,T-Shirts,Online,2,169,2022-08-15,338
+1409,Spurs,Collectibles,Online,1,86,2022-06-15,86
+1410,Lakers,Footwear,Online,1,175,2023-11-11,175
+1411,Heat,Hats,Retail Partner,1,152,2023-11-27,152
+1412,Bulls,Collectibles,Arena Store,1,167,2023-11-26,167
+1413,Mavericks,Jerseys,Arena Store,1,175,2023-07-17,175
+1414,Heat,Jerseys,Online,1,103,2022-04-02,103
+1415,Celtics,Jerseys,Arena Store,4,120,2023-06-17,480
+1416,Bulls,Footwear,Arena Store,3,61,2022-03-29,183
+1417,Bucks,Footwear,Retail Partner,2,115,2023-05-27,230
+1418,Heat,Jerseys,Arena Store,1,57,2022-08-13,57
+1419,Heat,Jerseys,Retail Partner,1,46,2024-01-26,46
+1420,Bucks,Jerseys,Arena Store,1,108,2022-01-03,108
+1421,Suns,Collectibles,Retail Partner,1,132,2022-04-23,132
+1422,Clippers,Footwear,Online,3,40,2022-03-07,120
+1423,Nuggets,Collectibles,Online,4,114,2022-12-04,456
+1424,Suns,Jerseys,Online,3,163,2022-03-26,489
+1425,Knicks,Hoodies,Online,4,77,2022-10-19,308
+1426,Raptors,Hoodies,Retail Partner,2,85,2024-03-28,170
+1427,76ers,Hoodies,Online,3,83,2023-05-13,249
+1428,Clippers,Hats,Arena Store,3,176,2023-09-13,528
+1429,Mavericks,Jerseys,Online,2,37,2024-03-17,74
+1430,Clippers,Jerseys,Retail Partner,2,143,2022-06-05,286
+1431,Heat,T-Shirts,Online,2,43,2024-05-06,86
+1432,Nuggets,Jerseys,Arena Store,2,129,2023-10-13,258
+1433,76ers,T-Shirts,Arena Store,2,39,2023-11-21,78
+1434,Lakers,T-Shirts,Arena Store,4,119,2022-10-28,476
+1435,Raptors,Collectibles,Online,3,156,2024-02-12,468
+1436,Bulls,Hats,Online,2,89,2024-04-16,178
+1437,Clippers,Hats,Arena Store,3,26,2023-12-14,78
+1438,Bulls,Collectibles,Arena Store,3,141,2023-12-27,423
+1439,Heat,Footwear,Retail Partner,1,154,2024-02-04,154
+1440,Bucks,Collectibles,Arena Store,1,134,2023-11-21,134
+1441,Spurs,Jerseys,Online,1,144,2022-09-25,144
+1442,Bulls,T-Shirts,Arena Store,1,147,2023-11-02,147
+1443,Raptors,Hoodies,Retail Partner,4,117,2022-10-27,468
+1444,Raptors,Collectibles,Retail Partner,1,153,2023-07-13,153
+1445,Warriors,Hoodies,Online,2,104,2023-10-09,208
+1446,Heat,Jerseys,Online,3,141,2022-01-02,423
+1447,Suns,Hoodies,Retail Partner,4,83,2022-06-16,332
+1448,76ers,Jerseys,Online,1,105,2024-04-14,105
+1449,Lakers,Hoodies,Online,2,169,2022-06-27,338
+1450,Mavericks,Hoodies,Retail Partner,4,37,2023-02-15,148
+1451,Heat,Hoodies,Retail Partner,2,35,2022-05-22,70
+1452,76ers,Collectibles,Online,2,176,2023-03-31,352
+1453,Celtics,Jerseys,Arena Store,1,90,2023-12-23,90
+1454,Celtics,Hoodies,Online,4,31,2023-07-22,124
+1455,Spurs,Collectibles,Online,1,147,2024-03-11,147
+1456,Bulls,Collectibles,Retail Partner,3,154,2022-09-19,462
+1457,Celtics,T-Shirts,Arena Store,1,154,2023-03-31,154
+1458,Suns,Footwear,Arena Store,1,102,2023-04-30,102
+1459,Nets,Hoodies,Online,4,38,2023-08-18,152
+1460,Warriors,Footwear,Online,4,106,2023-04-25,424
+1461,Celtics,Collectibles,Online,1,57,2023-10-14,57
+1462,Knicks,T-Shirts,Retail Partner,3,51,2023-01-18,153
+1463,Spurs,Hats,Online,2,129,2022-04-19,258
+1464,Celtics,Jerseys,Arena Store,1,145,2024-05-12,145
+1465,Lakers,Hoodies,Retail Partner,4,112,2024-05-04,448
+1466,Suns,Collectibles,Online,2,30,2023-02-01,60
+1467,Bucks,Collectibles,Retail Partner,3,123,2023-05-05,369
+1468,Raptors,Footwear,Arena Store,1,178,2022-02-13,178
+1469,Warriors,Hoodies,Arena Store,3,92,2023-07-15,276
+1470,Nets,Jerseys,Retail Partner,1,110,2022-05-17,110
+1471,Heat,Hats,Online,1,83,2024-01-12,83
+1472,76ers,Footwear,Online,3,111,2024-04-08,333
+1473,Knicks,T-Shirts,Retail Partner,1,51,2023-05-14,51
+1474,Lakers,Jerseys,Arena Store,1,84,2023-07-03,84
+1475,76ers,Footwear,Online,4,77,2022-04-25,308
+1476,Mavericks,Hoodies,Retail Partner,4,59,2023-06-19,236
+1477,Mavericks,Jerseys,Arena Store,4,116,2024-05-18,464
+1478,Raptors,Footwear,Retail Partner,2,85,2022-05-23,170
+1479,Bulls,Jerseys,Retail Partner,3,131,2023-01-25,393
+1480,Bucks,T-Shirts,Arena Store,2,118,2022-06-07,236
+1481,Spurs,Hats,Online,1,155,2023-12-28,155
+1482,Mavericks,Jerseys,Arena Store,2,164,2022-09-30,328
+1483,Clippers,Footwear,Retail Partner,4,165,2022-03-14,660
+1484,Mavericks,Hats,Online,4,86,2024-03-03,344
+1485,Warriors,Hats,Retail Partner,1,59,2022-05-04,59
+1486,Heat,Hats,Arena Store,1,84,2023-07-26,84
+1487,Raptors,Jerseys,Online,1,68,2022-03-21,68
+1488,Clippers,T-Shirts,Retail Partner,2,106,2022-08-10,212
+1489,Celtics,Hoodies,Arena Store,3,78,2023-03-06,234
+1490,Mavericks,Hats,Retail Partner,1,76,2022-01-01,76
+1491,Mavericks,T-Shirts,Arena Store,3,37,2023-12-19,111
+1492,Nets,Jerseys,Arena Store,1,39,2023-08-30,39
+1493,76ers,T-Shirts,Retail Partner,4,165,2022-11-26,660
+1494,Mavericks,Collectibles,Arena Store,4,161,2023-04-18,644
+1495,Nuggets,Collectibles,Online,2,94,2022-05-11,188
+1496,Knicks,T-Shirts,Arena Store,3,94,2022-07-25,282
+1497,Knicks,Hoodies,Online,3,73,2023-12-25,219
+1498,Nets,Hats,Retail Partner,4,99,2023-10-16,396
+1499,Mavericks,T-Shirts,Retail Partner,2,78,2024-03-27,156
+1500,Bulls,Hats,Online,1,101,2023-07-20,101
+1501,Nuggets,Collectibles,Arena Store,3,133,2023-06-17,399
+1502,Bulls,Collectibles,Online,3,130,2022-12-10,390
+1503,Bulls,Hoodies,Arena Store,3,149,2023-08-07,447
+1504,Mavericks,Hoodies,Online,3,101,2024-03-06,303
+1505,Warriors,Hoodies,Retail Partner,2,39,2024-04-07,78
+1506,Bulls,Jerseys,Retail Partner,4,55,2022-12-23,220
+1507,Clippers,Collectibles,Retail Partner,2,127,2023-09-06,254
+1508,Mavericks,Collectibles,Online,2,35,2022-10-06,70
+1509,Nets,Hoodies,Arena Store,2,106,2022-10-06,212
+1510,Bulls,Collectibles,Arena Store,1,137,2024-05-06,137
+1511,Warriors,Collectibles,Arena Store,3,164,2022-02-08,492
+1512,Bucks,Hoodies,Arena Store,3,120,2024-01-19,360
+1513,Warriors,Hoodies,Arena Store,4,55,2023-11-16,220
+1514,Nuggets,Collectibles,Arena Store,2,166,2023-04-19,332
+1515,Lakers,Hats,Retail Partner,3,29,2022-01-24,87
+1516,Raptors,Hats,Online,4,113,2024-02-11,452
+1517,Lakers,Footwear,Arena Store,2,131,2022-07-20,262
+1518,Warriors,Collectibles,Retail Partner,2,166,2023-03-04,332
+1519,Celtics,Hats,Arena Store,2,48,2022-08-14,96
+1520,Heat,Collectibles,Arena Store,2,54,2024-04-15,108
+1521,Bucks,Hats,Arena Store,3,94,2022-07-25,282
+1522,Mavericks,Hats,Arena Store,3,42,2022-10-26,126
+1523,Nets,T-Shirts,Arena Store,3,136,2022-01-28,408
+1524,Clippers,T-Shirts,Online,2,179,2024-03-15,358
+1525,Knicks,Collectibles,Arena Store,2,107,2023-11-18,214
+1526,76ers,Jerseys,Retail Partner,3,74,2024-05-06,222
+1527,Nets,Collectibles,Retail Partner,4,111,2022-09-15,444
+1528,76ers,Hats,Arena Store,3,174,2023-11-26,522
+1529,Nets,Hoodies,Arena Store,3,160,2024-03-18,480
+1530,Mavericks,T-Shirts,Arena Store,4,124,2022-12-08,496
+1531,Warriors,Footwear,Arena Store,1,58,2023-08-06,58
+1532,Celtics,Jerseys,Retail Partner,3,37,2023-07-03,111
+1533,Bulls,Hats,Retail Partner,4,87,2022-11-30,348
+1534,Mavericks,Hoodies,Retail Partner,1,99,2022-01-08,99
+1535,Celtics,Collectibles,Arena Store,3,73,2022-08-26,219
+1536,Celtics,Footwear,Retail Partner,4,81,2022-11-24,324
+1537,Warriors,Collectibles,Online,4,147,2022-11-29,588
+1538,76ers,Hats,Retail Partner,1,179,2024-05-19,179
+1539,Bucks,Hats,Arena Store,3,73,2022-08-06,219
+1540,Heat,Hats,Online,2,121,2022-03-13,242
+1541,Heat,Jerseys,Retail Partner,3,127,2022-11-01,381
+1542,Spurs,Footwear,Retail Partner,1,172,2023-11-20,172
+1543,Warriors,Collectibles,Arena Store,2,99,2022-05-26,198
+1544,Suns,Jerseys,Retail Partner,4,135,2023-05-25,540
+1545,Celtics,Hats,Online,4,55,2022-06-22,220
+1546,Knicks,Footwear,Arena Store,2,55,2023-08-19,110
+1547,Nuggets,T-Shirts,Online,1,137,2023-12-11,137
+1548,Warriors,Collectibles,Arena Store,1,120,2024-03-02,120
+1549,Clippers,Footwear,Arena Store,2,97,2022-08-17,194
+1550,Heat,T-Shirts,Arena Store,4,45,2023-10-09,180
+1551,Spurs,T-Shirts,Retail Partner,1,155,2024-04-13,155
+1552,Heat,Collectibles,Arena Store,3,63,2023-01-17,189
+1553,Warriors,T-Shirts,Arena Store,1,176,2023-10-06,176
+1554,Celtics,Hoodies,Arena Store,3,81,2022-11-19,243
+1555,Mavericks,Collectibles,Arena Store,2,163,2022-10-06,326
+1556,Warriors,Hats,Arena Store,4,63,2023-01-06,252
+1557,Bulls,Hats,Online,3,161,2023-11-04,483
+1558,Lakers,Hats,Retail Partner,1,104,2023-02-08,104
+1559,Raptors,Jerseys,Online,3,34,2022-05-24,102
+1560,Nets,Hats,Retail Partner,2,137,2024-04-02,274
+1561,Celtics,Hoodies,Online,4,167,2023-03-24,668
+1562,Mavericks,Footwear,Retail Partner,2,51,2024-06-06,102
+1563,Raptors,Hats,Retail Partner,2,67,2023-09-29,134
+1564,Raptors,Hats,Online,1,37,2023-06-29,37
+1565,76ers,Footwear,Online,4,89,2024-04-21,356
+1566,Heat,Collectibles,Online,4,61,2022-12-02,244
+1567,Knicks,T-Shirts,Online,1,111,2023-03-26,111
+1568,Suns,Footwear,Retail Partner,4,31,2023-08-01,124
+1569,Knicks,Footwear,Online,3,172,2022-04-03,516
+1570,Bucks,Hats,Retail Partner,4,108,2022-01-07,432
+1571,76ers,Collectibles,Online,3,28,2022-09-18,84
+1572,Lakers,Jerseys,Online,2,99,2023-06-28,198
+1573,76ers,Hoodies,Online,1,166,2023-01-23,166
+1574,Nets,Hats,Arena Store,1,157,2024-03-22,157
+1575,Clippers,Hoodies,Online,1,70,2023-02-07,70
+1576,Heat,Collectibles,Retail Partner,1,171,2022-12-02,171
+1577,Mavericks,Collectibles,Online,3,93,2022-08-05,279
+1578,Knicks,Jerseys,Arena Store,1,28,2024-02-09,28
+1579,Spurs,Jerseys,Online,3,72,2024-04-01,216
+1580,Heat,Footwear,Retail Partner,1,56,2022-12-08,56
+1581,Heat,Collectibles,Retail Partner,2,105,2023-02-17,210
+1582,Mavericks,T-Shirts,Online,2,167,2023-05-27,334
+1583,Nuggets,Jerseys,Retail Partner,1,147,2023-03-14,147
+1584,Spurs,T-Shirts,Online,2,40,2023-11-22,80
+1585,Heat,Hats,Arena Store,1,58,2022-09-14,58
+1586,Bucks,Collectibles,Arena Store,4,116,2023-04-29,464
+1587,Knicks,Hats,Online,2,144,2023-08-13,288
+1588,Nuggets,Hoodies,Arena Store,4,113,2023-01-18,452
+1589,Warriors,Footwear,Online,1,134,2022-04-06,134
+1590,Raptors,Hats,Arena Store,4,147,2024-05-03,588
+1591,Celtics,T-Shirts,Retail Partner,1,142,2022-10-21,142
+1592,Bulls,Hoodies,Arena Store,1,136,2022-02-12,136
+1593,Nets,Hoodies,Arena Store,3,32,2023-02-07,96
+1594,Nuggets,Collectibles,Arena Store,4,107,2023-12-20,428
+1595,Bucks,Hoodies,Online,2,27,2023-07-07,54
+1596,Spurs,Collectibles,Online,2,77,2022-07-31,154
+1597,76ers,Collectibles,Arena Store,4,83,2024-03-17,332
+1598,Mavericks,Hoodies,Retail Partner,4,174,2022-01-09,696
+1599,Spurs,Hoodies,Retail Partner,4,164,2023-02-10,656
+1600,Clippers,Collectibles,Online,2,172,2024-05-19,344
+1601,Suns,T-Shirts,Arena Store,1,34,2024-02-15,34
+1602,Knicks,Jerseys,Online,3,175,2022-07-04,525
+1603,Clippers,Hoodies,Online,1,43,2023-12-04,43
+1604,Raptors,Footwear,Online,3,76,2024-06-07,228
+1605,Knicks,Footwear,Online,2,64,2024-03-14,128
+1606,Heat,T-Shirts,Arena Store,2,70,2023-04-07,140
+1607,Warriors,Collectibles,Retail Partner,1,95,2022-10-25,95
+1608,Suns,Footwear,Retail Partner,2,117,2023-12-24,234
+1609,Spurs,Hoodies,Online,3,130,2022-12-29,390
+1610,Suns,Jerseys,Online,1,73,2024-01-02,73
+1611,Nuggets,Hoodies,Arena Store,3,76,2023-02-10,228
+1612,Heat,Collectibles,Retail Partner,1,109,2023-09-07,109
+1613,Suns,Jerseys,Online,1,80,2022-12-26,80
+1614,Suns,Hats,Online,1,148,2022-01-23,148
+1615,Suns,Hoodies,Online,2,31,2023-05-23,62
+1616,Warriors,Hoodies,Arena Store,3,66,2023-11-23,198
+1617,Nuggets,Hoodies,Retail Partner,3,133,2022-03-06,399
+1618,Heat,Footwear,Retail Partner,4,145,2022-06-28,580
+1619,Clippers,Hats,Arena Store,3,86,2023-07-20,258
+1620,Spurs,Hats,Online,1,97,2023-03-16,97
+1621,Bucks,Jerseys,Online,3,28,2023-06-30,84
+1622,Knicks,Jerseys,Online,2,158,2022-06-19,316
+1623,Suns,T-Shirts,Retail Partner,1,139,2022-02-03,139
+1624,Mavericks,Collectibles,Retail Partner,1,152,2022-06-10,152
+1625,Raptors,Hats,Online,1,99,2022-03-12,99
+1626,Warriors,Hats,Online,1,57,2023-08-05,57
+1627,76ers,Collectibles,Retail Partner,2,157,2022-12-11,314
+1628,Bulls,Footwear,Retail Partner,2,179,2023-11-19,358
+1629,Suns,Collectibles,Retail Partner,4,129,2024-05-03,516
+1630,Nets,Hats,Online,2,58,2022-01-04,116
+1631,Lakers,Collectibles,Arena Store,3,38,2024-02-13,114
+1632,Heat,T-Shirts,Arena Store,3,35,2023-06-02,105
+1633,Clippers,Hats,Arena Store,1,43,2022-08-22,43
+1634,Raptors,T-Shirts,Online,3,29,2023-03-30,87
+1635,Clippers,Footwear,Arena Store,1,114,2023-05-11,114
+1636,Warriors,Collectibles,Retail Partner,3,76,2022-07-12,228
+1637,Celtics,T-Shirts,Online,2,104,2022-10-22,208
+1638,Bucks,Hoodies,Online,4,45,2022-10-24,180
+1639,Bulls,Hats,Retail Partner,2,70,2022-08-21,140
+1640,Lakers,Hoodies,Online,1,51,2023-02-11,51
+1641,Raptors,T-Shirts,Retail Partner,3,125,2024-04-26,375
+1642,76ers,Collectibles,Arena Store,3,170,2022-03-28,510
+1643,Mavericks,Hats,Arena Store,3,55,2023-05-30,165
+1644,Knicks,Jerseys,Online,1,135,2022-01-11,135
+1645,76ers,Hoodies,Arena Store,3,136,2022-07-03,408
+1646,Bulls,Footwear,Retail Partner,2,168,2023-07-15,336
+1647,Heat,Footwear,Arena Store,1,106,2024-03-16,106
+1648,Suns,Hats,Arena Store,2,164,2023-02-23,328
+1649,Mavericks,Footwear,Arena Store,1,104,2023-09-21,104
+1650,Raptors,T-Shirts,Arena Store,3,43,2022-10-30,129
+1651,76ers,T-Shirts,Retail Partner,2,46,2023-02-23,92
+1652,Nuggets,Hoodies,Arena Store,3,179,2024-04-16,537
+1653,76ers,Jerseys,Arena Store,1,52,2023-07-22,52
+1654,Spurs,T-Shirts,Online,1,84,2023-11-05,84
+1655,Nuggets,T-Shirts,Retail Partner,3,138,2024-06-06,414
+1656,Suns,Hats,Arena Store,1,47,2022-10-30,47
+1657,Knicks,Jerseys,Retail Partner,2,177,2022-08-27,354
+1658,Bulls,Hoodies,Online,2,118,2023-01-12,236
+1659,Celtics,Collectibles,Arena Store,2,79,2023-02-22,158
+1660,76ers,Hoodies,Online,3,177,2022-09-11,531
+1661,Nuggets,Collectibles,Online,4,67,2023-04-26,268
+1662,Warriors,Footwear,Retail Partner,2,76,2024-03-23,152
+1663,Heat,Footwear,Retail Partner,4,84,2022-04-12,336
+1664,Spurs,Jerseys,Arena Store,1,133,2024-05-13,133
+1665,Nets,Hats,Arena Store,2,133,2022-08-24,266
+1666,Nets,Footwear,Retail Partner,1,171,2022-09-01,171
+1667,Celtics,Hoodies,Online,1,61,2022-06-02,61
+1668,Nuggets,T-Shirts,Online,2,76,2022-06-05,152
+1669,Clippers,Collectibles,Retail Partner,3,57,2024-05-28,171
+1670,Nuggets,Collectibles,Online,3,45,2022-12-26,135
+1671,Clippers,Collectibles,Retail Partner,3,80,2022-04-20,240
+1672,Warriors,Collectibles,Online,4,117,2022-11-05,468
+1673,Warriors,Hoodies,Retail Partner,1,163,2023-02-08,163
+1674,Bucks,Hats,Online,3,125,2023-06-03,375
+1675,Clippers,Jerseys,Online,3,99,2022-01-02,297
+1676,Spurs,T-Shirts,Arena Store,2,81,2024-01-03,162
+1677,76ers,Collectibles,Arena Store,3,41,2023-12-23,123
+1678,76ers,T-Shirts,Arena Store,4,79,2023-11-24,316
+1679,Suns,Footwear,Retail Partner,4,45,2023-12-15,180
+1680,Raptors,Jerseys,Arena Store,3,60,2023-10-13,180
+1681,Lakers,Footwear,Arena Store,2,55,2023-04-06,110
+1682,Celtics,Jerseys,Online,2,163,2023-04-19,326
+1683,Knicks,Footwear,Online,2,65,2023-02-17,130
+1684,Bucks,Jerseys,Arena Store,1,30,2023-09-12,30
+1685,Suns,T-Shirts,Retail Partner,2,95,2023-06-18,190
+1686,Knicks,Jerseys,Online,4,140,2022-05-10,560
+1687,Heat,Footwear,Online,3,175,2023-01-02,525
+1688,Clippers,Hoodies,Online,1,67,2022-04-20,67
+1689,Knicks,T-Shirts,Online,2,80,2022-12-27,160
+1690,76ers,Jerseys,Online,1,141,2024-04-28,141
+1691,Bulls,Jerseys,Arena Store,1,78,2023-01-11,78
+1692,Celtics,T-Shirts,Retail Partner,2,27,2022-09-27,54
+1693,Raptors,T-Shirts,Online,2,45,2022-07-26,90
+1694,Nuggets,Jerseys,Arena Store,1,141,2022-01-31,141
+1695,76ers,Footwear,Arena Store,4,179,2022-05-07,716
+1696,Knicks,Collectibles,Arena Store,4,71,2024-04-11,284
+1697,Bulls,Footwear,Arena Store,3,130,2022-08-24,390
+1698,Spurs,Collectibles,Online,4,104,2023-12-13,416
+1699,Spurs,Jerseys,Retail Partner,2,163,2022-11-09,326
+1700,Suns,Footwear,Retail Partner,3,81,2022-10-07,243
+1701,Mavericks,Collectibles,Retail Partner,1,177,2023-01-21,177
+1702,Mavericks,Footwear,Online,3,122,2022-05-12,366
+1703,Nets,Footwear,Retail Partner,3,85,2023-05-12,255
+1704,Clippers,Jerseys,Arena Store,4,94,2022-06-25,376
+1705,Clippers,T-Shirts,Arena Store,2,152,2023-02-28,304
+1706,Nuggets,Footwear,Arena Store,2,99,2022-01-29,198
+1707,Lakers,Collectibles,Retail Partner,2,107,2022-04-24,214
+1708,Raptors,Collectibles,Arena Store,2,140,2022-06-29,280
+1709,Celtics,T-Shirts,Online,4,96,2022-02-23,384
+1710,Lakers,Jerseys,Retail Partner,4,87,2023-06-18,348
+1711,76ers,Collectibles,Arena Store,2,59,2023-04-05,118
+1712,Nuggets,T-Shirts,Online,3,99,2024-04-11,297
+1713,Bulls,Jerseys,Arena Store,1,40,2024-04-09,40
+1714,Nuggets,Jerseys,Arena Store,1,158,2024-05-23,158
+1715,Raptors,Hoodies,Retail Partner,3,147,2022-08-07,441
+1716,Spurs,Hats,Online,2,102,2022-08-02,204
+1717,Raptors,Hoodies,Retail Partner,4,38,2022-09-15,152
+1718,Clippers,Footwear,Arena Store,2,112,2023-09-10,224
+1719,Lakers,Jerseys,Retail Partner,4,146,2023-03-29,584
+1720,Suns,Jerseys,Arena Store,3,29,2023-04-18,87
+1721,Celtics,Hats,Retail Partner,3,148,2023-12-23,444
+1722,Raptors,Hats,Retail Partner,4,111,2023-02-21,444
+1723,Warriors,T-Shirts,Arena Store,3,114,2024-03-21,342
+1724,Mavericks,Collectibles,Retail Partner,4,46,2023-09-23,184
+1725,Bucks,Footwear,Online,1,31,2023-12-11,31
+1726,Celtics,Collectibles,Retail Partner,2,96,2022-07-24,192
+1727,Heat,T-Shirts,Online,4,111,2023-04-23,444
+1728,76ers,Hats,Online,3,52,2023-06-14,156
+1729,Suns,Hoodies,Retail Partner,4,159,2023-09-01,636
+1730,Lakers,Collectibles,Online,2,53,2023-07-25,106
+1731,Nuggets,Collectibles,Retail Partner,2,53,2022-08-23,106
+1732,Clippers,Hoodies,Arena Store,4,42,2024-04-06,168
+1733,Knicks,Footwear,Online,2,152,2023-01-28,304
+1734,Bucks,Footwear,Online,3,67,2023-06-16,201
+1735,76ers,Collectibles,Arena Store,2,177,2023-09-16,354
+1736,Heat,Jerseys,Retail Partner,2,111,2022-07-28,222
+1737,Knicks,Collectibles,Arena Store,4,142,2023-11-27,568
+1738,Raptors,Hoodies,Retail Partner,4,96,2023-04-27,384
+1739,Raptors,Collectibles,Online,3,179,2024-02-08,537
+1740,Nets,Jerseys,Arena Store,3,164,2023-06-22,492
+1741,Spurs,T-Shirts,Arena Store,1,113,2023-04-25,113
+1742,Spurs,Hoodies,Online,3,166,2023-03-03,498
+1743,Heat,Footwear,Online,4,105,2023-05-15,420
+1744,Clippers,Hoodies,Retail Partner,3,117,2023-01-29,351
+1745,Lakers,Collectibles,Arena Store,2,108,2024-05-17,216
+1746,Suns,T-Shirts,Online,1,146,2022-08-31,146
+1747,Bulls,Hoodies,Arena Store,1,37,2022-04-25,37
+1748,Clippers,Collectibles,Arena Store,2,165,2024-02-28,330
+1749,Warriors,Jerseys,Arena Store,3,162,2023-08-04,486
+1750,Spurs,Collectibles,Retail Partner,4,58,2022-10-03,232
+1751,Heat,Hoodies,Online,4,96,2023-08-13,384
+1752,Lakers,Hoodies,Online,1,169,2023-11-22,169
+1753,Mavericks,Hats,Arena Store,4,61,2022-09-20,244
+1754,Heat,Collectibles,Retail Partner,3,93,2022-11-15,279
+1755,Heat,Footwear,Online,3,82,2022-03-14,246
+1756,Bulls,T-Shirts,Online,1,129,2022-08-03,129
+1757,Nets,Footwear,Online,3,142,2022-10-25,426
+1758,Clippers,Footwear,Online,2,46,2024-05-16,92
+1759,Nuggets,Collectibles,Retail Partner,4,46,2023-04-06,184
+1760,Heat,Collectibles,Retail Partner,2,91,2024-05-02,182
+1761,Mavericks,Collectibles,Online,3,86,2023-01-30,258
+1762,Spurs,Hoodies,Online,4,173,2023-06-02,692
+1763,Clippers,Jerseys,Arena Store,4,115,2022-01-09,460
+1764,Lakers,Hats,Retail Partner,3,115,2024-01-10,345
+1765,Spurs,Footwear,Online,4,141,2023-02-02,564
+1766,Nuggets,Hats,Retail Partner,1,29,2022-04-28,29
+1767,Knicks,Hats,Retail Partner,2,87,2023-03-25,174
+1768,Lakers,Hoodies,Online,4,57,2022-08-08,228
+1769,Warriors,Footwear,Online,4,152,2023-10-18,608
+1770,Bucks,T-Shirts,Retail Partner,3,107,2023-06-27,321
+1771,76ers,T-Shirts,Online,3,117,2024-06-13,351
+1772,Warriors,Hoodies,Retail Partner,2,172,2024-05-03,344
+1773,76ers,Jerseys,Retail Partner,3,63,2022-11-02,189
+1774,Nuggets,Hoodies,Retail Partner,2,159,2022-02-24,318
+1775,Nuggets,Hats,Retail Partner,3,28,2023-01-27,84
+1776,Bucks,Hoodies,Arena Store,4,174,2022-09-19,696
+1777,Celtics,Hoodies,Retail Partner,3,59,2022-06-30,177
+1778,Bucks,T-Shirts,Arena Store,3,86,2024-06-04,258
+1779,76ers,T-Shirts,Arena Store,3,38,2023-03-06,114
+1780,Warriors,T-Shirts,Retail Partner,1,81,2022-10-20,81
+1781,Suns,Hoodies,Retail Partner,2,57,2022-03-08,114
+1782,Bulls,T-Shirts,Arena Store,3,94,2022-01-09,282
+1783,Lakers,Footwear,Online,3,138,2022-10-27,414
+1784,Spurs,Collectibles,Online,3,160,2022-09-15,480
+1785,Nets,T-Shirts,Online,4,102,2022-04-09,408
+1786,Lakers,Collectibles,Online,2,76,2024-06-19,152
+1787,Warriors,Hats,Arena Store,3,56,2022-11-01,168
+1788,Knicks,T-Shirts,Arena Store,2,51,2024-03-31,102
+1789,76ers,Collectibles,Arena Store,2,36,2023-08-16,72
+1790,Nets,Footwear,Retail Partner,1,136,2022-08-26,136
+1791,Bulls,Collectibles,Arena Store,3,39,2023-06-15,117
+1792,Mavericks,Hats,Retail Partner,3,36,2023-01-11,108
+1793,Raptors,Footwear,Online,3,145,2022-07-08,435
+1794,Clippers,Hoodies,Online,2,48,2023-06-16,96
+1795,Bulls,T-Shirts,Arena Store,2,106,2022-06-22,212
+1796,76ers,Hoodies,Online,2,96,2022-01-19,192
+1797,Lakers,Hats,Retail Partner,4,92,2023-04-30,368
+1798,Nuggets,Hoodies,Online,4,87,2024-04-05,348
+1799,Spurs,T-Shirts,Arena Store,3,86,2023-03-25,258
+1800,Suns,Jerseys,Retail Partner,1,149,2023-06-14,149
+1801,Warriors,Collectibles,Online,1,38,2022-09-05,38
+1802,Warriors,Jerseys,Retail Partner,2,64,2023-06-11,128
+1803,Raptors,Hoodies,Online,1,99,2023-10-23,99
+1804,Warriors,Hats,Retail Partner,4,56,2023-01-04,224
+1805,Bucks,Collectibles,Retail Partner,3,77,2022-03-04,231
+1806,Nuggets,Collectibles,Online,2,144,2022-10-03,288
+1807,Clippers,Jerseys,Online,3,176,2023-05-27,528
+1808,Clippers,Jerseys,Online,3,136,2023-07-05,408
+1809,Suns,Jerseys,Arena Store,4,138,2022-11-17,552
+1810,Spurs,T-Shirts,Arena Store,4,135,2022-01-31,540
+1811,Bulls,Footwear,Online,2,124,2023-07-27,248
+1812,Nets,Footwear,Retail Partner,2,105,2024-01-24,210
+1813,Clippers,Hats,Retail Partner,3,113,2023-03-30,339
+1814,Warriors,Footwear,Arena Store,1,60,2023-06-20,60
+1815,Celtics,Hats,Online,4,167,2024-04-16,668
+1816,Warriors,Hoodies,Online,4,28,2022-12-09,112
+1817,Bulls,Hats,Online,1,82,2024-01-30,82
+1818,Nets,Footwear,Retail Partner,4,60,2022-11-05,240
+1819,Lakers,Hats,Arena Store,4,147,2023-05-31,588
+1820,Mavericks,Footwear,Online,1,129,2022-04-01,129
+1821,Heat,Hoodies,Arena Store,2,156,2022-03-10,312
+1822,Raptors,Footwear,Online,3,160,2024-04-03,480
+1823,Bucks,Hats,Retail Partner,4,83,2023-10-21,332
+1824,Spurs,Jerseys,Online,1,25,2022-12-23,25
+1825,Celtics,Hats,Online,4,146,2023-03-22,584
+1826,Suns,Hats,Retail Partner,2,176,2022-10-01,352
+1827,Suns,Footwear,Retail Partner,3,68,2022-05-08,204
+1828,Nets,Footwear,Arena Store,1,31,2022-09-20,31
+1829,Mavericks,Hats,Online,1,139,2023-10-24,139
+1830,Knicks,Footwear,Arena Store,4,59,2023-11-28,236
+1831,Clippers,Hoodies,Retail Partner,2,77,2023-04-02,154
+1832,Suns,Collectibles,Arena Store,2,69,2022-06-07,138
+1833,76ers,T-Shirts,Online,1,107,2023-04-17,107
+1834,Mavericks,T-Shirts,Arena Store,1,33,2023-04-19,33
+1835,Lakers,Jerseys,Online,1,156,2022-11-01,156
+1836,76ers,Collectibles,Online,1,121,2022-01-16,121
+1837,Knicks,Collectibles,Online,2,176,2023-11-21,352
+1838,Bucks,Footwear,Retail Partner,2,153,2022-02-23,306
+1839,Celtics,Hats,Online,4,36,2023-10-16,144
+1840,Nets,Footwear,Retail Partner,3,62,2022-07-27,186
+1841,Lakers,Jerseys,Arena Store,4,88,2023-08-15,352
+1842,Clippers,Footwear,Arena Store,2,174,2023-12-09,348
+1843,Clippers,Collectibles,Retail Partner,2,96,2023-02-05,192
+1844,Lakers,Hats,Online,3,35,2023-06-05,105
+1845,Spurs,Collectibles,Retail Partner,1,145,2022-03-08,145
+1846,76ers,Hoodies,Retail Partner,4,93,2023-10-09,372
+1847,Suns,T-Shirts,Online,1,134,2022-11-28,134
+1848,Spurs,Footwear,Retail Partner,3,144,2022-10-14,432
+1849,Suns,Footwear,Arena Store,1,138,2023-09-13,138
+1850,Nets,T-Shirts,Online,4,106,2023-08-28,424
+1851,Mavericks,Collectibles,Online,3,84,2022-01-01,252
+1852,Lakers,Collectibles,Retail Partner,4,160,2024-01-17,640
+1853,Nets,Footwear,Online,3,68,2022-11-19,204
+1854,Warriors,Jerseys,Arena Store,1,80,2022-08-30,80
+1855,76ers,Hats,Retail Partner,2,170,2023-05-19,340
+1856,Knicks,Footwear,Retail Partner,3,64,2024-04-02,192
+1857,Mavericks,T-Shirts,Arena Store,4,108,2023-10-03,432
+1858,Spurs,Footwear,Arena Store,1,33,2024-02-09,33
+1859,Celtics,Hoodies,Arena Store,1,111,2022-12-26,111
+1860,Bucks,T-Shirts,Retail Partner,1,31,2024-05-07,31
+1861,Bulls,Jerseys,Online,3,62,2023-07-29,186
+1862,Lakers,T-Shirts,Retail Partner,1,97,2023-06-17,97
+1863,Nets,T-Shirts,Arena Store,3,142,2024-05-30,426
+1864,Warriors,Footwear,Arena Store,3,115,2022-07-05,345
+1865,Bucks,Hats,Online,1,57,2023-06-02,57
+1866,Nuggets,Hoodies,Retail Partner,3,175,2022-06-22,525
+1867,Warriors,Hoodies,Arena Store,4,64,2023-03-26,256
+1868,Bulls,Footwear,Arena Store,3,27,2024-01-28,81
+1869,Nuggets,Hats,Arena Store,2,117,2022-08-13,234
+1870,Warriors,Footwear,Arena Store,3,166,2022-04-27,498
+1871,Suns,T-Shirts,Arena Store,3,138,2023-05-19,414
+1872,Knicks,Footwear,Retail Partner,4,119,2022-07-25,476
+1873,Suns,Hats,Retail Partner,3,61,2023-07-22,183
+1874,Warriors,T-Shirts,Arena Store,1,60,2022-09-28,60
+1875,Raptors,T-Shirts,Online,1,177,2023-02-03,177
+1876,Bucks,Hats,Retail Partner,1,172,2022-02-05,172
+1877,Heat,Hats,Arena Store,4,153,2022-11-13,612
+1878,Knicks,Jerseys,Retail Partner,3,54,2023-11-13,162
+1879,Raptors,Jerseys,Retail Partner,1,60,2023-01-09,60
+1880,Mavericks,T-Shirts,Arena Store,2,103,2023-04-11,206
+1881,Heat,Jerseys,Arena Store,3,88,2024-02-21,264
+1882,Lakers,Jerseys,Retail Partner,2,80,2023-06-10,160
+1883,Suns,Hoodies,Retail Partner,2,51,2022-05-21,102
+1884,Warriors,Collectibles,Online,4,141,2024-01-09,564
+1885,Heat,Footwear,Retail Partner,4,120,2023-10-03,480
+1886,Nuggets,Hats,Arena Store,4,161,2023-08-25,644
+1887,Warriors,Jerseys,Arena Store,2,93,2023-10-09,186
+1888,Suns,T-Shirts,Arena Store,4,159,2023-03-05,636
+1889,Bucks,T-Shirts,Retail Partner,4,167,2023-08-09,668
+1890,Warriors,Hats,Online,3,103,2023-03-28,309
+1891,Mavericks,Jerseys,Online,1,51,2024-04-04,51
+1892,Knicks,T-Shirts,Online,4,130,2022-07-18,520
+1893,Celtics,Jerseys,Retail Partner,1,95,2022-02-19,95
+1894,Nuggets,Hoodies,Retail Partner,4,30,2024-01-05,120
+1895,Bulls,Hoodies,Online,2,178,2023-08-07,356
+1896,Celtics,Jerseys,Online,2,158,2022-10-19,316
+1897,Bucks,Collectibles,Arena Store,4,136,2023-07-18,544
+1898,Raptors,Hoodies,Arena Store,1,60,2023-09-10,60
+1899,Celtics,Collectibles,Online,3,167,2023-09-04,501
+1900,Lakers,Footwear,Arena Store,1,164,2022-04-06,164
+1901,Knicks,Hoodies,Online,2,66,2023-06-27,132
+1902,Warriors,Footwear,Arena Store,2,136,2023-05-14,272
+1903,Warriors,Footwear,Arena Store,3,168,2023-08-16,504
+1904,Nets,Hoodies,Online,4,64,2022-10-20,256
+1905,Heat,Hoodies,Online,4,119,2022-12-25,476
+1906,Knicks,Footwear,Arena Store,4,121,2023-07-23,484
+1907,76ers,Hoodies,Retail Partner,1,98,2023-08-26,98
+1908,Bulls,T-Shirts,Arena Store,3,104,2022-01-01,312
+1909,Suns,Hats,Online,4,171,2022-12-06,684
+1910,76ers,Collectibles,Arena Store,1,77,2023-06-07,77
+1911,Warriors,Footwear,Online,3,56,2023-08-05,168
+1912,Nuggets,Footwear,Online,3,45,2023-02-20,135
+1913,Lakers,Footwear,Retail Partner,2,141,2022-10-25,282
+1914,Bucks,Collectibles,Arena Store,1,78,2024-05-20,78
+1915,Spurs,T-Shirts,Online,1,94,2023-11-26,94
+1916,Lakers,Hats,Retail Partner,4,101,2022-12-14,404
+1917,Celtics,Hoodies,Arena Store,2,71,2023-05-26,142
+1918,Suns,Hoodies,Arena Store,4,155,2022-02-06,620
+1919,Heat,Hats,Retail Partner,1,153,2022-05-23,153
+1920,Bulls,Collectibles,Online,3,145,2023-10-17,435
+1921,Mavericks,Hoodies,Arena Store,3,144,2024-06-03,432
+1922,Bulls,Hats,Arena Store,2,38,2023-02-24,76
+1923,Nets,Hats,Arena Store,3,33,2022-02-26,99
+1924,Lakers,Hoodies,Arena Store,4,100,2023-05-01,400
+1925,Suns,Hoodies,Arena Store,4,138,2022-11-12,552
+1926,Heat,Footwear,Arena Store,3,25,2022-03-25,75
+1927,Celtics,T-Shirts,Online,1,53,2024-03-20,53
+1928,76ers,Collectibles,Online,1,38,2023-09-02,38
+1929,Lakers,Hats,Arena Store,3,131,2023-07-19,393
+1930,Nets,Jerseys,Online,2,136,2023-11-28,272
+1931,Bucks,Hats,Retail Partner,3,119,2023-06-28,357
+1932,Suns,Jerseys,Arena Store,1,97,2023-03-11,97
+1933,Nuggets,Footwear,Online,3,113,2024-02-12,339
+1934,Nuggets,Jerseys,Online,4,175,2022-08-16,700
+1935,Bucks,Collectibles,Online,3,154,2024-04-24,462
+1936,Warriors,Hats,Retail Partner,1,49,2023-03-29,49
+1937,Lakers,T-Shirts,Retail Partner,3,78,2022-12-23,234
+1938,Suns,Hoodies,Arena Store,3,61,2024-04-26,183
+1939,Bucks,Collectibles,Retail Partner,4,135,2022-04-06,540
+1940,Spurs,Jerseys,Online,1,112,2022-04-23,112
+1941,Warriors,Jerseys,Arena Store,2,62,2024-02-23,124
+1942,Mavericks,Collectibles,Retail Partner,2,162,2023-01-12,324
+1943,Nuggets,T-Shirts,Retail Partner,1,89,2023-02-12,89
+1944,Bucks,T-Shirts,Arena Store,1,165,2023-08-16,165
+1945,Bulls,Collectibles,Retail Partner,3,105,2024-03-19,315
+1946,Suns,Collectibles,Online,3,64,2024-01-08,192
+1947,Raptors,T-Shirts,Arena Store,2,29,2023-07-07,58
+1948,Lakers,Hats,Arena Store,2,27,2022-10-17,54
+1949,Heat,T-Shirts,Arena Store,3,122,2023-02-17,366
+1950,Nuggets,Jerseys,Retail Partner,3,161,2022-11-06,483
+1951,Bucks,Jerseys,Online,3,72,2023-03-15,216
+1952,Raptors,Jerseys,Online,2,132,2023-10-23,264
+1953,76ers,Collectibles,Online,3,73,2023-02-26,219
+1954,Nuggets,Collectibles,Arena Store,4,110,2023-05-02,440
+1955,Raptors,Collectibles,Online,1,133,2024-02-27,133
+1956,Heat,Collectibles,Arena Store,4,112,2022-07-08,448
+1957,Clippers,Hats,Retail Partner,2,90,2023-02-10,180
+1958,Mavericks,Hoodies,Retail Partner,3,179,2023-07-13,537
+1959,Mavericks,T-Shirts,Retail Partner,2,26,2023-10-24,52
+1960,Lakers,Collectibles,Retail Partner,3,50,2022-09-02,150
+1961,Lakers,Footwear,Retail Partner,1,178,2024-05-04,178
+1962,76ers,Footwear,Arena Store,3,30,2023-05-25,90
+1963,Mavericks,Hoodies,Arena Store,3,124,2022-10-18,372
+1964,Knicks,Hoodies,Arena Store,2,40,2024-06-02,80
+1965,Knicks,T-Shirts,Arena Store,2,104,2022-04-30,208
+1966,Nuggets,Footwear,Retail Partner,2,80,2023-11-27,160
+1967,Mavericks,Footwear,Retail Partner,3,100,2024-02-27,300
+1968,Mavericks,Footwear,Arena Store,4,33,2022-10-11,132
+1969,Raptors,Hoodies,Arena Store,2,151,2023-03-04,302
+1970,Bulls,T-Shirts,Online,3,95,2022-02-13,285
+1971,Nets,T-Shirts,Online,3,66,2023-05-21,198
+1972,Raptors,Hats,Arena Store,1,81,2023-10-27,81
+1973,Heat,Footwear,Retail Partner,3,163,2024-01-07,489
+1974,Bulls,Footwear,Online,3,86,2024-05-06,258
+1975,Bucks,Jerseys,Online,2,66,2022-05-03,132
+1976,76ers,Hoodies,Arena Store,4,27,2023-01-22,108
+1977,Mavericks,Hats,Arena Store,2,32,2022-02-24,64
+1978,Clippers,Collectibles,Online,4,112,2024-02-12,448
+1979,Bulls,Jerseys,Retail Partner,4,25,2023-06-11,100
+1980,Celtics,Collectibles,Online,2,56,2024-03-18,112
+1981,Heat,Collectibles,Retail Partner,2,119,2024-02-09,238
+1982,Heat,Footwear,Retail Partner,2,94,2023-12-13,188
+1983,Spurs,Collectibles,Online,4,95,2022-06-30,380
+1984,Clippers,Footwear,Retail Partner,1,27,2023-08-06,27
+1985,Lakers,Jerseys,Arena Store,2,38,2022-06-13,76
+1986,Knicks,Footwear,Online,3,148,2022-08-17,444
+1987,Celtics,Footwear,Retail Partner,3,122,2022-04-03,366
+1988,Clippers,Hoodies,Arena Store,1,68,2023-05-22,68
+1989,Heat,T-Shirts,Arena Store,2,157,2024-04-26,314
+1990,Raptors,T-Shirts,Arena Store,2,170,2022-02-06,340
+1991,Knicks,Hats,Retail Partner,2,32,2023-04-02,64
+1992,76ers,Collectibles,Online,1,52,2024-04-30,52
+1993,Lakers,Footwear,Arena Store,4,164,2022-04-06,656
+1994,Heat,Hats,Retail Partner,2,124,2024-01-12,248
+1995,Clippers,Footwear,Online,3,161,2023-03-26,483
+1996,Raptors,Hoodies,Arena Store,2,99,2023-02-23,198
+1997,Lakers,T-Shirts,Arena Store,4,119,2024-05-29,476
+1998,76ers,T-Shirts,Arena Store,1,119,2023-03-19,119
+1999,Bulls,Footwear,Arena Store,1,54,2024-02-26,54
+2000,Lakers,Hoodies,Retail Partner,4,27,2024-03-30,108

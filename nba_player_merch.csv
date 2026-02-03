@@ -1,0 +1,1201 @@
+player,team,merch_type,units_sold,price,promotion_event,revenue
+Jimmy Butler,Raptors,Hoodies,1,75,Playoffs,75
+Jimmy Butler,Suns,Hoodies,4,124,All-Star Weekend,496
+Jimmy Butler,Nets,Hoodies,1,219,All-Star Weekend,219
+Luka Dončić,Suns,Collectibles,2,216,MVP Run,432
+Luka Dončić,Raptors,Hats,2,67,All-Star Weekend,134
+Giannis Antetokounmpo,Spurs,Collectibles,6,73,None,438
+Jimmy Butler,76ers,Jerseys,2,78,MVP Run,156
+LeBron James,Nuggets,Footwear,7,242,Playoffs,1694
+Stephen Curry,76ers,T-Shirts,1,63,None,63
+Kevin Durant,Spurs,Footwear,7,238,Playoffs,1666
+Kevin Durant,76ers,Footwear,7,135,All-Star Weekend,945
+Luka Dončić,Bulls,Hoodies,7,191,All-Star Weekend,1337
+Stephen Curry,Bulls,T-Shirts,7,215,All-Star Weekend,1505
+Luka Dončić,Nets,Jerseys,6,79,Finals,474
+Jayson Tatum,Raptors,Jerseys,7,114,None,798
+Luka Dončić,Mavericks,Jerseys,1,97,Finals,97
+Giannis Antetokounmpo,Heat,Footwear,6,163,None,978
+Luka Dončić,Lakers,Hats,7,234,Finals,1638
+Jayson Tatum,Mavericks,Jerseys,2,244,All-Star Weekend,488
+Giannis Antetokounmpo,Celtics,Hats,3,187,Finals,561
+Luka Dončić,Lakers,Jerseys,5,65,Finals,325
+Stephen Curry,Bulls,Hats,6,100,All-Star Weekend,600
+Giannis Antetokounmpo,Celtics,T-Shirts,7,158,MVP Run,1106
+Giannis Antetokounmpo,Suns,Hoodies,7,123,Playoffs,861
+Giannis Antetokounmpo,76ers,Footwear,6,79,MVP Run,474
+Jimmy Butler,Clippers,Footwear,4,82,Playoffs,328
+LeBron James,Clippers,Hats,2,200,All-Star Weekend,400
+Luka Dončić,Heat,Hoodies,3,83,Playoffs,249
+Jimmy Butler,Mavericks,T-Shirts,3,78,All-Star Weekend,234
+LeBron James,Bulls,Hoodies,3,111,MVP Run,333
+Luka Dončić,76ers,Jerseys,6,64,MVP Run,384
+Luka Dončić,Bulls,Hats,1,83,All-Star Weekend,83
+Luka Dončić,Celtics,Hoodies,5,246,All-Star Weekend,1230
+Stephen Curry,Bulls,Collectibles,7,150,MVP Run,1050
+Luka Dončić,76ers,Collectibles,4,131,None,524
+LeBron James,Bulls,Hats,5,231,MVP Run,1155
+Jimmy Butler,Lakers,Hoodies,2,67,MVP Run,134
+Jimmy Butler,Warriors,Jerseys,4,197,MVP Run,788
+Kevin Durant,Clippers,Hoodies,4,182,None,728
+Luka Dončić,Warriors,Collectibles,6,221,Finals,1326
+Jayson Tatum,Nets,T-Shirts,3,78,All-Star Weekend,234
+Kevin Durant,Warriors,Hats,7,96,MVP Run,672
+Jayson Tatum,76ers,T-Shirts,2,195,Playoffs,390
+Jayson Tatum,Raptors,Jerseys,6,67,MVP Run,402
+Jayson Tatum,Lakers,Collectibles,4,236,Playoffs,944
+Luka Dončić,Celtics,Jerseys,7,244,None,1708
+Jimmy Butler,Nets,Hoodies,2,192,All-Star Weekend,384
+LeBron James,Suns,Collectibles,2,144,None,288
+LeBron James,Spurs,T-Shirts,7,63,None,441
+Jayson Tatum,Suns,Hoodies,5,166,Finals,830
+Luka Dončić,Clippers,Collectibles,3,131,All-Star Weekend,393
+Jimmy Butler,Raptors,Footwear,3,186,Finals,558
+Giannis Antetokounmpo,Suns,Hoodies,6,144,None,864
+Jayson Tatum,76ers,Footwear,5,174,None,870
+Luka Dončić,Knicks,Jerseys,7,72,MVP Run,504
+Giannis Antetokounmpo,Spurs,Jerseys,2,156,Playoffs,312
+LeBron James,Warriors,Jerseys,2,103,All-Star Weekend,206
+LeBron James,Warriors,T-Shirts,2,194,All-Star Weekend,388
+Stephen Curry,Raptors,Collectibles,4,128,Playoffs,512
+Kevin Durant,Mavericks,Hoodies,3,141,All-Star Weekend,423
+Jimmy Butler,76ers,Jerseys,3,240,All-Star Weekend,720
+Giannis Antetokounmpo,76ers,Jerseys,2,72,Playoffs,144
+Jayson Tatum,Clippers,Hats,5,179,All-Star Weekend,895
+Jimmy Butler,Spurs,Jerseys,2,149,Playoffs,298
+Luka Dončić,Clippers,Hats,3,66,Finals,198
+Jimmy Butler,76ers,Hats,3,225,MVP Run,675
+Giannis Antetokounmpo,Celtics,Collectibles,3,115,Playoffs,345
+Jimmy Butler,Bulls,Hoodies,3,211,Finals,633
+Giannis Antetokounmpo,Suns,T-Shirts,3,105,Finals,315
+Jimmy Butler,Raptors,T-Shirts,2,174,None,348
+Giannis Antetokounmpo,Heat,T-Shirts,1,154,None,154
+Luka Dončić,Warriors,T-Shirts,4,177,All-Star Weekend,708
+Stephen Curry,Mavericks,Jerseys,5,208,None,1040
+Stephen Curry,Bucks,Footwear,2,193,Finals,386
+Stephen Curry,Mavericks,Collectibles,6,62,Finals,372
+Jayson Tatum,Spurs,Footwear,3,101,MVP Run,303
+Luka Dončić,Celtics,T-Shirts,6,119,Playoffs,714
+Kevin Durant,Nuggets,Hats,1,213,Playoffs,213
+Giannis Antetokounmpo,Mavericks,T-Shirts,6,247,All-Star Weekend,1482
+Stephen Curry,Bucks,Hoodies,6,106,All-Star Weekend,636
+Jimmy Butler,Mavericks,Collectibles,5,185,Finals,925
+Kevin Durant,Knicks,Hats,1,249,Playoffs,249
+LeBron James,Warriors,Jerseys,4,153,Playoffs,612
+Jimmy Butler,Heat,Jerseys,5,159,Playoffs,795
+Jimmy Butler,76ers,Jerseys,2,173,MVP Run,346
+Giannis Antetokounmpo,Warriors,Footwear,4,210,None,840
+Kevin Durant,Clippers,Jerseys,3,124,MVP Run,372
+LeBron James,Mavericks,T-Shirts,4,202,None,808
+Jayson Tatum,Warriors,Hats,1,127,Playoffs,127
+Kevin Durant,Bulls,Footwear,1,224,All-Star Weekend,224
+LeBron James,Celtics,Hats,7,121,All-Star Weekend,847
+Jayson Tatum,Warriors,Footwear,4,182,Playoffs,728
+Stephen Curry,Knicks,Hoodies,4,62,Finals,248
+Stephen Curry,Suns,Jerseys,2,138,All-Star Weekend,276
+Stephen Curry,Knicks,Hats,3,121,All-Star Weekend,363
+Jayson Tatum,76ers,Footwear,3,148,MVP Run,444
+Jayson Tatum,Bucks,Hoodies,2,99,None,198
+Luka Dončić,Celtics,Hoodies,2,220,None,440
+Luka Dončić,Nets,Footwear,6,188,None,1128
+Kevin Durant,Knicks,Hoodies,7,95,None,665
+LeBron James,Warriors,Collectibles,4,177,Playoffs,708
+Stephen Curry,Lakers,Hoodies,5,166,MVP Run,830
+Jayson Tatum,Bulls,Hoodies,5,112,All-Star Weekend,560
+Giannis Antetokounmpo,Knicks,Hats,3,120,MVP Run,360
+Jimmy Butler,Nets,Hats,2,153,All-Star Weekend,306
+Jayson Tatum,Mavericks,Hoodies,4,170,Finals,680
+Kevin Durant,Warriors,Hoodies,6,137,Finals,822
+Jayson Tatum,Suns,T-Shirts,6,83,Finals,498
+Stephen Curry,Nuggets,Hats,6,121,All-Star Weekend,726
+Jimmy Butler,Bucks,Hats,2,100,MVP Run,200
+Jayson Tatum,76ers,Hats,4,164,All-Star Weekend,656
+Giannis Antetokounmpo,Suns,T-Shirts,5,247,Playoffs,1235
+Jayson Tatum,Heat,Hats,3,114,Playoffs,342
+Kevin Durant,Heat,Jerseys,3,229,MVP Run,687
+Jayson Tatum,Warriors,Collectibles,6,98,MVP Run,588
+Jimmy Butler,76ers,T-Shirts,7,212,MVP Run,1484
+Luka Dončić,Warriors,Footwear,3,103,All-Star Weekend,309
+Luka Dončić,Clippers,Jerseys,2,113,MVP Run,226
+Jayson Tatum,76ers,T-Shirts,6,67,All-Star Weekend,402
+Jimmy Butler,Nuggets,Collectibles,7,76,Finals,532
+Jimmy Butler,Lakers,T-Shirts,1,146,None,146
+Jayson Tatum,Bucks,T-Shirts,6,120,Playoffs,720
+Kevin Durant,Raptors,Hoodies,3,139,None,417
+Jayson Tatum,Heat,Hats,7,170,Playoffs,1190
+LeBron James,Nuggets,Footwear,5,72,Playoffs,360
+Stephen Curry,Lakers,Collectibles,6,197,None,1182
+Luka Dončić,Heat,Collectibles,7,177,None,1239
+Kevin Durant,Celtics,Hats,4,138,All-Star Weekend,552
+Giannis Antetokounmpo,76ers,Hats,2,214,MVP Run,428
+Stephen Curry,Bulls,T-Shirts,1,164,Playoffs,164
+LeBron James,Bulls,Hats,6,221,None,1326
+LeBron James,Nuggets,Jerseys,4,234,Finals,936
+Luka Dončić,Mavericks,Hoodies,6,63,None,378
+LeBron James,Clippers,Hoodies,3,81,MVP Run,243
+Giannis Antetokounmpo,Celtics,Hoodies,6,67,All-Star Weekend,402
+LeBron James,Heat,Collectibles,2,229,Finals,458
+Jayson Tatum,Heat,Collectibles,6,154,Finals,924
+Kevin Durant,Mavericks,Footwear,6,157,Finals,942
+Luka Dončić,Heat,Jerseys,2,70,All-Star Weekend,140
+Stephen Curry,Spurs,Footwear,4,142,Playoffs,568
+Stephen Curry,Heat,T-Shirts,6,205,MVP Run,1230
+Kevin Durant,Heat,Hoodies,4,132,None,528
+Jayson Tatum,Raptors,Hoodies,2,87,MVP Run,174
+Stephen Curry,Warriors,Collectibles,3,209,None,627
+Kevin Durant,Knicks,Footwear,6,177,None,1062
+Luka Dončić,Lakers,Collectibles,3,83,None,249
+Luka Dončić,Nuggets,Hats,2,179,Finals,358
+Stephen Curry,Bulls,Hats,1,134,All-Star Weekend,134
+Stephen Curry,Celtics,Footwear,5,142,Finals,710
+LeBron James,Nets,Hats,7,165,Playoffs,1155
+Giannis Antetokounmpo,Suns,T-Shirts,7,87,All-Star Weekend,609
+Giannis Antetokounmpo,Clippers,Jerseys,3,78,Finals,234
+LeBron James,Knicks,Footwear,5,60,Playoffs,300
+Jimmy Butler,Bucks,T-Shirts,3,200,Finals,600
+Giannis Antetokounmpo,Raptors,Jerseys,1,100,Finals,100
+LeBron James,Clippers,Collectibles,7,168,All-Star Weekend,1176
+Kevin Durant,Celtics,Hats,2,172,MVP Run,344
+Kevin Durant,Suns,Hoodies,4,137,All-Star Weekend,548
+Jimmy Butler,Warriors,Footwear,2,180,All-Star Weekend,360
+LeBron James,Knicks,Footwear,7,125,Finals,875
+Luka Dončić,Warriors,Jerseys,7,130,All-Star Weekend,910
+Luka Dončić,76ers,T-Shirts,4,93,MVP Run,372
+Kevin Durant,Celtics,Collectibles,1,189,None,189
+Giannis Antetokounmpo,Celtics,Footwear,2,200,None,400
+Stephen Curry,Nets,Jerseys,1,62,All-Star Weekend,62
+Jayson Tatum,Raptors,Jerseys,6,143,Playoffs,858
+LeBron James,Mavericks,Jerseys,7,61,Finals,427
+Jayson Tatum,Heat,Hats,2,190,None,380
+Luka Dončić,Knicks,Collectibles,5,134,Playoffs,670
+Kevin Durant,Warriors,T-Shirts,6,237,None,1422
+Jayson Tatum,Mavericks,T-Shirts,7,60,Finals,420
+Jimmy Butler,76ers,Footwear,7,70,Finals,490
+LeBron James,Suns,Hats,5,139,None,695
+Giannis Antetokounmpo,Knicks,T-Shirts,4,141,MVP Run,564
+Jimmy Butler,Bulls,Jerseys,5,171,All-Star Weekend,855
+LeBron James,Bucks,T-Shirts,3,145,MVP Run,435
+Stephen Curry,Lakers,Jerseys,6,219,Finals,1314
+LeBron James,Suns,Collectibles,2,133,None,266
+Jayson Tatum,Bulls,Collectibles,3,237,Finals,711
+Stephen Curry,Raptors,Jerseys,2,196,None,392
+Kevin Durant,Bulls,T-Shirts,3,203,Finals,609
+LeBron James,Spurs,T-Shirts,5,138,All-Star Weekend,690
+Kevin Durant,Clippers,T-Shirts,2,65,Playoffs,130
+Jayson Tatum,Warriors,Hoodies,1,144,All-Star Weekend,144
+Luka Dončić,76ers,Hats,5,75,All-Star Weekend,375
+Stephen Curry,Bucks,T-Shirts,3,228,None,684
+Giannis Antetokounmpo,Nuggets,Hoodies,1,133,Playoffs,133
+Stephen Curry,Spurs,Hats,5,230,Playoffs,1150
+LeBron James,Celtics,Collectibles,5,98,All-Star Weekend,490
+Luka Dončić,Lakers,Collectibles,6,112,None,672
+Luka Dončić,Lakers,Jerseys,7,122,MVP Run,854
+Kevin Durant,Suns,Hats,6,107,Playoffs,642
+Kevin Durant,Knicks,T-Shirts,2,126,Playoffs,252
+LeBron James,Spurs,T-Shirts,7,161,Finals,1127
+Jayson Tatum,Celtics,Collectibles,3,121,Playoffs,363
+Giannis Antetokounmpo,76ers,Jerseys,1,116,MVP Run,116
+Jayson Tatum,Nuggets,T-Shirts,4,221,Playoffs,884
+Kevin Durant,Celtics,Hats,3,67,MVP Run,201
+Stephen Curry,Raptors,Hoodies,3,188,Finals,564
+Kevin Durant,Heat,Footwear,3,217,Finals,651
+Stephen Curry,Clippers,Hoodies,2,221,MVP Run,442
+Giannis Antetokounmpo,Nets,Hats,7,177,All-Star Weekend,1239
+Stephen Curry,Bucks,Footwear,7,125,Finals,875
+Giannis Antetokounmpo,Heat,Jerseys,4,134,Finals,536
+Kevin Durant,Lakers,Hats,5,186,MVP Run,930
+Jayson Tatum,Knicks,T-Shirts,2,203,All-Star Weekend,406
+Kevin Durant,Suns,Collectibles,3,75,None,225
+LeBron James,Raptors,Footwear,3,184,MVP Run,552
+LeBron James,Nets,Hats,2,214,None,428
+Luka Dončić,Mavericks,Hoodies,2,72,None,144
+Jayson Tatum,Bucks,T-Shirts,3,158,Finals,474
+Jayson Tatum,Heat,Footwear,5,96,MVP Run,480
+Stephen Curry,Raptors,Hoodies,6,172,Playoffs,1032
+Stephen Curry,Heat,Hoodies,2,238,Playoffs,476
+Kevin Durant,Nuggets,T-Shirts,4,188,MVP Run,752
+Stephen Curry,Spurs,Footwear,4,71,Playoffs,284
+LeBron James,76ers,Hats,7,139,MVP Run,973
+Jayson Tatum,Knicks,Hoodies,3,235,Finals,705
+LeBron James,76ers,Footwear,7,111,Playoffs,777
+Jayson Tatum,Knicks,Jerseys,6,192,Playoffs,1152
+Kevin Durant,Knicks,T-Shirts,3,120,All-Star Weekend,360
+Kevin Durant,Bucks,Hats,4,77,Finals,308
+Stephen Curry,Spurs,Collectibles,5,223,Playoffs,1115
+Giannis Antetokounmpo,Nuggets,Footwear,3,88,MVP Run,264
+Jimmy Butler,Mavericks,Jerseys,5,220,Playoffs,1100
+LeBron James,Lakers,Jerseys,7,230,MVP Run,1610
+Luka Dončić,Bucks,Hoodies,2,115,MVP Run,230
+Giannis Antetokounmpo,Nets,T-Shirts,1,169,All-Star Weekend,169
+Stephen Curry,Spurs,Hoodies,5,169,Finals,845
+LeBron James,Clippers,Hats,3,124,Finals,372
+LeBron James,Suns,Collectibles,2,238,MVP Run,476
+Kevin Durant,Clippers,Footwear,4,202,All-Star Weekend,808
+Jimmy Butler,Knicks,Hoodies,1,164,Playoffs,164
+Jayson Tatum,Raptors,Footwear,2,155,Playoffs,310
+Kevin Durant,Clippers,Footwear,6,88,Playoffs,528
+LeBron James,Clippers,Collectibles,4,137,Finals,548
+Stephen Curry,Mavericks,Hoodies,4,135,None,540
+LeBron James,Bulls,Jerseys,5,153,MVP Run,765
+Luka Dončić,76ers,Hoodies,3,108,All-Star Weekend,324
+Luka Dončić,Heat,Jerseys,6,98,MVP Run,588
+Giannis Antetokounmpo,Spurs,Hoodies,5,217,Playoffs,1085
+Jayson Tatum,Spurs,Collectibles,2,234,Playoffs,468
+Jimmy Butler,Lakers,T-Shirts,4,121,MVP Run,484
+Giannis Antetokounmpo,Mavericks,Collectibles,6,198,All-Star Weekend,1188
+Kevin Durant,Celtics,Hats,7,242,MVP Run,1694
+Jayson Tatum,Bulls,Jerseys,3,145,None,435
+Jayson Tatum,Warriors,Hats,7,61,All-Star Weekend,427
+Jayson Tatum,Warriors,T-Shirts,3,127,Playoffs,381
+Luka Dončić,Warriors,Jerseys,7,79,None,553
+Jayson Tatum,Raptors,Hoodies,3,197,MVP Run,591
+LeBron James,76ers,Hoodies,5,62,MVP Run,310
+Stephen Curry,Nuggets,Hoodies,4,143,None,572
+Kevin Durant,Spurs,Hoodies,6,109,None,654
+Jayson Tatum,Knicks,Hats,4,159,None,636
+Giannis Antetokounmpo,Clippers,Jerseys,2,193,All-Star Weekend,386
+Kevin Durant,Warriors,Jerseys,5,204,MVP Run,1020
+Jayson Tatum,Knicks,Jerseys,5,65,Finals,325
+Stephen Curry,Lakers,T-Shirts,7,123,Playoffs,861
+Kevin Durant,Celtics,Collectibles,1,169,None,169
+Giannis Antetokounmpo,Raptors,Collectibles,7,98,Playoffs,686
+Jayson Tatum,Mavericks,Collectibles,1,132,Finals,132
+Giannis Antetokounmpo,Warriors,Hats,2,85,All-Star Weekend,170
+Stephen Curry,Nets,T-Shirts,4,157,Playoffs,628
+Jimmy Butler,Raptors,Collectibles,4,89,Finals,356
+Jayson Tatum,Heat,T-Shirts,1,84,None,84
+Stephen Curry,Raptors,Collectibles,2,173,Finals,346
+Kevin Durant,Knicks,Hoodies,2,244,Finals,488
+LeBron James,Mavericks,Collectibles,7,141,Finals,987
+Luka Dončić,Lakers,Hats,6,215,All-Star Weekend,1290
+Stephen Curry,Mavericks,Footwear,3,164,None,492
+Jayson Tatum,Bucks,T-Shirts,6,100,None,600
+Kevin Durant,Raptors,Collectibles,6,69,Finals,414
+Jimmy Butler,76ers,Jerseys,4,63,None,252
+Stephen Curry,Suns,Hats,6,134,Playoffs,804
+Kevin Durant,Warriors,Collectibles,7,111,All-Star Weekend,777
+Jayson Tatum,Lakers,Hoodies,3,143,MVP Run,429
+Luka Dončić,Clippers,Hoodies,7,63,Finals,441
+Luka Dončić,Clippers,Jerseys,3,245,None,735
+Jimmy Butler,Spurs,T-Shirts,5,242,All-Star Weekend,1210
+Luka Dončić,Clippers,Hats,5,111,All-Star Weekend,555
+Stephen Curry,Warriors,T-Shirts,5,107,MVP Run,535
+Stephen Curry,76ers,Collectibles,2,93,MVP Run,186
+Giannis Antetokounmpo,Clippers,Hoodies,3,152,Finals,456
+Jimmy Butler,Bulls,Hoodies,7,214,All-Star Weekend,1498
+Kevin Durant,Nuggets,Collectibles,4,171,None,684
+Luka Dončić,Nuggets,Collectibles,1,117,Finals,117
+LeBron James,Suns,Hoodies,4,119,Finals,476
+Jimmy Butler,76ers,Footwear,2,66,Finals,132
+Stephen Curry,Warriors,Hats,7,209,MVP Run,1463
+LeBron James,Mavericks,Hoodies,2,168,Playoffs,336
+Stephen Curry,Suns,Footwear,4,91,MVP Run,364
+Jayson Tatum,76ers,Collectibles,3,92,All-Star Weekend,276
+Giannis Antetokounmpo,Mavericks,Hoodies,2,212,Finals,424
+LeBron James,Nuggets,Footwear,5,150,None,750
+Kevin Durant,Suns,Hoodies,6,228,MVP Run,1368
+Jimmy Butler,Bulls,Hoodies,1,210,Finals,210
+Jimmy Butler,Heat,Hats,3,105,Finals,315
+Kevin Durant,Suns,T-Shirts,2,230,None,460
+Luka Dončić,Celtics,Hoodies,7,160,All-Star Weekend,1120
+Jayson Tatum,Mavericks,Hoodies,5,158,All-Star Weekend,790
+LeBron James,Celtics,Jerseys,4,121,Finals,484
+Kevin Durant,Lakers,T-Shirts,7,227,Playoffs,1589
+Giannis Antetokounmpo,Nuggets,Hoodies,3,245,Playoffs,735
+Jimmy Butler,Nets,Jerseys,1,213,MVP Run,213
+Luka Dončić,Nuggets,Collectibles,7,234,Finals,1638
+Jimmy Butler,Mavericks,Footwear,1,211,Finals,211
+Stephen Curry,Spurs,Footwear,5,176,MVP Run,880
+LeBron James,Lakers,Footwear,3,90,All-Star Weekend,270
+Jimmy Butler,Warriors,Footwear,4,224,Finals,896
+Luka Dončić,Nets,T-Shirts,6,151,MVP Run,906
+Stephen Curry,Celtics,Collectibles,2,137,All-Star Weekend,274
+Jayson Tatum,Bulls,Footwear,5,209,All-Star Weekend,1045
+Jayson Tatum,Bulls,Hats,7,215,MVP Run,1505
+Giannis Antetokounmpo,Warriors,Footwear,7,196,Playoffs,1372
+Stephen Curry,Nuggets,Footwear,2,156,Playoffs,312
+Giannis Antetokounmpo,Lakers,Jerseys,6,116,All-Star Weekend,696
+Luka Dončić,Nets,T-Shirts,6,107,Finals,642
+Kevin Durant,Raptors,Hats,2,203,Finals,406
+LeBron James,Clippers,Hats,3,182,Finals,546
+Stephen Curry,Mavericks,T-Shirts,3,189,Finals,567
+Jimmy Butler,Warriors,Hoodies,6,109,None,654
+LeBron James,Knicks,Footwear,7,220,All-Star Weekend,1540
+Kevin Durant,Knicks,Jerseys,2,88,Playoffs,176
+Luka Dončić,Mavericks,Collectibles,7,179,Playoffs,1253
+LeBron James,Knicks,Hats,7,183,MVP Run,1281
+LeBron James,Nuggets,Collectibles,6,246,Finals,1476
+Jimmy Butler,Nets,Footwear,3,231,Playoffs,693
+Giannis Antetokounmpo,Mavericks,T-Shirts,2,138,None,276
+Kevin Durant,Nets,Hats,3,141,Playoffs,423
+Luka Dončić,Mavericks,Hoodies,4,213,Playoffs,852
+Giannis Antetokounmpo,Spurs,Footwear,1,128,None,128
+Stephen Curry,Heat,Jerseys,4,131,Finals,524
+Jimmy Butler,Clippers,Jerseys,6,161,Playoffs,966
+Stephen Curry,Mavericks,Hoodies,2,171,MVP Run,342
+Jimmy Butler,Heat,Hats,6,77,MVP Run,462
+LeBron James,Raptors,Footwear,7,228,Finals,1596
+Stephen Curry,Spurs,Jerseys,1,188,Playoffs,188
+Luka Dončić,Nuggets,Footwear,2,160,MVP Run,320
+Jimmy Butler,76ers,T-Shirts,7,210,MVP Run,1470
+Luka Dončić,Mavericks,T-Shirts,3,67,All-Star Weekend,201
+Stephen Curry,Mavericks,T-Shirts,7,111,All-Star Weekend,777
+Jimmy Butler,Suns,Hoodies,4,137,None,548
+Jayson Tatum,Knicks,Jerseys,3,169,Playoffs,507
+LeBron James,Celtics,Jerseys,3,153,All-Star Weekend,459
+Jimmy Butler,Knicks,Footwear,5,239,Finals,1195
+Kevin Durant,Lakers,Hoodies,3,247,Playoffs,741
+Kevin Durant,Spurs,Footwear,1,175,Finals,175
+Giannis Antetokounmpo,Lakers,Hats,4,249,None,996
+Luka Dončić,Spurs,Jerseys,6,217,Finals,1302
+Luka Dončić,Raptors,Footwear,4,230,MVP Run,920
+Stephen Curry,Warriors,Hoodies,3,229,None,687
+Giannis Antetokounmpo,Heat,T-Shirts,1,119,MVP Run,119
+Jimmy Butler,Warriors,Hoodies,7,148,None,1036
+Kevin Durant,Lakers,T-Shirts,2,72,Finals,144
+Kevin Durant,Knicks,Footwear,3,198,MVP Run,594
+Kevin Durant,Suns,Hats,2,228,Finals,456
+Luka Dončić,Suns,Hats,7,165,Playoffs,1155
+Kevin Durant,Celtics,T-Shirts,7,154,All-Star Weekend,1078
+Luka Dončić,Clippers,Collectibles,5,81,Playoffs,405
+Kevin Durant,Bucks,Footwear,7,211,MVP Run,1477
+Stephen Curry,Warriors,Hoodies,3,245,MVP Run,735
+Jayson Tatum,Bulls,Jerseys,7,249,All-Star Weekend,1743
+Giannis Antetokounmpo,Nets,Jerseys,6,187,Playoffs,1122
+Jayson Tatum,Nuggets,Collectibles,5,178,MVP Run,890
+Jayson Tatum,Raptors,Hats,1,143,None,143
+Kevin Durant,Heat,Hats,7,157,Playoffs,1099
+Jimmy Butler,Clippers,Jerseys,2,139,All-Star Weekend,278
+Kevin Durant,76ers,Collectibles,4,126,Playoffs,504
+Jimmy Butler,Bulls,Jerseys,2,203,Playoffs,406
+Luka Dončić,Celtics,T-Shirts,1,165,Finals,165
+Luka Dončić,Heat,Footwear,2,63,Playoffs,126
+Kevin Durant,Heat,Hats,6,225,Playoffs,1350
+Jimmy Butler,Suns,Hats,2,174,MVP Run,348
+Giannis Antetokounmpo,Nuggets,Collectibles,7,161,MVP Run,1127
+Stephen Curry,76ers,Collectibles,6,93,MVP Run,558
+Stephen Curry,Nuggets,Hats,4,69,None,276
+Giannis Antetokounmpo,Celtics,Hats,2,190,Finals,380
+Stephen Curry,Bulls,Collectibles,5,188,Playoffs,940
+Giannis Antetokounmpo,Raptors,Footwear,1,202,All-Star Weekend,202
+Kevin Durant,Celtics,Collectibles,5,90,MVP Run,450
+Stephen Curry,Warriors,T-Shirts,1,138,MVP Run,138
+Jimmy Butler,Nuggets,T-Shirts,6,178,MVP Run,1068
+Stephen Curry,76ers,T-Shirts,5,110,Finals,550
+Kevin Durant,Lakers,Collectibles,4,240,MVP Run,960
+Giannis Antetokounmpo,Celtics,Collectibles,5,173,Playoffs,865
+Luka Dončić,Heat,Hats,2,184,All-Star Weekend,368
+Luka Dončić,Spurs,Collectibles,6,112,Playoffs,672
+Giannis Antetokounmpo,Mavericks,Collectibles,1,65,None,65
+Stephen Curry,Nuggets,Jerseys,3,162,Playoffs,486
+Luka Dončić,76ers,T-Shirts,2,135,Finals,270
+Jimmy Butler,Mavericks,Jerseys,4,164,None,656
+LeBron James,Warriors,Footwear,6,137,Playoffs,822
+Jimmy Butler,76ers,Collectibles,1,165,MVP Run,165
+LeBron James,Bucks,Jerseys,6,235,Finals,1410
+Jimmy Butler,Heat,T-Shirts,1,247,None,247
+Kevin Durant,Lakers,Hats,7,179,Finals,1253
+Luka Dončić,Bucks,Footwear,5,144,MVP Run,720
+Stephen Curry,Bulls,Footwear,6,183,MVP Run,1098
+Luka Dončić,76ers,Hoodies,1,83,None,83
+Stephen Curry,Celtics,Footwear,3,88,MVP Run,264
+Luka Dončić,Celtics,Jerseys,1,113,Playoffs,113
+Stephen Curry,Nuggets,Hats,2,223,Playoffs,446
+Jayson Tatum,76ers,Hats,3,146,None,438
+Jayson Tatum,Clippers,Hats,1,180,Playoffs,180
+Jayson Tatum,Bucks,Collectibles,2,160,MVP Run,320
+Stephen Curry,Bulls,T-Shirts,6,81,Playoffs,486
+Stephen Curry,Warriors,Hats,6,120,All-Star Weekend,720
+Jimmy Butler,Bulls,Jerseys,6,165,MVP Run,990
+Giannis Antetokounmpo,76ers,Collectibles,3,183,All-Star Weekend,549
+Stephen Curry,Knicks,Hoodies,4,223,Playoffs,892
+Stephen Curry,Spurs,Footwear,7,151,Finals,1057
+Luka Dončić,Nets,Hats,5,161,Playoffs,805
+Jimmy Butler,Heat,Hoodies,5,134,Finals,670
+Kevin Durant,Bulls,Hats,5,247,MVP Run,1235
+Stephen Curry,Spurs,Footwear,7,172,Playoffs,1204
+Giannis Antetokounmpo,76ers,Collectibles,3,61,MVP Run,183
+Luka Dončić,Nuggets,Hats,2,112,MVP Run,224
+Kevin Durant,Warriors,Footwear,2,95,Finals,190
+Giannis Antetokounmpo,Raptors,Hats,5,129,Playoffs,645
+Stephen Curry,Knicks,Collectibles,6,112,MVP Run,672
+Jimmy Butler,Celtics,Footwear,6,93,Playoffs,558
+Giannis Antetokounmpo,Heat,Jerseys,6,222,MVP Run,1332
+LeBron James,Suns,Footwear,1,112,All-Star Weekend,112
+LeBron James,Bucks,T-Shirts,6,247,Finals,1482
+Jimmy Butler,Knicks,T-Shirts,1,86,All-Star Weekend,86
+Giannis Antetokounmpo,Nuggets,Hoodies,6,243,MVP Run,1458
+Luka Dončić,Knicks,Footwear,5,110,Playoffs,550
+Giannis Antetokounmpo,Heat,Hats,1,206,MVP Run,206
+Jimmy Butler,Raptors,Hats,4,90,Finals,360
+Luka Dončić,Nets,Hats,4,121,Finals,484
+Giannis Antetokounmpo,Spurs,Hats,2,138,All-Star Weekend,276
+Kevin Durant,Nuggets,T-Shirts,2,238,Finals,476
+Kevin Durant,Warriors,Hoodies,6,238,All-Star Weekend,1428
+Jayson Tatum,Warriors,Hoodies,7,170,Playoffs,1190
+LeBron James,Bulls,Collectibles,2,245,All-Star Weekend,490
+Jayson Tatum,76ers,Jerseys,1,170,All-Star Weekend,170
+Giannis Antetokounmpo,Warriors,Footwear,1,170,None,170
+Jimmy Butler,Warriors,Jerseys,6,202,All-Star Weekend,1212
+Jimmy Butler,Nets,T-Shirts,3,125,MVP Run,375
+Kevin Durant,Suns,Hoodies,5,70,Finals,350
+Jimmy Butler,Heat,Collectibles,3,114,MVP Run,342
+Stephen Curry,Heat,Footwear,1,151,Playoffs,151
+Giannis Antetokounmpo,Celtics,Collectibles,5,203,Playoffs,1015
+Giannis Antetokounmpo,Spurs,T-Shirts,6,176,Playoffs,1056
+Jimmy Butler,76ers,Hats,5,74,MVP Run,370
+Jimmy Butler,Heat,Footwear,7,206,Playoffs,1442
+Giannis Antetokounmpo,Warriors,Hoodies,5,176,Finals,880
+Jimmy Butler,Nuggets,Footwear,4,67,None,268
+Stephen Curry,Lakers,Jerseys,3,242,Finals,726
+Stephen Curry,Spurs,Hats,6,102,Playoffs,612
+Giannis Antetokounmpo,Heat,Hoodies,3,223,Playoffs,669
+Stephen Curry,Warriors,Hats,1,151,Playoffs,151
+Kevin Durant,Lakers,Footwear,7,65,All-Star Weekend,455
+Stephen Curry,Nuggets,Jerseys,1,147,None,147
+Kevin Durant,Celtics,Footwear,3,197,Playoffs,591
+Stephen Curry,Suns,Collectibles,5,180,None,900
+LeBron James,Mavericks,Hoodies,5,172,Finals,860
+Stephen Curry,Warriors,T-Shirts,5,88,None,440
+Giannis Antetokounmpo,Suns,Jerseys,5,91,Finals,455
+Kevin Durant,Celtics,T-Shirts,3,247,MVP Run,741
+Giannis Antetokounmpo,Bucks,Hats,3,187,Playoffs,561
+Kevin Durant,Heat,Hoodies,1,249,All-Star Weekend,249
+Kevin Durant,Suns,Jerseys,3,242,All-Star Weekend,726
+Stephen Curry,Nuggets,Hats,2,185,Finals,370
+LeBron James,Nets,T-Shirts,3,158,Playoffs,474
+Jayson Tatum,Bucks,Hats,5,210,All-Star Weekend,1050
+Kevin Durant,Raptors,Hoodies,2,125,Finals,250
+LeBron James,Nuggets,T-Shirts,7,220,Finals,1540
+Giannis Antetokounmpo,Clippers,T-Shirts,5,160,MVP Run,800
+Jimmy Butler,Bulls,Hoodies,3,146,Playoffs,438
+Jimmy Butler,Bucks,Footwear,4,129,All-Star Weekend,516
+Luka Dončić,Nuggets,Collectibles,6,125,Finals,750
+Jayson Tatum,Celtics,Hoodies,5,227,Finals,1135
+Giannis Antetokounmpo,Raptors,Hoodies,5,230,All-Star Weekend,1150
+LeBron James,Warriors,T-Shirts,2,105,MVP Run,210
+Stephen Curry,Nuggets,T-Shirts,3,236,None,708
+Jimmy Butler,Bucks,T-Shirts,3,243,MVP Run,729
+Kevin Durant,Nets,Hoodies,7,198,Playoffs,1386
+Stephen Curry,Nets,Footwear,6,79,Playoffs,474
+Stephen Curry,Knicks,Jerseys,4,237,None,948
+Luka Dončić,Mavericks,Collectibles,5,172,Playoffs,860
+Jayson Tatum,Clippers,Footwear,6,94,All-Star Weekend,564
+Jimmy Butler,Lakers,Hoodies,1,68,Finals,68
+Kevin Durant,Raptors,Collectibles,2,150,None,300
+Luka Dončić,Raptors,Footwear,4,182,None,728
+LeBron James,Nuggets,Jerseys,6,70,MVP Run,420
+Luka Dončić,Heat,Jerseys,1,181,All-Star Weekend,181
+Stephen Curry,Knicks,Jerseys,1,220,Playoffs,220
+Jayson Tatum,Warriors,T-Shirts,3,82,None,246
+Luka Dončić,Nets,Hoodies,3,207,Finals,621
+Kevin Durant,Spurs,Collectibles,1,78,Finals,78
+Jimmy Butler,Lakers,Footwear,4,143,Finals,572
+Jayson Tatum,Lakers,Hoodies,5,196,Finals,980
+Giannis Antetokounmpo,Lakers,Hoodies,4,219,Finals,876
+Luka Dončić,76ers,T-Shirts,2,159,Finals,318
+Jimmy Butler,Warriors,Hoodies,2,170,MVP Run,340
+Giannis Antetokounmpo,Mavericks,Hats,3,185,Playoffs,555
+Kevin Durant,Nuggets,Collectibles,5,226,MVP Run,1130
+Luka Dončić,Raptors,T-Shirts,1,125,Finals,125
+Jayson Tatum,Suns,Hats,2,116,Finals,232
+Giannis Antetokounmpo,Nuggets,Jerseys,4,228,MVP Run,912
+Kevin Durant,Suns,Hoodies,7,187,All-Star Weekend,1309
+Giannis Antetokounmpo,Bulls,Jerseys,4,238,Finals,952
+Kevin Durant,Bucks,T-Shirts,4,210,Playoffs,840
+Kevin Durant,Lakers,Footwear,4,228,None,912
+Giannis Antetokounmpo,Nets,Footwear,3,83,None,249
+Luka Dončić,76ers,Footwear,6,208,None,1248
+Jimmy Butler,Bucks,T-Shirts,3,107,All-Star Weekend,321
+Giannis Antetokounmpo,Knicks,Hoodies,4,211,Finals,844
+Jimmy Butler,Mavericks,Collectibles,7,145,Finals,1015
+Kevin Durant,Knicks,Hoodies,5,138,None,690
+Kevin Durant,Mavericks,Hoodies,4,220,None,880
+Jimmy Butler,Bucks,Collectibles,3,185,MVP Run,555
+Luka Dončić,Bucks,Hoodies,7,171,Finals,1197
+Jimmy Butler,76ers,Collectibles,5,151,MVP Run,755
+Luka Dončić,Knicks,T-Shirts,6,88,MVP Run,528
+Stephen Curry,Bulls,T-Shirts,6,135,Playoffs,810
+Giannis Antetokounmpo,Mavericks,Jerseys,5,220,Finals,1100
+Jayson Tatum,Mavericks,Hats,5,108,MVP Run,540
+LeBron James,Mavericks,Hats,7,65,Playoffs,455
+LeBron James,Suns,Jerseys,3,117,Finals,351
+Kevin Durant,Knicks,T-Shirts,6,168,None,1008
+Jimmy Butler,Suns,Jerseys,1,131,Finals,131
+Jimmy Butler,Nets,Footwear,5,104,None,520
+Stephen Curry,Warriors,Hoodies,7,100,Playoffs,700
+Jimmy Butler,Nets,T-Shirts,7,171,MVP Run,1197
+Stephen Curry,Heat,Hoodies,7,225,Playoffs,1575
+Stephen Curry,Nuggets,Jerseys,5,68,All-Star Weekend,340
+Luka Dončić,Warriors,Jerseys,3,145,None,435
+Jimmy Butler,76ers,Collectibles,7,192,MVP Run,1344
+Giannis Antetokounmpo,Warriors,Hoodies,3,171,Playoffs,513
+Luka Dončić,Knicks,Hats,4,170,Playoffs,680
+Stephen Curry,Lakers,Footwear,3,72,Finals,216
+Luka Dončić,Lakers,Collectibles,3,120,None,360
+Stephen Curry,Suns,Collectibles,7,154,None,1078
+Jayson Tatum,Heat,T-Shirts,3,99,None,297
+Giannis Antetokounmpo,Bulls,T-Shirts,5,93,Playoffs,465
+Jayson Tatum,Warriors,Hats,4,158,All-Star Weekend,632
+Giannis Antetokounmpo,Heat,Jerseys,3,149,Finals,447
+Stephen Curry,Nuggets,Hats,4,117,Finals,468
+Stephen Curry,Heat,Jerseys,6,113,None,678
+Giannis Antetokounmpo,Bulls,Collectibles,3,89,None,267
+Jayson Tatum,Heat,Jerseys,2,147,All-Star Weekend,294
+LeBron James,Bulls,T-Shirts,7,217,All-Star Weekend,1519
+Luka Dončić,Suns,T-Shirts,4,75,MVP Run,300
+Kevin Durant,Bulls,Footwear,4,202,All-Star Weekend,808
+Jayson Tatum,Bucks,Hoodies,6,232,None,1392
+Luka Dončić,Mavericks,Hats,4,234,Playoffs,936
+Stephen Curry,Suns,T-Shirts,4,176,MVP Run,704
+Jayson Tatum,Spurs,Footwear,4,82,All-Star Weekend,328
+Luka Dončić,Nets,Hats,4,214,None,856
+Jimmy Butler,Nets,T-Shirts,7,200,All-Star Weekend,1400
+Kevin Durant,Lakers,Footwear,6,164,Finals,984
+Kevin Durant,Celtics,Hoodies,3,61,Finals,183
+Jimmy Butler,Knicks,Hats,5,203,MVP Run,1015
+Luka Dončić,Bucks,Hoodies,1,237,All-Star Weekend,237
+LeBron James,Raptors,Hoodies,1,62,None,62
+Jimmy Butler,Celtics,Jerseys,3,231,MVP Run,693
+Luka Dončić,Mavericks,Collectibles,2,90,MVP Run,180
+LeBron James,Celtics,T-Shirts,2,163,None,326
+Stephen Curry,Warriors,Hoodies,3,160,All-Star Weekend,480
+Jimmy Butler,Heat,Footwear,3,86,All-Star Weekend,258
+Kevin Durant,Warriors,Hoodies,4,227,Finals,908
+Jayson Tatum,76ers,Hoodies,3,97,Playoffs,291
+Giannis Antetokounmpo,Nets,T-Shirts,2,241,Finals,482
+Luka Dončić,Nets,Collectibles,2,101,None,202
+LeBron James,Lakers,Jerseys,5,168,All-Star Weekend,840
+Stephen Curry,Bucks,Hats,7,200,Playoffs,1400
+Stephen Curry,Heat,T-Shirts,4,165,Playoffs,660
+Jimmy Butler,76ers,Collectibles,1,220,Finals,220
+Stephen Curry,Lakers,Hats,6,135,Finals,810
+Luka Dončić,Bulls,Collectibles,5,83,None,415
+LeBron James,Lakers,Jerseys,3,89,Finals,267
+Kevin Durant,Knicks,T-Shirts,2,80,MVP Run,160
+Stephen Curry,Celtics,Footwear,3,155,None,465
+Kevin Durant,Nuggets,Hats,5,168,All-Star Weekend,840
+Stephen Curry,76ers,T-Shirts,3,91,All-Star Weekend,273
+Giannis Antetokounmpo,Clippers,Hoodies,2,97,Finals,194
+Jimmy Butler,Suns,Footwear,3,239,MVP Run,717
+LeBron James,Nuggets,Hats,6,167,MVP Run,1002
+Luka Dončić,Clippers,T-Shirts,3,164,All-Star Weekend,492
+Jayson Tatum,Mavericks,Hoodies,5,74,None,370
+Stephen Curry,Celtics,Collectibles,5,69,MVP Run,345
+Stephen Curry,Suns,Jerseys,1,234,Finals,234
+Giannis Antetokounmpo,Raptors,Jerseys,5,61,None,305
+Jimmy Butler,76ers,T-Shirts,3,155,Playoffs,465
+Kevin Durant,Heat,Hats,6,155,All-Star Weekend,930
+Jayson Tatum,Celtics,Hoodies,5,137,Playoffs,685
+Jayson Tatum,Lakers,Hoodies,4,199,Finals,796
+Kevin Durant,Warriors,Hats,6,215,Playoffs,1290
+Kevin Durant,Lakers,Hats,3,199,Finals,597
+Jayson Tatum,Clippers,Jerseys,5,179,MVP Run,895
+Jayson Tatum,Spurs,Footwear,2,140,Playoffs,280
+Jimmy Butler,Nuggets,T-Shirts,4,97,None,388
+Stephen Curry,Nuggets,Hats,2,177,All-Star Weekend,354
+Stephen Curry,Nuggets,Jerseys,6,78,MVP Run,468
+Jayson Tatum,76ers,Footwear,2,94,Finals,188
+Stephen Curry,Spurs,Collectibles,3,60,None,180
+Stephen Curry,Lakers,Hats,7,230,MVP Run,1610
+Kevin Durant,Mavericks,Hoodies,5,131,Finals,655
+Stephen Curry,Bulls,Hats,6,103,All-Star Weekend,618
+Kevin Durant,Warriors,T-Shirts,1,226,All-Star Weekend,226
+Luka Dončić,Knicks,Hats,4,112,MVP Run,448
+Stephen Curry,Celtics,Footwear,4,133,None,532
+Stephen Curry,Nuggets,T-Shirts,1,233,None,233
+LeBron James,Heat,T-Shirts,3,130,MVP Run,390
+Luka Dončić,Spurs,Hoodies,6,173,MVP Run,1038
+Luka Dončić,Warriors,T-Shirts,7,202,Playoffs,1414
+Kevin Durant,Knicks,Footwear,6,224,Finals,1344
+Giannis Antetokounmpo,76ers,Jerseys,4,228,Finals,912
+Luka Dončić,Spurs,Hats,6,71,Finals,426
+LeBron James,Celtics,Hoodies,7,131,All-Star Weekend,917
+Jayson Tatum,Bucks,Hoodies,3,66,All-Star Weekend,198
+LeBron James,Warriors,T-Shirts,3,139,MVP Run,417
+Stephen Curry,Clippers,Jerseys,2,158,MVP Run,316
+Kevin Durant,Raptors,Collectibles,6,67,Finals,402
+LeBron James,76ers,Hoodies,3,107,MVP Run,321
+LeBron James,76ers,Footwear,4,105,All-Star Weekend,420
+Stephen Curry,Bucks,T-Shirts,7,215,MVP Run,1505
+LeBron James,Knicks,T-Shirts,7,186,Finals,1302
+LeBron James,Bulls,T-Shirts,6,89,MVP Run,534
+Jayson Tatum,Bucks,Jerseys,4,186,All-Star Weekend,744
+Jayson Tatum,Bulls,Collectibles,4,150,None,600
+Giannis Antetokounmpo,76ers,T-Shirts,6,183,MVP Run,1098
+Jayson Tatum,Warriors,Footwear,7,236,MVP Run,1652
+Giannis Antetokounmpo,Clippers,T-Shirts,6,194,All-Star Weekend,1164
+Giannis Antetokounmpo,Warriors,T-Shirts,2,174,None,348
+Stephen Curry,Celtics,Jerseys,3,242,Playoffs,726
+Jimmy Butler,Celtics,Jerseys,6,93,All-Star Weekend,558
+Giannis Antetokounmpo,Warriors,Hats,4,133,All-Star Weekend,532
+Kevin Durant,Bucks,T-Shirts,3,243,All-Star Weekend,729
+Kevin Durant,Spurs,Footwear,7,116,All-Star Weekend,812
+Jayson Tatum,Spurs,Jerseys,7,190,None,1330
+LeBron James,Nuggets,Hats,4,129,Playoffs,516
+Kevin Durant,Spurs,Jerseys,5,190,Playoffs,950
+Giannis Antetokounmpo,Celtics,Collectibles,1,242,All-Star Weekend,242
+Giannis Antetokounmpo,Nets,Footwear,4,146,MVP Run,584
+Jayson Tatum,Bulls,Footwear,4,107,Finals,428
+Jayson Tatum,Raptors,Jerseys,5,79,All-Star Weekend,395
+Stephen Curry,Nets,Collectibles,7,66,None,462
+LeBron James,Mavericks,Collectibles,5,234,Finals,1170
+LeBron James,Bucks,Jerseys,3,235,Playoffs,705
+Luka Dončić,Bulls,Hoodies,1,190,All-Star Weekend,190
+Kevin Durant,Mavericks,Collectibles,1,238,MVP Run,238
+Stephen Curry,Bucks,Collectibles,6,143,Playoffs,858
+LeBron James,Nuggets,Collectibles,1,140,Finals,140
+Luka Dončić,Spurs,T-Shirts,1,105,Finals,105
+Jayson Tatum,Mavericks,Hoodies,1,122,Finals,122
+Jimmy Butler,Mavericks,Hats,1,115,Finals,115
+Giannis Antetokounmpo,Bulls,Hoodies,5,127,MVP Run,635
+Stephen Curry,Nuggets,Hats,4,146,MVP Run,584
+Jimmy Butler,Clippers,Jerseys,2,141,All-Star Weekend,282
+Giannis Antetokounmpo,Suns,Collectibles,3,125,Playoffs,375
+Stephen Curry,Raptors,Hoodies,2,209,Finals,418
+Jayson Tatum,Clippers,Footwear,2,191,All-Star Weekend,382
+Jimmy Butler,Raptors,T-Shirts,6,193,Playoffs,1158
+Kevin Durant,Heat,Collectibles,4,96,All-Star Weekend,384
+Stephen Curry,Nuggets,Collectibles,6,247,All-Star Weekend,1482
+Giannis Antetokounmpo,Suns,T-Shirts,2,143,None,286
+Jayson Tatum,Spurs,Collectibles,2,189,Playoffs,378
+Giannis Antetokounmpo,Heat,Hats,6,162,MVP Run,972
+Jimmy Butler,Lakers,Hoodies,4,113,Playoffs,452
+Giannis Antetokounmpo,Bucks,Hats,1,61,None,61
+Jimmy Butler,Nuggets,Hats,2,170,Playoffs,340
+Kevin Durant,Suns,Jerseys,6,126,All-Star Weekend,756
+Jimmy Butler,Lakers,Jerseys,7,116,MVP Run,812
+Kevin Durant,Knicks,Footwear,1,155,Playoffs,155
+Jayson Tatum,Clippers,Hoodies,4,172,Playoffs,688
+Giannis Antetokounmpo,Suns,Hoodies,2,244,All-Star Weekend,488
+Stephen Curry,Bulls,T-Shirts,7,227,Finals,1589
+Luka Dončić,Heat,T-Shirts,2,105,None,210
+Stephen Curry,Nuggets,T-Shirts,7,76,None,532
+Jimmy Butler,Nuggets,Hats,7,68,Playoffs,476
+Giannis Antetokounmpo,Suns,Collectibles,2,200,All-Star Weekend,400
+Luka Dončić,Nuggets,Jerseys,2,94,All-Star Weekend,188
+Giannis Antetokounmpo,Lakers,Hats,2,218,None,436
+Jayson Tatum,Spurs,Jerseys,2,106,Playoffs,212
+Giannis Antetokounmpo,Bucks,Hats,5,189,Finals,945
+Kevin Durant,Raptors,T-Shirts,3,144,MVP Run,432
+Jayson Tatum,Raptors,Jerseys,7,113,Playoffs,791
+LeBron James,Mavericks,Hats,4,147,Finals,588
+Stephen Curry,Lakers,Footwear,1,154,Finals,154
+Stephen Curry,Mavericks,T-Shirts,2,190,None,380
+LeBron James,Bulls,Footwear,6,95,MVP Run,570
+LeBron James,Bucks,T-Shirts,4,79,Finals,316
+Kevin Durant,Mavericks,Hats,5,203,None,1015
+Jimmy Butler,Suns,Jerseys,5,187,Finals,935
+Giannis Antetokounmpo,Spurs,Jerseys,5,158,MVP Run,790
+Luka Dončić,Celtics,Footwear,1,199,None,199
+Jimmy Butler,Spurs,Collectibles,6,208,Playoffs,1248
+Jayson Tatum,Nets,Hats,5,64,Playoffs,320
+Stephen Curry,Nuggets,Hats,4,154,Playoffs,616
+Stephen Curry,Bucks,T-Shirts,3,163,Finals,489
+Jayson Tatum,Nuggets,Jerseys,4,147,All-Star Weekend,588
+Jimmy Butler,Spurs,T-Shirts,2,142,Finals,284
+Giannis Antetokounmpo,76ers,Footwear,6,184,Playoffs,1104
+Kevin Durant,Nuggets,Hoodies,4,89,All-Star Weekend,356
+Jayson Tatum,Nuggets,Footwear,3,244,Playoffs,732
+Giannis Antetokounmpo,Celtics,Jerseys,4,181,Finals,724
+Stephen Curry,Mavericks,Hats,7,240,None,1680
+Jayson Tatum,Warriors,Hoodies,2,117,None,234
+Jimmy Butler,Warriors,Footwear,6,156,Playoffs,936
+Kevin Durant,Knicks,Hoodies,2,167,MVP Run,334
+Jayson Tatum,Nets,Footwear,4,83,Finals,332
+Kevin Durant,Nuggets,Hoodies,4,60,Finals,240
+Jimmy Butler,Celtics,Footwear,4,186,Playoffs,744
+Kevin Durant,Warriors,Collectibles,6,214,Playoffs,1284
+Giannis Antetokounmpo,Spurs,Footwear,2,89,All-Star Weekend,178
+Luka Dončić,Clippers,T-Shirts,5,92,Finals,460
+Jimmy Butler,Celtics,Hats,2,95,MVP Run,190
+Jimmy Butler,Spurs,Collectibles,5,230,None,1150
+Kevin Durant,Warriors,Hats,7,167,None,1169
+Jayson Tatum,Nets,Jerseys,4,81,Playoffs,324
+Kevin Durant,Lakers,T-Shirts,6,68,All-Star Weekend,408
+Jayson Tatum,Suns,Jerseys,2,110,All-Star Weekend,220
+Giannis Antetokounmpo,76ers,Collectibles,2,74,All-Star Weekend,148
+Kevin Durant,Bucks,Jerseys,2,164,Playoffs,328
+Jimmy Butler,Clippers,Hats,4,87,Playoffs,348
+Kevin Durant,Suns,Hats,6,174,All-Star Weekend,1044
+Luka Dončić,Celtics,Jerseys,1,103,All-Star Weekend,103
+Jimmy Butler,Bulls,Footwear,4,234,Playoffs,936
+Stephen Curry,Spurs,Hoodies,6,238,None,1428
+Giannis Antetokounmpo,Knicks,Hoodies,1,238,MVP Run,238
+Giannis Antetokounmpo,Nets,Collectibles,2,199,None,398
+Luka Dončić,Raptors,Jerseys,2,216,Finals,432
+Luka Dončić,Bulls,Hats,6,198,All-Star Weekend,1188
+Giannis Antetokounmpo,Lakers,Hoodies,2,186,Finals,372
+Jimmy Butler,Raptors,Hoodies,5,249,Playoffs,1245
+LeBron James,Mavericks,Hats,3,236,None,708
+Stephen Curry,Nets,Hats,4,82,None,328
+Jayson Tatum,Lakers,Footwear,5,215,MVP Run,1075
+Luka Dončić,Celtics,T-Shirts,4,215,None,860
+Jimmy Butler,Clippers,Jerseys,6,217,Finals,1302
+Jimmy Butler,Heat,Jerseys,7,138,All-Star Weekend,966
+Kevin Durant,Clippers,T-Shirts,1,172,None,172
+Jimmy Butler,Mavericks,Jerseys,1,165,MVP Run,165
+Giannis Antetokounmpo,Heat,Hoodies,5,218,All-Star Weekend,1090
+Jimmy Butler,Suns,Footwear,1,75,MVP Run,75
+LeBron James,Suns,Hoodies,5,169,None,845
+Giannis Antetokounmpo,Clippers,T-Shirts,4,70,Finals,280
+Jimmy Butler,Knicks,Collectibles,7,196,None,1372
+Jimmy Butler,Bulls,T-Shirts,3,72,All-Star Weekend,216
+Giannis Antetokounmpo,Bucks,Footwear,2,103,Finals,206
+Luka Dončić,Clippers,Jerseys,7,217,None,1519
+Jimmy Butler,Suns,Collectibles,6,216,Finals,1296
+Jimmy Butler,Suns,T-Shirts,6,239,MVP Run,1434
+LeBron James,Spurs,Jerseys,2,234,None,468
+LeBron James,Lakers,T-Shirts,3,198,Finals,594
+Jayson Tatum,Bucks,Collectibles,1,118,All-Star Weekend,118
+Stephen Curry,Lakers,Footwear,1,115,MVP Run,115
+LeBron James,Nets,Hoodies,4,172,All-Star Weekend,688
+Kevin Durant,Lakers,Footwear,7,129,MVP Run,903
+Giannis Antetokounmpo,Warriors,Hoodies,6,72,All-Star Weekend,432
+Jimmy Butler,76ers,T-Shirts,6,173,None,1038
+Kevin Durant,Warriors,Hoodies,5,246,MVP Run,1230
+Stephen Curry,Warriors,Jerseys,3,220,None,660
+Kevin Durant,Raptors,Hats,1,212,Playoffs,212
+Luka Dončić,Warriors,Collectibles,7,216,None,1512
+Jayson Tatum,Bulls,Jerseys,3,179,Finals,537
+LeBron James,Suns,Footwear,3,91,Finals,273
+LeBron James,Raptors,Jerseys,1,214,Finals,214
+Kevin Durant,Suns,Jerseys,5,61,Playoffs,305
+Giannis Antetokounmpo,Celtics,Footwear,2,119,Playoffs,238
+Jayson Tatum,Lakers,Collectibles,1,125,Finals,125
+Jimmy Butler,Bulls,Hats,1,126,Playoffs,126
+Jimmy Butler,76ers,Footwear,3,152,Playoffs,456
+LeBron James,Spurs,Hats,5,136,Playoffs,680
+Giannis Antetokounmpo,Suns,T-Shirts,1,153,Playoffs,153
+Giannis Antetokounmpo,Raptors,Footwear,7,140,None,980
+Giannis Antetokounmpo,Raptors,Hoodies,3,64,None,192
+Jimmy Butler,Spurs,Hoodies,7,151,Finals,1057
+Jayson Tatum,Knicks,T-Shirts,4,164,MVP Run,656
+LeBron James,Bucks,Collectibles,4,170,All-Star Weekend,680
+Kevin Durant,Celtics,Collectibles,6,109,MVP Run,654
+Jayson Tatum,Bulls,T-Shirts,3,222,MVP Run,666
+Luka Dončić,Raptors,Collectibles,4,239,All-Star Weekend,956
+Giannis Antetokounmpo,Warriors,Jerseys,3,216,All-Star Weekend,648
+Jayson Tatum,Heat,Hoodies,4,123,MVP Run,492
+Jayson Tatum,Spurs,Hats,1,203,Finals,203
+Jimmy Butler,Heat,Hats,4,204,MVP Run,816
+LeBron James,Spurs,Hoodies,2,109,None,218
+Luka Dončić,Bulls,Hats,6,190,MVP Run,1140
+Luka Dončić,Mavericks,Jerseys,1,239,None,239
+Jayson Tatum,Clippers,Collectibles,6,74,MVP Run,444
+LeBron James,Lakers,Hoodies,1,85,Finals,85
+Jimmy Butler,Celtics,Collectibles,1,118,All-Star Weekend,118
+Stephen Curry,Heat,Hoodies,1,116,Finals,116
+Giannis Antetokounmpo,Raptors,Collectibles,6,240,None,1440
+Giannis Antetokounmpo,Nuggets,Footwear,2,113,Finals,226
+Jayson Tatum,Lakers,Collectibles,1,199,None,199
+Stephen Curry,Raptors,Jerseys,3,127,Finals,381
+Giannis Antetokounmpo,Clippers,Jerseys,7,184,None,1288
+Stephen Curry,Warriors,Collectibles,4,202,None,808
+Giannis Antetokounmpo,Nets,Jerseys,1,234,None,234
+LeBron James,Clippers,T-Shirts,4,209,None,836
+Kevin Durant,Knicks,Collectibles,3,244,Finals,732
+Kevin Durant,Clippers,Hats,7,120,MVP Run,840
+Kevin Durant,Bulls,Hoodies,7,91,All-Star Weekend,637
+Stephen Curry,Suns,Hats,7,120,MVP Run,840
+Luka Dončić,Raptors,Footwear,4,141,Finals,564
+Stephen Curry,Heat,Footwear,5,96,Playoffs,480
+Kevin Durant,Mavericks,Footwear,7,93,Finals,651
+Jimmy Butler,Clippers,Hoodies,4,136,MVP Run,544
+Jimmy Butler,Raptors,Jerseys,7,207,None,1449
+Luka Dončić,Mavericks,Hoodies,6,73,Finals,438
+Giannis Antetokounmpo,Heat,Collectibles,5,242,MVP Run,1210
+Jimmy Butler,Lakers,Footwear,6,134,All-Star Weekend,804
+LeBron James,Raptors,Hoodies,1,203,None,203
+Jayson Tatum,Knicks,Collectibles,1,140,Playoffs,140
+Luka Dončić,Celtics,Footwear,7,198,Finals,1386
+Giannis Antetokounmpo,Suns,Hoodies,6,194,MVP Run,1164
+Kevin Durant,Heat,Collectibles,6,101,Finals,606
+Luka Dončić,Knicks,T-Shirts,2,89,MVP Run,178
+Jayson Tatum,Lakers,Hats,2,81,None,162
+Kevin Durant,Spurs,T-Shirts,1,172,All-Star Weekend,172
+Jimmy Butler,Lakers,T-Shirts,7,164,None,1148
+Luka Dončić,Bulls,Hats,5,139,None,695
+Luka Dončić,Bucks,T-Shirts,3,114,Playoffs,342
+Stephen Curry,Mavericks,Footwear,1,61,Playoffs,61
+LeBron James,Nuggets,Jerseys,7,192,MVP Run,1344
+LeBron James,76ers,Hats,7,64,MVP Run,448
+Giannis Antetokounmpo,76ers,T-Shirts,6,133,MVP Run,798
+Luka Dončić,Warriors,T-Shirts,2,92,All-Star Weekend,184
+Jayson Tatum,Celtics,Jerseys,6,143,MVP Run,858
+Luka Dončić,Bulls,T-Shirts,5,116,MVP Run,580
+Kevin Durant,Knicks,Footwear,6,247,None,1482
+LeBron James,76ers,Jerseys,4,111,None,444
+Giannis Antetokounmpo,Spurs,T-Shirts,2,230,MVP Run,460
+LeBron James,Celtics,T-Shirts,3,146,All-Star Weekend,438
+Kevin Durant,Bucks,Jerseys,7,227,MVP Run,1589
+Luka Dončić,Knicks,Hats,4,228,Finals,912
+Giannis Antetokounmpo,Clippers,Footwear,7,61,MVP Run,427
+Luka Dončić,Lakers,Hats,2,199,All-Star Weekend,398
+Giannis Antetokounmpo,Bulls,Collectibles,4,221,Finals,884
+Stephen Curry,Nets,Footwear,6,246,All-Star Weekend,1476
+LeBron James,Suns,Collectibles,2,60,Playoffs,120
+Giannis Antetokounmpo,Nuggets,Hoodies,3,78,MVP Run,234
+Jimmy Butler,Raptors,Hoodies,1,125,None,125
+Jayson Tatum,Celtics,Collectibles,4,209,Finals,836
+Luka Dončić,Bulls,T-Shirts,7,137,MVP Run,959
+LeBron James,76ers,T-Shirts,5,202,Playoffs,1010
+Kevin Durant,76ers,Hats,6,75,MVP Run,450
+LeBron James,Nets,Hoodies,2,115,All-Star Weekend,230
+Luka Dončić,Spurs,Footwear,4,146,Finals,584
+Luka Dončić,Lakers,Hoodies,3,82,Finals,246
+LeBron James,Lakers,Footwear,3,232,MVP Run,696
+LeBron James,Clippers,Jerseys,7,78,None,546
+Jimmy Butler,Heat,Hats,2,222,Finals,444
+Kevin Durant,Suns,Hoodies,5,85,Playoffs,425
+LeBron James,Nuggets,Hats,6,155,Finals,930
+Luka Dončić,Celtics,Hats,4,211,All-Star Weekend,844
+Giannis Antetokounmpo,Clippers,Hoodies,1,173,All-Star Weekend,173
+Jimmy Butler,Spurs,Hats,1,143,All-Star Weekend,143
+Jimmy Butler,Celtics,Collectibles,1,217,Playoffs,217
+Luka Dončić,Heat,Hoodies,6,211,All-Star Weekend,1266
+Giannis Antetokounmpo,Raptors,Collectibles,7,88,Finals,616
+LeBron James,Heat,T-Shirts,3,220,Finals,660
+Stephen Curry,Celtics,Jerseys,1,92,Playoffs,92
+Stephen Curry,Suns,Hoodies,6,221,None,1326
+Stephen Curry,Lakers,Collectibles,1,97,Playoffs,97
+Stephen Curry,76ers,Jerseys,4,93,Playoffs,372
+Kevin Durant,76ers,T-Shirts,3,95,Finals,285
+Jimmy Butler,Knicks,Hats,4,137,Finals,548
+Giannis Antetokounmpo,Clippers,Jerseys,6,120,None,720
+LeBron James,Bulls,Footwear,2,99,Playoffs,198
+Jimmy Butler,Warriors,Hoodies,6,203,None,1218
+LeBron James,Spurs,Hoodies,5,69,None,345
+Stephen Curry,Mavericks,Hoodies,7,182,All-Star Weekend,1274
+Jimmy Butler,Mavericks,Jerseys,3,134,Finals,402
+Jayson Tatum,Nuggets,Footwear,1,189,Finals,189
+Luka Dončić,Suns,T-Shirts,1,153,MVP Run,153
+Jimmy Butler,Nuggets,Hats,4,118,None,472
+Stephen Curry,Clippers,Hoodies,2,81,None,162
+Giannis Antetokounmpo,Nuggets,Collectibles,1,89,Finals,89
+Jimmy Butler,Knicks,Collectibles,1,66,MVP Run,66
+Stephen Curry,Lakers,Collectibles,4,231,Finals,924
+Luka Dončić,Bucks,Collectibles,6,87,Finals,522
+Luka Dončić,Heat,Collectibles,3,123,MVP Run,369
+Stephen Curry,Suns,Hats,1,124,None,124
+Jayson Tatum,Bucks,Jerseys,3,189,MVP Run,567
+Luka Dončić,Nuggets,Footwear,2,85,All-Star Weekend,170
+Stephen Curry,Nuggets,Footwear,7,76,MVP Run,532
+Giannis Antetokounmpo,Nets,Hats,3,175,Playoffs,525
+Jimmy Butler,Clippers,Collectibles,3,133,Finals,399
+Jayson Tatum,Nuggets,Footwear,5,194,Finals,970
+Stephen Curry,76ers,Collectibles,7,201,MVP Run,1407
+Luka Dončić,Heat,Hats,3,187,None,561
+Jayson Tatum,Nets,Footwear,3,219,None,657
+Jimmy Butler,Bulls,Jerseys,7,214,Playoffs,1498
+Stephen Curry,Knicks,T-Shirts,2,133,Playoffs,266
+Kevin Durant,Knicks,T-Shirts,4,87,Playoffs,348
+Kevin Durant,Raptors,Footwear,5,83,Finals,415
+Giannis Antetokounmpo,Warriors,Jerseys,6,103,MVP Run,618
+Giannis Antetokounmpo,Nets,Jerseys,6,185,MVP Run,1110
+LeBron James,Warriors,Jerseys,2,138,All-Star Weekend,276
+Jayson Tatum,Mavericks,Collectibles,6,187,MVP Run,1122
+Stephen Curry,Knicks,Collectibles,1,112,Finals,112
+Giannis Antetokounmpo,Bulls,Hoodies,1,179,MVP Run,179
+Giannis Antetokounmpo,Raptors,Hoodies,6,175,MVP Run,1050
+Stephen Curry,Spurs,Collectibles,6,183,None,1098
+Kevin Durant,Bulls,Collectibles,7,150,All-Star Weekend,1050
+Stephen Curry,Raptors,Hoodies,5,244,Finals,1220
+Stephen Curry,Warriors,Hoodies,7,246,All-Star Weekend,1722
+Stephen Curry,Knicks,Hoodies,1,240,None,240
+Jayson Tatum,Bucks,Collectibles,2,93,Playoffs,186
+Kevin Durant,Mavericks,T-Shirts,6,211,Finals,1266
+Jayson Tatum,Lakers,Hats,2,145,Playoffs,290
+LeBron James,Bulls,T-Shirts,3,198,Playoffs,594
+Giannis Antetokounmpo,Suns,Jerseys,5,109,MVP Run,545
+Jayson Tatum,Mavericks,Collectibles,2,63,MVP Run,126
+Giannis Antetokounmpo,Suns,Collectibles,1,221,None,221
+Jayson Tatum,Raptors,T-Shirts,6,89,MVP Run,534
+Giannis Antetokounmpo,Raptors,Footwear,1,142,Playoffs,142
+Jayson Tatum,Spurs,Jerseys,7,160,None,1120
+LeBron James,Celtics,T-Shirts,5,81,None,405
+Stephen Curry,Mavericks,Collectibles,2,119,None,238
+Jayson Tatum,Clippers,Footwear,4,213,Finals,852
+Jayson Tatum,Lakers,T-Shirts,1,189,All-Star Weekend,189
+Stephen Curry,Nets,Hats,3,137,MVP Run,411
+Jayson Tatum,Suns,Jerseys,1,100,None,100
+Kevin Durant,Spurs,Collectibles,6,95,MVP Run,570
+Luka Dončić,Bulls,T-Shirts,5,90,All-Star Weekend,450
+Giannis Antetokounmpo,Lakers,T-Shirts,7,177,MVP Run,1239
+Jimmy Butler,Mavericks,Jerseys,3,179,None,537
+LeBron James,Spurs,Hoodies,5,79,Finals,395
+LeBron James,Clippers,Collectibles,4,208,None,832
+Jimmy Butler,Clippers,Hoodies,4,83,All-Star Weekend,332
+Jimmy Butler,76ers,Collectibles,1,110,Finals,110
+Kevin Durant,Clippers,Jerseys,2,225,Playoffs,450
+Jimmy Butler,Raptors,Hoodies,2,208,Finals,416
+Kevin Durant,Knicks,Footwear,6,154,Finals,924
+Stephen Curry,Warriors,Hats,4,220,Playoffs,880
+Luka Dončić,Spurs,T-Shirts,4,138,MVP Run,552
+Stephen Curry,76ers,Hats,5,109,None,545
+LeBron James,Raptors,Footwear,3,111,Playoffs,333
+Luka Dončić,Suns,Jerseys,4,70,MVP Run,280
+Giannis Antetokounmpo,Lakers,Footwear,4,231,MVP Run,924
+Jimmy Butler,Raptors,Footwear,7,203,Finals,1421
+Giannis Antetokounmpo,Warriors,Hats,1,174,All-Star Weekend,174
+Kevin Durant,Mavericks,Hats,3,75,MVP Run,225
+LeBron James,Bucks,Collectibles,7,247,MVP Run,1729
+LeBron James,Heat,Hoodies,7,78,Finals,546
+LeBron James,Knicks,Hoodies,1,206,None,206
+Giannis Antetokounmpo,Nuggets,Footwear,5,87,Playoffs,435
+Giannis Antetokounmpo,Raptors,Hoodies,3,70,All-Star Weekend,210
+Jayson Tatum,Mavericks,Hoodies,7,205,Finals,1435
+Kevin Durant,Celtics,Hats,3,208,Playoffs,624
+Stephen Curry,Celtics,Hats,7,68,Finals,476
+LeBron James,Bucks,Collectibles,2,186,All-Star Weekend,372
+Jimmy Butler,Nuggets,Hoodies,3,83,Playoffs,249
+Luka Dončić,Raptors,Jerseys,1,80,None,80
+Jimmy Butler,Suns,Hoodies,3,247,None,741
+Jayson Tatum,Heat,Hats,3,177,All-Star Weekend,531
+Luka Dončić,Heat,T-Shirts,5,191,Finals,955
+Luka Dončić,Mavericks,Hats,3,249,Playoffs,747
+Stephen Curry,Raptors,Hats,1,208,Playoffs,208
+LeBron James,Nuggets,Footwear,3,65,None,195
+Giannis Antetokounmpo,Warriors,Jerseys,5,158,Finals,790
+Giannis Antetokounmpo,Nuggets,Footwear,5,76,Playoffs,380
+Luka Dončić,Knicks,Collectibles,3,131,Playoffs,393
+Jimmy Butler,Suns,Jerseys,7,164,None,1148
+Jimmy Butler,Nets,Footwear,3,67,Playoffs,201
+Stephen Curry,Bucks,Footwear,2,75,Playoffs,150
+Stephen Curry,Bucks,Hoodies,1,103,Finals,103
+Kevin Durant,Bucks,Footwear,2,124,All-Star Weekend,248
+Giannis Antetokounmpo,Nets,Footwear,2,100,MVP Run,200
+Jimmy Butler,Nets,Hats,1,77,Playoffs,77
+LeBron James,Suns,Footwear,5,93,MVP Run,465
+Jimmy Butler,Nuggets,Hats,3,244,Finals,732
+Kevin Durant,Suns,Footwear,6,62,None,372
+Luka Dončić,Raptors,Footwear,2,178,All-Star Weekend,356
+Giannis Antetokounmpo,Heat,Hats,4,80,None,320
+Kevin Durant,76ers,Hoodies,6,95,Playoffs,570
+Jayson Tatum,Raptors,Collectibles,1,206,Finals,206
+Giannis Antetokounmpo,Lakers,Jerseys,1,126,All-Star Weekend,126
+Luka Dončić,Celtics,Collectibles,3,120,Playoffs,360
+Giannis Antetokounmpo,Suns,Hoodies,4,215,None,860
+Jayson Tatum,Raptors,Collectibles,1,176,Finals,176
+LeBron James,Bulls,Footwear,2,168,MVP Run,336
+Kevin Durant,Spurs,T-Shirts,1,177,All-Star Weekend,177
+Stephen Curry,Clippers,T-Shirts,2,239,Finals,478
+Stephen Curry,Bucks,Jerseys,4,207,Playoffs,828
+Jayson Tatum,Clippers,Collectibles,7,192,Playoffs,1344
+Kevin Durant,Heat,T-Shirts,7,145,Finals,1015
+Jayson Tatum,Celtics,Hoodies,1,194,All-Star Weekend,194
+Jimmy Butler,Heat,Hats,6,235,Playoffs,1410
+Jimmy Butler,Bulls,Hats,6,91,Playoffs,546
+Jayson Tatum,Spurs,Hoodies,2,247,Finals,494
+Kevin Durant,Warriors,Footwear,1,182,MVP Run,182
+Jimmy Butler,76ers,Collectibles,1,223,Playoffs,223
+LeBron James,Suns,Hats,6,153,All-Star Weekend,918
+Luka Dončić,Nets,Jerseys,3,97,Finals,291
+Stephen Curry,Lakers,T-Shirts,7,156,Finals,1092
+Giannis Antetokounmpo,Nuggets,Footwear,2,85,MVP Run,170
+Luka Dončić,Bulls,Footwear,6,236,MVP Run,1416
+Jayson Tatum,Raptors,Footwear,3,67,None,201
+Giannis Antetokounmpo,Nets,Collectibles,6,81,None,486
+Kevin Durant,Bulls,Hats,7,130,Playoffs,910
+Stephen Curry,Mavericks,Hats,4,136,All-Star Weekend,544
+Jimmy Butler,Mavericks,Jerseys,7,162,None,1134
+Jayson Tatum,Celtics,Jerseys,1,216,None,216
+Jimmy Butler,Bulls,Jerseys,2,126,Playoffs,252
+Luka Dončić,Nets,Hoodies,6,123,All-Star Weekend,738
+Jayson Tatum,Celtics,Hoodies,7,71,MVP Run,497
+Kevin Durant,Raptors,Collectibles,5,71,Playoffs,355
+Kevin Durant,Heat,Collectibles,5,136,Finals,680
+Luka Dončić,Warriors,Collectibles,1,246,All-Star Weekend,246
+Jimmy Butler,Raptors,T-Shirts,4,107,All-Star Weekend,428
+Jimmy Butler,Mavericks,Collectibles,2,200,All-Star Weekend,400
+Kevin Durant,Suns,Hats,5,240,MVP Run,1200
+Luka Dončić,Bulls,Jerseys,5,85,Finals,425
+Kevin Durant,Bucks,Jerseys,4,94,All-Star Weekend,376
+Stephen Curry,Lakers,Hats,1,79,Playoffs,79
+Jayson Tatum,76ers,Hats,2,79,None,158
+Luka Dončić,Nets,Jerseys,1,175,None,175
+Kevin Durant,Lakers,Jerseys,6,234,None,1404
+Jimmy Butler,Celtics,Jerseys,7,239,Finals,1673
+Giannis Antetokounmpo,Clippers,Jerseys,5,66,Finals,330
+Giannis Antetokounmpo,Lakers,Hoodies,6,182,MVP Run,1092
+Giannis Antetokounmpo,Nets,Hoodies,7,196,MVP Run,1372
+Stephen Curry,Heat,Hoodies,6,94,Finals,564
+Stephen Curry,Bucks,Footwear,5,142,None,710
+Giannis Antetokounmpo,Bucks,Jerseys,7,142,MVP Run,994
+Jimmy Butler,Heat,Hoodies,2,147,None,294
+Luka Dončić,Heat,T-Shirts,2,209,MVP Run,418
+LeBron James,Knicks,Footwear,6,242,Playoffs,1452
+Luka Dončić,Heat,Hats,5,105,All-Star Weekend,525
+LeBron James,Bucks,Hoodies,3,231,All-Star Weekend,693
+Luka Dončić,Suns,Hats,3,70,None,210
+Jayson Tatum,Lakers,Footwear,6,128,None,768
+Luka Dončić,Celtics,Hoodies,1,87,MVP Run,87
+LeBron James,Heat,Hats,6,197,MVP Run,1182
+LeBron James,Bucks,Hats,6,126,MVP Run,756
+Luka Dončić,Raptors,Hoodies,3,161,All-Star Weekend,483
+Stephen Curry,Clippers,Hats,7,202,None,1414
+Jayson Tatum,Clippers,Collectibles,5,236,Playoffs,1180
+Jimmy Butler,Warriors,Hoodies,7,178,Playoffs,1246
+LeBron James,Bulls,Footwear,5,157,All-Star Weekend,785
+Luka Dončić,Suns,Hats,1,198,Finals,198
+Jimmy Butler,Mavericks,Hoodies,2,237,MVP Run,474
+Jimmy Butler,Bucks,Footwear,7,145,All-Star Weekend,1015
+Kevin Durant,Suns,T-Shirts,1,229,MVP Run,229
+Luka Dončić,Clippers,Hats,2,177,Playoffs,354
+Jimmy Butler,Spurs,Jerseys,1,186,Playoffs,186
+Kevin Durant,Bucks,Jerseys,7,70,Playoffs,490
+Giannis Antetokounmpo,Raptors,Hoodies,7,90,Finals,630
+Jimmy Butler,Knicks,T-Shirts,4,181,Finals,724
+Stephen Curry,Knicks,Jerseys,4,207,MVP Run,828
+Luka Dončić,Lakers,Collectibles,3,233,MVP Run,699
+Stephen Curry,Spurs,Hats,4,229,None,916
+Kevin Durant,Knicks,Collectibles,7,209,All-Star Weekend,1463
+Stephen Curry,Lakers,Jerseys,3,226,All-Star Weekend,678
+Stephen Curry,Knicks,Collectibles,7,148,Finals,1036
+Kevin Durant,Bulls,T-Shirts,3,88,Playoffs,264
+Luka Dončić,Mavericks,Collectibles,3,63,Playoffs,189
+Jimmy Butler,Raptors,Hoodies,7,219,Playoffs,1533
+Jimmy Butler,76ers,Jerseys,5,110,None,550
+Jayson Tatum,Warriors,Hats,5,168,Finals,840
+Luka Dončić,Lakers,Footwear,3,60,All-Star Weekend,180
+Giannis Antetokounmpo,Suns,T-Shirts,4,140,All-Star Weekend,560
+LeBron James,Nuggets,Hoodies,5,193,Playoffs,965
+Kevin Durant,Warriors,Collectibles,2,149,MVP Run,298
+Jimmy Butler,Suns,T-Shirts,7,140,Playoffs,980
+Stephen Curry,Bulls,Hoodies,5,124,MVP Run,620
+Luka Dončić,Knicks,T-Shirts,1,88,Playoffs,88
+Luka Dončić,Celtics,Hats,1,126,Finals,126
+Jimmy Butler,Heat,T-Shirts,7,207,Playoffs,1449
+Stephen Curry,Raptors,Jerseys,1,141,Playoffs,141
+Luka Dončić,Heat,Footwear,5,148,None,740
+Giannis Antetokounmpo,Lakers,Footwear,7,136,All-Star Weekend,952
+Kevin Durant,Celtics,Hats,6,70,None,420
+Giannis Antetokounmpo,76ers,Hats,4,137,All-Star Weekend,548
+Stephen Curry,Bulls,T-Shirts,7,103,Playoffs,721
+Giannis Antetokounmpo,Suns,T-Shirts,4,92,MVP Run,368
+Jimmy Butler,Warriors,Hats,3,184,None,552
+Jayson Tatum,Bucks,Collectibles,6,132,MVP Run,792
+Jimmy Butler,Mavericks,Jerseys,3,171,Finals,513
+Jimmy Butler,Mavericks,Footwear,5,150,Finals,750
+LeBron James,Warriors,Jerseys,6,87,None,522
+Luka Dončić,Warriors,Collectibles,4,116,MVP Run,464
+Luka Dončić,Lakers,Hats,4,147,Finals,588
+LeBron James,Warriors,Hoodies,1,102,MVP Run,102
+Luka Dončić,Bucks,Footwear,4,93,MVP Run,372
+Luka Dončić,Nuggets,Footwear,1,100,Playoffs,100
+Luka Dončić,76ers,Jerseys,2,239,All-Star Weekend,478
+Jimmy Butler,Clippers,Hoodies,2,237,All-Star Weekend,474
+Giannis Antetokounmpo,Raptors,Footwear,6,65,Finals,390
+LeBron James,Bulls,Collectibles,6,126,None,756
+Stephen Curry,Nets,T-Shirts,6,243,Finals,1458
+Stephen Curry,Warriors,Footwear,6,164,Playoffs,984
+Jimmy Butler,76ers,Collectibles,2,226,None,452
+LeBron James,Clippers,Footwear,1,229,None,229
+Stephen Curry,Warriors,T-Shirts,1,234,Playoffs,234
+Stephen Curry,Raptors,Jerseys,3,222,All-Star Weekend,666
+Stephen Curry,Clippers,Collectibles,1,125,All-Star Weekend,125
+Jayson Tatum,76ers,Footwear,4,70,All-Star Weekend,280
+LeBron James,76ers,Footwear,3,170,Finals,510
+Stephen Curry,Nets,Jerseys,3,150,Playoffs,450
+Giannis Antetokounmpo,Celtics,Hats,3,82,MVP Run,246
+Luka Dončić,Warriors,Jerseys,2,206,Finals,412
+LeBron James,Warriors,Jerseys,3,180,None,540
+Luka Dončić,Suns,Hoodies,2,165,MVP Run,330
+Kevin Durant,Suns,Footwear,2,218,All-Star Weekend,436
+LeBron James,Spurs,Hats,6,132,Playoffs,792
+Jayson Tatum,Raptors,Jerseys,1,232,All-Star Weekend,232
+Jimmy Butler,Warriors,Hats,4,61,All-Star Weekend,244
+Kevin Durant,Knicks,T-Shirts,3,152,None,456
+Giannis Antetokounmpo,Raptors,Hats,3,151,None,453
+Luka Dončić,Bulls,Hoodies,4,131,MVP Run,524
+Kevin Durant,Mavericks,Collectibles,6,179,None,1074
+Jimmy Butler,Warriors,Jerseys,7,170,Playoffs,1190
+Kevin Durant,Knicks,Hats,3,72,All-Star Weekend,216
+Jayson Tatum,Lakers,Hoodies,7,88,All-Star Weekend,616
+Giannis Antetokounmpo,Knicks,Jerseys,4,90,None,360
+Stephen Curry,Knicks,T-Shirts,6,71,None,426
+Stephen Curry,Raptors,Hats,1,110,None,110
+Stephen Curry,Nets,Collectibles,1,159,MVP Run,159
+Luka Dončić,Spurs,Hats,7,211,MVP Run,1477
+Giannis Antetokounmpo,Celtics,Hoodies,7,246,None,1722
+Jimmy Butler,Heat,Hats,6,190,All-Star Weekend,1140
+Jimmy Butler,Knicks,T-Shirts,3,186,Finals,558
+Stephen Curry,Celtics,Collectibles,7,247,Finals,1729
+Luka Dončić,Lakers,Hoodies,2,233,All-Star Weekend,466
+Kevin Durant,Lakers,Hoodies,7,231,MVP Run,1617
+Luka Dončić,Clippers,Hoodies,4,101,All-Star Weekend,404
+Stephen Curry,Nuggets,Footwear,6,169,All-Star Weekend,1014
+Kevin Durant,Nuggets,Hoodies,2,79,MVP Run,158
+Stephen Curry,Raptors,Jerseys,7,162,Finals,1134
+Giannis Antetokounmpo,Spurs,Footwear,7,197,MVP Run,1379
+Luka Dončić,Clippers,Jerseys,3,198,MVP Run,594
+Luka Dončić,Suns,Footwear,6,66,MVP Run,396
+Jayson Tatum,Bulls,Collectibles,2,83,Finals,166
+Jayson Tatum,Spurs,Jerseys,2,241,None,482
+Jimmy Butler,Raptors,Footwear,1,244,Playoffs,244
+Stephen Curry,Suns,Collectibles,2,187,Playoffs,374
+LeBron James,Celtics,Hats,2,121,All-Star Weekend,242
+Jimmy Butler,Heat,Footwear,5,150,None,750
+Jayson Tatum,Bulls,Jerseys,3,132,All-Star Weekend,396
+Jimmy Butler,Clippers,Hats,2,194,Finals,388
+Jimmy Butler,Mavericks,Hoodies,4,125,None,500
+Jimmy Butler,Heat,Hats,2,203,MVP Run,406
+Jimmy Butler,Nets,T-Shirts,4,128,MVP Run,512
+Kevin Durant,Bulls,Hats,3,207,Playoffs,621
+Kevin Durant,Bucks,Footwear,3,113,None,339
+Jayson Tatum,Bulls,Collectibles,6,150,None,900
+Jimmy Butler,Lakers,Hats,3,171,MVP Run,513
+Stephen Curry,Spurs,Footwear,2,67,All-Star Weekend,134
+Kevin Durant,Nets,Hats,3,118,Playoffs,354
+Kevin Durant,Spurs,Collectibles,2,210,MVP Run,420
+LeBron James,76ers,Collectibles,7,173,MVP Run,1211
+Jimmy Butler,Bucks,Hoodies,3,226,Finals,678
+Giannis Antetokounmpo,Suns,Jerseys,1,80,None,80
+LeBron James,Nuggets,T-Shirts,3,204,All-Star Weekend,612
+Jayson Tatum,Warriors,Collectibles,1,87,MVP Run,87
+Jayson Tatum,Raptors,Hoodies,1,158,Finals,158
+Stephen Curry,Warriors,T-Shirts,6,74,All-Star Weekend,444
+Jayson Tatum,Nuggets,Hats,3,195,MVP Run,585
+Luka Dončić,Warriors,Footwear,3,80,None,240
+Stephen Curry,Bulls,Footwear,6,69,MVP Run,414
+Jimmy Butler,Celtics,Footwear,7,72,All-Star Weekend,504
+Jimmy Butler,Bucks,Collectibles,7,166,None,1162
+Jimmy Butler,76ers,Jerseys,5,89,None,445
+Luka Dončić,Raptors,Footwear,1,77,MVP Run,77
+Kevin Durant,Bulls,Jerseys,7,132,MVP Run,924
+Jimmy Butler,Celtics,T-Shirts,2,162,MVP Run,324
+Luka Dončić,Warriors,Footwear,7,61,None,427
+Giannis Antetokounmpo,76ers,T-Shirts,6,208,Finals,1248
+Luka Dončić,Lakers,Jerseys,4,181,None,724
+Jimmy Butler,Nuggets,Hats,5,114,Finals,570
+Luka Dončić,Clippers,Hoodies,4,134,All-Star Weekend,536
+Jayson Tatum,Bucks,Hats,1,75,None,75
+Jayson Tatum,Nets,Footwear,5,177,Finals,885
+Stephen Curry,Celtics,T-Shirts,5,175,None,875
+Giannis Antetokounmpo,Nets,Footwear,2,248,None,496
+Jayson Tatum,Nets,Hoodies,7,112,Finals,784
+Luka Dončić,Nets,T-Shirts,2,212,Finals,424
+Jayson Tatum,Warriors,Collectibles,3,241,None,723
+Giannis Antetokounmpo,Warriors,Footwear,1,79,All-Star Weekend,79
+Stephen Curry,Suns,Hats,7,197,Playoffs,1379
+Jayson Tatum,Nuggets,Collectibles,4,214,Finals,856
+Stephen Curry,Warriors,Collectibles,3,240,Playoffs,720
+Luka Dončić,Bucks,Footwear,5,203,None,1015
+Jayson Tatum,Celtics,Hats,1,186,All-Star Weekend,186
+Giannis Antetokounmpo,Nuggets,Collectibles,7,106,MVP Run,742
+Giannis Antetokounmpo,Nets,T-Shirts,6,92,MVP Run,552
+LeBron James,Mavericks,Hoodies,6,81,All-Star Weekend,486
+Stephen Curry,Suns,Collectibles,4,154,None,616
+Giannis Antetokounmpo,Nets,Jerseys,1,213,None,213
+LeBron James,Suns,Collectibles,6,146,All-Star Weekend,876
+Stephen Curry,Bulls,T-Shirts,4,173,Finals,692
+Stephen Curry,76ers,T-Shirts,3,172,All-Star Weekend,516
+Jimmy Butler,Heat,Hoodies,1,211,Finals,211
+Stephen Curry,Warriors,T-Shirts,5,204,Playoffs,1020
+LeBron James,Nuggets,Footwear,1,85,All-Star Weekend,85
+Kevin Durant,Mavericks,Hoodies,2,110,MVP Run,220
+Kevin Durant,Lakers,Jerseys,7,119,All-Star Weekend,833
+Kevin Durant,Celtics,Collectibles,5,180,Finals,900
+Kevin Durant,Celtics,Hoodies,3,84,All-Star Weekend,252
+Giannis Antetokounmpo,Nuggets,Footwear,2,137,Playoffs,274
+Giannis Antetokounmpo,Raptors,Collectibles,4,134,MVP Run,536
